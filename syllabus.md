@@ -42,13 +42,13 @@ We will design and create our products individually, but meet in small groups to
 By the successful completion of this course, students will be able, at *an introductory level,* to:
 
 1. Think critically about the designed object and learn to reflect this thinking in their own designs.
-1. Create documentation justifying their designs.
-2. Create and modify the possible interfaces between the physical and digital.
-3. Use design research methodologies that require a playful and/or experimental approach to the design process.
-4. Use modern, user experience design practices.
-5. Gain proficiency in modeling, sketching, and prototyping.
-6. Pitch, present, and defend their work.
-7. Reflect on their own learning in posts on the Parsons Learning Portfolio.                                                                                                                                               
+2. Create documentation justifying their designs.
+3. Create and modify the possible interfaces between the physical and digital.
+4. Use design research methodologies that require a playful and/or experimental approach to the design process.
+5. Use modern, user experience design practices.
+6. Gain proficiency in modeling, sketching, and prototyping.
+7. Pitch, present, and defend their work.
+8. Reflect on their own learning in posts on the Parsons Learning Portfolio.                                                                                                                                               
 
 ## Weekly Outline
 
@@ -80,13 +80,14 @@ By the successful completion of this course, students will be able, at *an intro
 | **Week 15** 05/16 | Final Presentation                                                                                 |       |
 
 ## Assessable Tasks
-- *Pitch decks*. Students will produce documentation for their proposed designs.
-- *3 Sensors*. Students will create a circuit utilizing three different types of sensors.
-- *Good/Bad Review* and *Magazine Cover*. Studens will use playful design methodologies to brainstorm and polish their designs.
-- *User Journeys* and *Personas*. Students create user experience design documentation for their designs.
-- *Rapid Prototype*. Students use cardboard and paper prototyping to test their experience designs.
-- *PDP*. Students create "product description" web page mock-up for their design.
-- *Emerging Object*. Students create a *working* prototype of their design.
+- *Pitch decks*. Students will produce documentation for their proposed designs. (7)
+- *3 Sensors*. Students will create a circuit utilizing three different types of sensors. (3)
+- *Good/Bad Review* and *Magazine Cover*. Students will use playful design methodologies to brainstorm and polish their designs. (1 & 4)
+- *User Journeys* and *Personas*. Students create user experience design documentation for their designs. (2 & 5)
+- *Rapid Prototype*. Students use cardboard and paper prototyping to test their experience designs. (6)
+- *PDP*. Students create "product description" web page mock-up for their design. (2 & 7)
+- *Emerging Object*. Students create a *working* prototype of their design. (6)
+- *Learning Portfolio Reflection Post*. (8)
 
 ## Learning Portfolio
 
