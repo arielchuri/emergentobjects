@@ -1,3 +1,3 @@
-# Emerging Objects
+# Welcome
 
-Welcome to the emering objects git repository.
+Welcome to the emerging objects git repository.
