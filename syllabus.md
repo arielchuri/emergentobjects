@@ -118,7 +118,7 @@ This allows fellow students and faculty to access your portfolio.
 
 ## Links
 
-[are.na/emerging-objects](https://www.are.na/newschool/emerging-objects)
+[are.na/emergent-objects](https://www.are.na/newschool/emergent-objects)
 
 ## Required Readings
 
