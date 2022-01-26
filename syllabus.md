@@ -1,4 +1,4 @@
-# Emerging Objects
+# Emergent Objects
 
 Semester 2022, PUFY 1263
 CRN: 10657
