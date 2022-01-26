@@ -4,6 +4,6 @@ Imagine a section of a webpage that highlights two user reveiws or testimonials 
 
 You will write these reviews about a product of your own invention. You do not need to describe or name the product. In order to invent a product, imagin a our society in the future. This future society is either a *dystopia* or a *utopia*. Imagine the reasons that it is one or both of these things. Imagine a product that exists in that fictional society.
 
-![Universal Methods of Design - The Love Letter & The Breakup Letter](https://ebookcentral-proquest-com.libproxy.newschool.edu/lib/newschool/reader.action?docID=6039458&ppg=152)
+[Universal Methods of Design - The Love Letter & The Breakup Letter](https://ebookcentral-proquest-com.libproxy.newschool.edu/lib/newschool/reader.action?docID=6039458&ppg=152)
 
 ![Example of a review card from a website.](images/testimonial.png "Example")
