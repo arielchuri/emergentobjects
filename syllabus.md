@@ -61,18 +61,18 @@ By the successful completion of this course, students will be able, at *an intro
 |                   | *Order Supplies*                                                                                   |       |
 |                   | *Good/Bad Review*                                                                                  | 01/28 |
 | **Week 2** 01/31  | ONLINE                                                                                             |       |
-| **Week 3** 02/07  | *3 Sensors*                                                                                       | 02/10 |
+| **Week 3** 02/07  | *3 Sensors*                                                                                        | 02/10 |
 | **Week 4** 02/14  | *State Machine*                                                                                    | 02/25 |
 | 02/21             | PRESIDENT'S DAY                                                                                    |       |
 | **Week 5** 02/28  | *A/V Output*                                                                                       | 03/04 |
-| **Week 6** 03/07  | *Emerging Object Brainstorm*                                                                        | 03/11 |
+| **Week 6** 03/07  | *Emerging Object Brainstorm*                                                                       | 03/11 |
 | 03/14             | SPRING BREAK                                                                                       |       |
 | **Week 7** 03/21  | *Emering Object Pitch Deck*                                                                        | 04/01 |
 | **Week 8** 03/28  | ONLINE                                                                                             |       |
 |                   | Midterm Check-ins                                                                                  |       |
 | **Week 9** 04/04  | *Personas*                                                                                         | 04/08 |
 | **Week 10** 04/11 | *User Journeys*                                                                                    | 04/15 |
-| **Week 11** 04/18 | *Rapid Prototype*                                                                                  | 04/25 |
+| **Week 11** 04/18 | ONLINE *Rapid Prototype*                                                                           | 04/25 |
 | **Week 12** 04/25 | *Emerging Object*                                                                                  | 05/09 |
 | **Week 13** 05/02 | Working Session                                                                                    |       |
 | **Week 14** 05/09 | *Learning Portfolio Reflection Post*                                                               | 05/16 |
