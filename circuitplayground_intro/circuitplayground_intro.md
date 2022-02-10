@@ -24,4 +24,3 @@
 
 - Getting input from the real world.
 
-[pyatom.webm](pyatom.webm)
