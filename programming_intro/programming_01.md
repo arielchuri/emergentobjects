@@ -2,7 +2,7 @@ Programming Intro
 
 Here are some short videos you can review (use your Newschool log-in):
 - [Python for Non-Programmers](https://www.linkedin.com/learning/python-for-non-programmers/python-from-zero)
-- [Python for Stundents](https://www.linkedin.com/learning/python-for-students/python-for-students)
+- [Python for Students](https://www.linkedin.com/learning/python-for-students/python-for-students)
 
 # The development environment
 
