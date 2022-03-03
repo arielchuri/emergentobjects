@@ -1,6 +1,7 @@
 # State Machine
 
-Our object will likely have a variety of behaviors depending on the user's actions. Each set of behavior is a different *state* of our code. in lesson we will look at having different chunks of code running in different conditions.
+Our object will likely have a variety of behaviors depending on the user's actions. Each set of behavior is a different *state* of our code.
+In this lesson we will look at having different chunks of code running under different conditions.
 
 The final code in this series runs throught the following states:
 
