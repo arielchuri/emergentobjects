@@ -5,9 +5,13 @@ Our object will likely have a variety of behaviors depending on the user's actio
 The final code in this series runs throught the following states:
 
 1. Wait for a hard tap. When tapped, light an led and darken the previous led.
-1. 
+   If LED 0 lights up, change to the second state.
+1. Make LED 0 pink. 
+1. If the user touch pad A6, move on to the fourth state.
+1. Light up all of the Neopixels.
+1. Wait for the user to touch A6 to start over.
 
-```
+```python
 import time
 # I needed cp from this library for the detect_taps.
 # Because this library has neopixel built in I cannot import neopixel.
