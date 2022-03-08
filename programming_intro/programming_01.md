@@ -1,5 +1,7 @@
 Programming Intro
 
+[code](https://github.com/arielchuri/emergentobjects/tree/main/programming_intro)
+
 Here are some short videos you can review (use your Newschool log-in):
 - [Python for Non-Programmers](https://www.linkedin.com/learning/python-for-non-programmers/python-from-zero)
 - [Python for Students](https://www.linkedin.com/learning/python-for-students/python-for-students)
@@ -30,7 +32,7 @@ We are using the **Atom** text editor with the *script* package installed in ord
 - [Lists](https://www.linkedin.com/learning/python-for-non-programmers/lists)
 ## If
 - [Using If](https://www.linkedin.com/learning/python-for-students/using-if)
-## Else
+## Elif
 
 # Section 2
 

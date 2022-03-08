@@ -24,3 +24,5 @@
 
 - Getting input from the real world.
 
+- [Code](https://github.com/arielchuri/emergentobjects/tree/main/circuitplayground_intro)
+
