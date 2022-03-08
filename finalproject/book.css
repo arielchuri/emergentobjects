@@ -1,0 +1,213 @@
+* {
+  /* border: 1px solid lightgray; */
+}
+
+@font-face {
+  font-family: liberationsans;
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/LiberationSans-Regular.ttf);
+}
+@font-face {
+  font-family: liberationsans;
+  font-style: italic;
+  font-weight: 400;
+  src: url(fonts/LiberationSans-Italic.ttf);
+}
+@font-face {
+  font-family: liberationsans;
+  font-style: normal;
+  font-weight: 700;
+  src: url(fonts/LiberationSans-Bold.ttf);
+}
+@font-face {
+  font-family: liberationsans;
+  font-style: italic;
+  font-weight: 700;
+  src: url(fonts/LiberationSans-BoldItalic.ttf);
+}
+
+@font-face {
+  font-family: liberationserif;
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/LiberationSerif-Regular.ttf);
+}
+@font-face {
+  font-family: liberationserif;
+  font-style: italic;
+  font-weight: 400;
+  src: url(fonts/LiberationSerif-Italic.ttf);
+}
+@font-face {
+  font-family: liberationserif;
+  font-style: normal;
+  font-weight: 700;
+  src: url(fonts/LiberationSerif-Bold.ttf);
+}
+@font-face {
+  font-family: liberationserif;
+  font-style: italic;
+  font-weight: 700;
+  src: url(fonts/LiberationSerif-BoldItalic.ttf);
+}
+
+@font-face {
+  font-family: liberationmono;
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/LiberationMono-Regular.ttf);
+}
+@font-face {
+  font-family: liberationmono;
+  font-style: italic;
+  font-weight: 400;
+  src: url(fonts/LiberationMono-Italic.ttf);
+}
+@font-face {
+  font-family: liberationmono;
+  font-style: normal;
+  font-weight: 700;
+  src: url(fonts/LiberationMono-Bold.ttf);
+}
+@font-face {
+  font-family: liberationmono;
+  font-style: italic;
+  font-weight: 700;
+  src: url(fonts/LiberationMono-BoldItalic.ttf);
+}
+
+
+/* @font-face { */
+/*   font-family: 'Sebaldus-Gotisch'; */
+/*   src: url('fonts/Sebaldus-Gotisch.ttf') format('truetype'); */
+/*   font-weight: normal; */
+/* } */
+
+.colstwo {
+  column-count: 2;
+}
+
+html {
+  color: black;
+  counter-reset: h2-counter;
+  font-size: 10pt;
+  font-family: 'liberationsans', sans-serif;
+}
+body {
+  margin: 0;
+}
+
+p {
+  margin-top: 0px;
+  line-height: 1.3;
+  text-align: justify;
+}
+img {
+  display: block;
+  max-width: 100%;
+  margin-bottom: 2rem;
+}
+
+h1 {
+  display: none;
+}
+section {
+  break-after: always;
+}
+
+.clean {
+  page: clean;
+}
+
+img.background {
+  top: -.375in;
+  height: 8.75in;
+  left: -.375in;
+  margin: 0;
+  max-width: none;
+  object-fit: cover;
+  /* page: full; */
+  position: absolute;
+  width: 5.75in;
+  z-index: -1;
+}
+#contents p {
+  font-size: 2em;
+}
+#contents ul {
+  display: block;
+  margin: 1em 0;
+  padding: 0;
+}
+#contents li {
+  display: block;
+}
+#contents a {
+  color: inherit;
+}
+#contents a::before {
+  /* content: target-counter(attr(href), h2-counter) '. ' target-text(attr(href)); */
+}
+#contents a::after {
+  content: target-counter(attr(href), page);
+  float: right;
+}
+
+thead {
+  border-bottom: 1px solid gray;
+}
+
+tr {
+  border-bottom: .5px solid gray;
+}
+
+code, kbd, src, pre {
+  font-family: liberationmono, monospace;
+}
+
+@media print {
+#contents a {
+  text-decoration: none;
+}
+}
+
+@media screen {
+  body {
+    background: gray;
+  }
+  section {
+    font-size: 1.1rem;
+    width: 8.5in;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: .5in .5in .75in .5in;
+    background: white;
+    z-index: -1;
+  }
+  .blank {
+    display: none;
+  }
+  .background {
+    box-sizing: border-box;
+    height: 8.5in;
+    width: 5.5in;
+    position: relative;
+  }
+  .background img{
+    left: 0;
+    margin: 0;
+    margin-top: -.375in;
+    margin-left: -.125in;
+    /* width: 5.75in; */
+    /* height: 8.75in; */
+    /*! max-width: none; */
+    object-fit: cover;
+    page: full;
+    position: absolute;
+    z-index: 0;
+    clip: rect(.125in, 5.625in, 8.625in, .125in)
+  }
+}
+}
