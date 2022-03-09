@@ -19,60 +19,69 @@ This document describes the deliverables required for the documentation of the *
 ### To do list
 - &#9634 Inspiration Board
 - &#9634 Proposal Document
+- &#9634 Sketch
 - &#9634 Functional Diagram
+- &#9634 Psuedo-code
 - &#9634 Mechanical Drawing
 - &#9634 Bill of Materials
-- &#9634 Psuedo-code
 - &#9634 Code
 - &#9634 Documentation post (*Learning Portfolio*)
 
-```
-    here is *some* code
-```
 </section>
 <section markdown="1">
-![](images/eo01c.jpg)
+## Process Diagram
+![](images/process.png)
+</section>
+<section markdown="1">
+![](images/inspiration.png)
 ## Inspiration Board
 
+Create a board using [Miro](https://miro.com) and layout a collection of images and links.
+Use this board as a place to both, help design the look and feel of the object you want to create, and collate inspirational or similar projects that you find in your research.
+
+Include at least 20 images and links to at least 5 specific projects
+
 </section>
 <section markdown="1">
-![](images/eo01c.jpg)
+![](images/document.png){: .border}
 ## Proposal Document
 
-</section>
-<section markdown="1">
-![](images/eo01c.jpg)
-## Functional Diagram
+Create a single page document describing what you will make. Include a description of the object
 
 </section>
-<section markdown="1">
-![](images/eo01c.jpg)
-## Mechanical Drawing
+<!-- <section markdown="1"> -->
+<!-- ![](images/eo01c.jpg) -->
+<!-- ## Functional Diagram -->
 
-</section>
-<section markdown="1">
-![](images/eo01c.jpg)
-## Bill of Materials
+<!-- </section> -->
+<!-- <section markdown="1"> -->
+<!-- ![](images/eo01c.jpg) -->
+<!-- ## Mechanical Drawing -->
 
-</section>
-<section markdown="1">
-![](images/eo01c.jpg)
-## Psuedo-code
+<!-- </section> -->
+<!-- <section markdown="1"> -->
+<!-- ![](images/eo01c.jpg) -->
+<!-- ## Bill of Materials -->
 
-</section>
-<section markdown="1">
-![](images/eo01c.jpg)
-## Code
+<!-- </section> -->
+<!-- <section markdown="1"> -->
+<!-- ![](images/eo01c.jpg) -->
+<!-- ## Psuedo-code -->
 
-</section>
-<section markdown="1">
-![](images/eo01c.jpg)
-## Product One-Sheet
+<!-- </section> -->
+<!-- <section markdown="1"> -->
+<!-- ![](images/eo01c.jpg) -->
+<!-- ## Code -->
 
-</section>
-<section markdown="1">
-![](images/eo01c.jpg)
-## Documentation Post
+<!-- </section> -->
+<!-- <section markdown="1"> -->
+<!-- ![](images/eo01c.jpg) -->
+<!-- ## Product One-Sheet -->
+
+<!-- </section> -->
+<!-- <section markdown="1"> -->
+<!-- ![](images/eo01c.jpg) -->
+<!-- ## Documentation Post -->
 
 </body>
 </html>
