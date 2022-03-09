@@ -30,7 +30,7 @@ This document describes the deliverables required for the documentation of the *
 </section>
 <section markdown="1">
 ## Process Diagram
-![](images/process.png)
+![](images/process.svg)
 </section>
 <section markdown="1">
 ![](images/inspiration.png)
