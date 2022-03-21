@@ -1,0 +1,71 @@
+@page {
+  margin: .5in .5in .75in .5in;
+  size: 8.5in 11in;
+}
+
+h1 {
+  string-set:doctitle content(first-letter);
+}
+
+@page :left {
+  @bottom-left {
+    content: "Soldering";
+    position: absolute;
+    z-index: -1;
+  }
+  @bottom-center {
+  }
+  @bottom-right {
+    content: "Emergent Object";
+    position: absolute;
+    z-index: -1;
+  }
+}
+
+@page :right {
+  @bottom-left {
+    content: "Emergent Object";
+    /* content: string(heading); */
+    position: absolute;
+    z-index: -1;
+  }
+  @bottom-center {
+  }
+  @bottom-right {
+    content: "Soldering";
+    position: absolute;
+    z-index: -1;
+  }
+}
+
+@page full {
+  @bottom-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+
+  margin: 0;
+}
+
+@page :blank {
+  @bottom-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+}
+
+@page clean {
+  @bottom-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+}
