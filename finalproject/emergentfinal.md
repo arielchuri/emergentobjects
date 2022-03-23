@@ -37,29 +37,6 @@ This document describes the process and the first two deliverables required for 
 </section>
 <section markdown="1">
 
-## Process Diagram
-![](images/process.png)
-
-This diagram shows the relationship of the deliverables to the overall phases of the project. Please note that most of the deliverables take place in the beginning of the project.
-
-[Direct link to diagram](https://arielchuri.github.io/emergentobjects/finalproject/images/process.png)
-</section>
-<section markdown="1">
-
-![](images/inspiration.png)
-## Inspiration Board
-
-Create a board using [Miro](https://miro.com) and layout a collection of images and links.
-Use this board as a place to both, help design the look and feel of the object you want to create, and collate inspirational or similar projects that you find in your research.
-You will post a link to your board to Canvas but please share a link with me at [churia@newschool](mailto:churia@newschool.edu) as soon as you have a few items inserted.
-
-Include at least 20 images and links to at least 5 specific projects.
-
-[Pictured Miro board](https://miro.com/app/board/uXjVOGnSf2I=/?invite_link_id=927030846115)
-
-</section>
-<section markdown="1">
-
 ![](images/document.png){: .border}
 ## Proposal Document
 
@@ -78,6 +55,29 @@ Include:
 - Any concerns you have about the creation of this object.
 - Any links you have to similar works.
 
+</section>
+<section markdown="1">
+
+![](images/inspiration.png)
+## Inspiration Board
+
+Create a board using [Miro](https://miro.com) and layout a collection of images and links.
+Use this board as a place to both, help design the look and feel of the object you want to create, and collate inspirational or similar projects that you find in your research.
+You will post a link to your board to Canvas but please share a link with me at [churia@newschool](mailto:churia@newschool.edu) as soon as you have a few items inserted.
+
+Include at least 20 images and links to at least 5 specific projects.
+
+[Pictured Miro board](https://miro.com/app/board/uXjVOGnSf2I=/?invite_link_id=927030846115)
+
+</section>
+<section markdown="1">
+
+## Process Diagram
+![](images/process.png)
+
+This diagram shows the relationship of the deliverables to the overall phases of the project. Please note that most of the deliverables take place in the beginning of the project.
+
+[Direct link to diagram](https://arielchuri.github.io/emergentobjects/finalproject/images/process.png)
 </section>
 <!-- <section markdown="1"> -->
 <!-- ![](images/eo01c.jpg) -->
