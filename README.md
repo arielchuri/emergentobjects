@@ -10,10 +10,11 @@ Welcome to the [*emerging objects* git repository](https://github.com/arielchuri
 
 [Analog In](analogin/analogin.md)
 
-[Soldering Intro](soldering/soldering.html) ([pdf](soldering/soldering.pdf))
+[Soldering Intro](arielchuri.github.io/emergentobjects/soldering/soldering.html) ([pdf](soldering/soldering.pdf))
 
 ## Final Project
 
 [emergentfinal.html](arielchuri.github.io/emergentobjects/finalproject/emergentfinal.html)
 
 [emergentfinal.pdf](finalproject/emergentfinal.pdf)
+[emergentfinal.pdf](arielchuri.github.io/emergentobjects/finalproject/emergentfinal.pdf)
