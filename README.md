@@ -12,6 +12,8 @@ Welcome to the [*emerging objects* git repository](https://github.com/arielchuri
 
 [Soldering Intro](arielchuri.github.io/emergentobjects/soldering/soldering.html) ([pdf](soldering/soldering.pdf))
 
+[Acrylic](acrylic/acrylic.md)
+
 ## Final Project
 
 [emergentfinal.html](arielchuri.github.io/emergentobjects/finalproject/emergentfinal.html)
