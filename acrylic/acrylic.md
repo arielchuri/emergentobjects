@@ -4,6 +4,8 @@ Extruded acrylic sheets are the most common for crafting.
 
 [Basics Video](https://www.youtube.com/watch?v=TWAMdmJPdhg)
 
+[Tips & Tricks Video]([10 tips &amp; tricks PLEXIGLASS working HOMEMADE - YouTube](https://www.youtube.com/watch?v=VAi879kLA34))
+
 ## Welding acrylic
 
 - Acrylic welding cement is a solvent which melts two pieces of acrylic together.
