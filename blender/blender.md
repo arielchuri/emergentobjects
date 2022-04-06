@@ -30,3 +30,4 @@ Blender allows many options to create 3d objects. The objects can be rendered fo
 - [Creating with lathe](https://www.youtube.com/watch?v=YFX7iqfqJaU)
 - [Extruding](https://www.youtube.com/watch?v=oF1UbZGtjrY)
 - [Extrude along path](https://www.youtube.com/watch?v=31rhH3FM9-c)
+- [Linkedin Learning](https://www.linkedin.com/learning/blender-3-essential-training/introducing-blender-3-0-for-beginners)

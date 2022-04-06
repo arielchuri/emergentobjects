@@ -21,4 +21,3 @@ Welcome to the [*emerging objects* git repository](https://github.com/arielchuri
 [emergentfinal.html](arielchuri.github.io/emergentobjects/finalproject/emergentfinal.html)
 
 [emergentfinal.pdf](finalproject/emergentfinal.pdf)
-[emergentfinal.pdf](arielchuri.github.io/emergentobjects/finalproject/emergentfinal.pdf)
