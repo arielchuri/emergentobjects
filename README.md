@@ -14,6 +14,8 @@ Welcome to the [*emerging objects* git repository](https://github.com/arielchuri
 
 [Acrylic](acrylic/acrylic.md)
 
+[Blender](blender/blender.md)
+
 ## Final Project
 
 [emergentfinal.html](arielchuri.github.io/emergentobjects/finalproject/emergentfinal.html)
