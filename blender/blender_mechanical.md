@@ -64,7 +64,7 @@ Click on the XYZ view tool switch to an orthogonal view. Press **G** to *grab* a
 
 ![Screenshot_20220417_100650.png](Screenshot_20220417_100650.png)
 
-## Measurelt (optional)
+## Measurelt (extra credit)
 
 The measurelt add-on can be turned on in the preferences. The documentation is available from there as well. 
 
@@ -73,3 +73,9 @@ You can use this tool to create measurement annotation lines.
 ![Screenshot_20220417_083618.png](Screenshot_20220417_083618.png)
 
 ![Screenshot_20220417_205357.png](Screenshot_20220417_205357.png)
+
+## Cut a design (extra credit)
+
+Bring a design in as an SVG and use it to cut decorative holes in one of the walls.
+
+One way to do this is to bring the design in to Blender, extrude it, and then boolean out of the wall.
