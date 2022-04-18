@@ -16,6 +16,8 @@ Welcome to the [*emerging objects* git repository](https://github.com/arielchuri
 
 [Blender](blender/blender.md)
 
+[Blender Mechanical Drawing](blender/blender_mechanical.md)
+
 ## Final Project
 
 [emergentfinal.html](arielchuri.github.io/emergentobjects/finalproject/emergentfinal.html)
