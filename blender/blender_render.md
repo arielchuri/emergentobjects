@@ -22,3 +22,5 @@ You can now render the image from the *Render* menu. Many more effects are possi
 Try adding some lights.
 
 ![](render.png)
+
+This file is [moodlight.blend](moodlight.blend).
