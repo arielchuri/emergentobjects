@@ -19,6 +19,6 @@ Select an HDR image to use for the environment.
 ![](render/Screenshot_20220507_190951.png)
 
 You can now render the image from the *Render* menu. Many more effects are possible by creating lights in your environment.
+Try adding some lights.
 
 ![](render.png)
-\nTry adding some lights.
