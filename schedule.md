@@ -7,10 +7,11 @@
   - Course content
     - Prototyping
     - Electronics
-    - Programming microcontrollers
+    - Programming micro-controllers
     - Fabrication
     - Testing
  - Course format
+ - Final Project
  - Materials
  - Workshops
  - Grading
@@ -21,3 +22,10 @@
  - Laser Cutter orientation
  - 3D Printer orientation
  - Intro to Python
+## Week 2
+### Materials
+- Rapid prototyping supplies
+## Week 3
+### Materials
+- Rapid prototyping supplies
+- Microcontroller & cable
