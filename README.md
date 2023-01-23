@@ -2,6 +2,8 @@
 
 Welcome to the [*emerging objects* git repository](https://github.com/arielchuri/emergentobjects).
 
+[Syllabus](https://github.com/arielchuri/emergentobjects/blob/main/syllabus.md)
+
 [Electricity Intro](electricity_intro/electricity_intro.md)
 
 [Circuit Playgound Intro](circuitplayground_intro/circuitplayground_intro.md)
