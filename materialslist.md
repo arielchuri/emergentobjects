@@ -1,11 +1,29 @@
 # Materials List
 
+## Rapid Prototyping
+
+- Black, permanent marker
+- Post-Its
+- Masking tape
+- Cutting board
+- Cardboard
+- Utility knife
+
 ## Microcontroller
 - [Adafruit Circuit Playground Express](https://learn.adafruit.com/adafruit-circuit-playground-express/overview) $24.95
 
 Adafruit has these back in stock and I have some as well that I can bring to class if you ask.
 
 ## Basic Electronics Kit
+
+- Solderless breadboard
+- Jumper wires
+- LED
+- Potentiometer
+- 1 100-220 ohm resistors
+- 2 10k ohm resistors
+- Push button
+
 - [Discover Electronics Kit](http://sparklelabs.com/index_store.php) $46.75 - I made these and can bring them into class on the 7th.
 - [Make Electronics Kit](https://www.amazon.com/Make-Electronics-Intermediate-Component-Experiments/dp/B09HL84X33/) $117.99 - Includes a Multitester and soldering iron.
 

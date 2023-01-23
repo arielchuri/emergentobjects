@@ -57,11 +57,10 @@ By the successful completion of this course, students will be able, at *an intro
 
 | week + date       | Activity                                                                                           | Due   |
 |-------------------|----------------------------------------------------------------------------------------------------|-------|
-| **Week 1** 01/23  | ONLINE                                                                                             |       |
-|                   | Class community agreements, expectations on attendance and communication, Canvas site walkthrough. |       |
-|                   | *Order Supplies*                                                                                   |       |
-|                   | *Good/Bad Review*                                                                                  | 01/28 |
-| **Week 2** 01/30  | ONLINE                                                                                             |       |
+| **Week 1** 01/23  | Class community agreements, expectations on attendance and communication, Canvas site walkthrough. |       |
+|                   | *Acquire Supplies*, *About myself and my Favorite Device*,                                         |       |
+|                   | *Lab Orientations*, *Intro to Python*                                                              |       |
+| **Week 2** 01/30  |                                                                                                    |       |
 | **Week 3** 02/06  | *3 Sensors*                                                                                        | 02/10 |
 | **Week 4** 02/13  | *State Machine*                                                                                    | 02/25 |
 | 02/20             | PRESIDENT'S DAY                                                                                    |       |
@@ -69,8 +68,6 @@ By the successful completion of this course, students will be able, at *an intro
 | **Week 6** 03/06  | *Emerging Object Brainstorm*                                                                       | 03/11 |
 | 03/13             | SPRING BREAK                                                                                       |       |
 | **Week 7** 03/20  | Soldering                                                                                          |       |
-|                   | *FINAL: Moodboard*                                                                                 | 03/28 |
-|                   | *FINAL: Proposal Document*                                                                         | 03/31 |
 |                   | *Moodlight*                                                                                        | 04/11 |
 | **Week 8** 03/27  |                                                                                                    |       |
 |                   | Midterm Check-ins                                                                                  |       |
