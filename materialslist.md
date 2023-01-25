@@ -11,8 +11,8 @@
 
 ## Microcontroller
 - [Adafruit Circuit Playground Express](https://learn.adafruit.com/adafruit-circuit-playground-express/overview) $24.95
-- Arduino
-- Raspberry Pi Pico
+- [Arduino](https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us)
+- [Raspberry Pi Pico](https://www.adafruit.com/product/5525)
 
 Adafruit has these back in stock and I have some as well that I can bring to class if you ask.
 
@@ -55,3 +55,5 @@ This is a list of some materials you may need depending on the object you want t
 - Sewable battery holder
 - Casting and molding compounds
 - Modeling clay
+
+[Making Center Tool List](https://drive.google.com/file/d/1dF-RaKN6y5C2Pp43RNqfa-ncEDPiNYUA/view?usp=sharing)

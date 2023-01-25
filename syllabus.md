@@ -55,30 +55,32 @@ By the successful completion of this course, students will be able, at *an intro
 
 **Course Format**
 
-| week + date       | Activity                                                                                           | Due   |
-|-------------------|----------------------------------------------------------------------------------------------------|-------|
-| **Week 1** 01/23  | Class community agreements, expectations on attendance and communication, Canvas site walkthrough. |       |
-|                   | *Acquire Supplies*, *About myself and my Favorite Device*,                                         |       |
-|                   | *Lab Orientations*, *Intro to Python*                                                              |       |
-| **Week 2** 01/30  |                                                                                                    |       |
-| **Week 3** 02/06  | *3 Sensors*                                                                                        | 02/10 |
-| **Week 4** 02/13  | *State Machine*                                                                                    | 02/25 |
-| 02/20             | PRESIDENT'S DAY                                                                                    |       |
-| **Week 5** 02/27  | *A/V Output*                                                                                       | 03/04 |
-| **Week 6** 03/06  | *Emerging Object Brainstorm*                                                                       | 03/11 |
-| 03/13             | SPRING BREAK                                                                                       |       |
-| **Week 7** 03/20  | Soldering                                                                                          |       |
-|                   | *Moodlight*                                                                                        | 04/11 |
-| **Week 8** 03/27  |                                                                                                    |       |
-|                   | Midterm Check-ins                                                                                  |       |
-| **Week 9** 04/03  | *Personas*                                                                                         | 04/08 |
-| **Week 10** 04/10 | *User Journeys*                                                                                    | 04/15 |
-| **Week 11** 04/17 | ONLINE *Rapid Prototype*                                                                           | 04/25 |
-| **Week 12** 04/24 | *Emerging Object*                                                                                  | 05/09 |
-| **Week 13** 05/01 | Working Session                                                                                    |       |
-| **Week 14** 05/08 | *Learning Portfolio Reflection Post*                                                               | 05/16 |
-|                   | *PDP*                                                                                              | 05/16 |
-| **Week 15** 05/15 | Final Presentation                                                                                 |       |
+| week + date       | Activity                                                   | Due   |
+|-------------------|------------------------------------------------------------|-------|
+| **Week 1** 01/23  | Class community agreements,                                |       |
+|                   | expectations on attendance and communication,              |       |
+|                   | Canvas site walkthrough.                                   |       |
+|                   | *Acquire Supplies*, *About myself and my Favorite Device*, |       |
+|                   | *Lab Orientations*, *Intro to Python*                      |       |
+| **Week 2** 01/30  |                                                            |       |
+| **Week 3** 02/06  | *3 Sensors*                                                | 02/10 |
+| **Week 4** 02/13  | *State Machine*                                            | 02/25 |
+| 02/20             | PRESIDENT'S DAY                                            |       |
+| **Week 5** 02/27  | *A/V Output*                                               | 03/04 |
+| **Week 6** 03/06  | *Emerging Object Brainstorm*                               | 03/11 |
+| 03/13             | SPRING BREAK                                               |       |
+| **Week 7** 03/20  | Soldering                                                  |       |
+|                   | *Moodlight*                                                | 04/11 |
+| **Week 8** 03/27  |                                                            |       |
+|                   | Midterm Check-ins                                          |       |
+| **Week 9** 04/03  | *Personas*                                                 | 04/08 |
+| **Week 10** 04/10 | *User Journeys*                                            | 04/15 |
+| **Week 11** 04/17 | ONLINE *Rapid Prototype*                                   | 04/25 |
+| **Week 12** 04/24 | *Emerging Object*                                          | 05/09 |
+| **Week 13** 05/01 | Working Session                                            |       |
+| **Week 14** 05/08 | *Learning Portfolio Reflection Post*                       | 05/16 |
+|                   | *PDP*                                                      | 05/16 |
+| **Week 15** 05/15 | Final Presentation                                         |       |
 
 ## Assessable Tasks
 - *Pitch decks*. Students will produce documentation for their proposed designs. (7)
