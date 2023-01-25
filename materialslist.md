@@ -28,7 +28,7 @@ Adafruit has these back in stock and I have some as well that I can bring to cla
 
 ### Examples of premade kits
 
-- [Discover Electronics Kit](http://sparklelabs.com/index_store.php) $46.75 - I made these and can bring them into class on the 7th.
+- [Discover Electronics Kit](http://sparklelabs.com/index_store.php) $46.75 - I make these.
 - [Make Electronics Kit](https://www.amazon.com/Make-Electronics-Intermediate-Component-Experiments/dp/B09HL84X33/) $117.99 - Includes a Multitester and soldering iron.
 
 These two are the most barebones I could find on amazon. The quality maybe low but they should be good enough.
