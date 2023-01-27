@@ -10,15 +10,13 @@ Monday, 12:10pm - 2:50pm
 
 Parsons 2 W 13th, Room: 702
 
-[Canvas Site: https://canvas.newschool.edu/courses/1620880](https://canvas.newschool.edu/courses/1620880)
-
 Instructor: Ariel Churi
 
 E-mail: churia@newschool.edu
 
 Office Hours: By appointment [(zoom link)](https://newschool.zoom.us/s/99071708062?pwd=aDEydXh5UGdNWDBjRnN2T3lWMVVLdz09)
 
-## Course Description
+### Course Description
 
 Program, fabricate, and document electronic objects and build a better future.
 Gain an understanding of tactile, human-computer interfaces by producing evocative and functional devices of your own design.
@@ -38,7 +36,7 @@ User testing and documentation are a vital step in the creation of complex objec
 
 We will design and create our products individually, but meet in small groups to critique each other's work. Bi-weekly technical lectures will be supported by short learning assignments to be completed in pairs.
 
-## Learning Outcomes
+### Learning Outcomes
 
 By the successful completion of this course, students will be able, at *an introductory level,* to:
 
@@ -46,53 +44,52 @@ By the successful completion of this course, students will be able, at *an intro
 2. Create documentation justifying their designs.
 3. Create and modify the possible interfaces between the physical and digital.
 4. Use design research methodologies that require a playful and/or experimental approach to the design process.
-5. Use modern, user experience design practices.
-6. Gain proficiency in modeling, sketching, and prototyping.
-7. Pitch, present, and defend their work.
-8. Reflect on their own learning in posts on the Parsons Learning Portfolio.                                                                                                                                               
+5. Gain proficiency in modeling, sketching, and prototyping.
+6. Pitch, present, and defend their work.
+7. Reflect on their own learning in posts on the Parsons Learning Portfolio.                                                                                                                                               
 
-## Weekly Outline
+### Weekly Outline
 
 **Course Format**
 
-| week + date       | Activity                                                   | Due   |
-|-------------------|------------------------------------------------------------|-------|
-| **Week 1** 01/23  | Class community agreements,                                |       |
-|                   | expectations on attendance and communication,              |       |
-|                   | Canvas site walkthrough.                                   |       |
-|                   | *Acquire Supplies*, *About myself and my Favorite Device*, |       |
-|                   | *Lab Orientations*, *Intro to Python*                      |       |
-| **Week 2** 01/30  |                                                            |       |
-| **Week 3** 02/06  | *3 Sensors*                                                | 02/10 |
-| **Week 4** 02/13  | *State Machine*                                            | 02/25 |
-| 02/20             | PRESIDENT'S DAY                                            |       |
-| **Week 5** 02/27  | *A/V Output*                                               | 03/04 |
-| **Week 6** 03/06  | *Emerging Object Brainstorm*                               | 03/11 |
-| 03/13             | SPRING BREAK                                               |       |
-| **Week 7** 03/20  | Soldering                                                  |       |
-|                   | *Moodlight*                                                | 04/11 |
-| **Week 8** 03/27  |                                                            |       |
-|                   | Midterm Check-ins                                          |       |
-| **Week 9** 04/03  | *Personas*                                                 | 04/08 |
-| **Week 10** 04/10 | *User Journeys*                                            | 04/15 |
-| **Week 11** 04/17 | ONLINE *Rapid Prototype*                                   | 04/25 |
-| **Week 12** 04/24 | *Emerging Object*                                          | 05/09 |
-| **Week 13** 05/01 | Working Session                                            |       |
-| **Week 14** 05/08 | *Learning Portfolio Reflection Post*                       | 05/16 |
-|                   | *PDP*                                                      | 05/16 |
-| **Week 15** 05/15 | Final Presentation                                         |       |
+| week + date       | Activity                                                   | Due |
+| ----------------- | ---------------------------------------------------------- | --- |
+| **Week 1** 01/23  | Class community agreements,                                |     |
+|                   | expectations on attendance and communication,              |     |
+|                   | Canvas site walkthrough.                                   |     |
+|                   | *Acquire Supplies*, *About myself and my Favorite Device*, |     |
+|                   | *Lab Orientations*, *Intro to Python*                      |     |
+| **Week 2** 01/30  | *Python Looping*                                           |     |
+| **Week 3** 02/06  | *Python "Hello, world."*                                   |     |
+| **Week 4** 02/13  | *Hello, electricity*, Lab Orientations are complete        |     |
+| 02/20             | PRESIDENT'S DAY                                            |     |
+| **Week 5** 02/27  | *Simple Cube 3D Model*                                     |     |
+| **Week 6** 03/06  | *Simple Cube Render*, *Simle Cube 2D Pattern*              |     |
+| 03/13             | SPRING BREAK                                               |     |
+| **Week 7** 03/20  | *Simple Cube Fabrication*, Soldering                       |     |
+|                   | *Moodlight*                                                |     |
+| **Week 8** 03/27  | Midterm Check-ins                                          |     |
+| **Week 9** 04/03  | *Pitch Deck*                                               |     |
+| **Week 10** 04/10 | *BOM*, *Schematic*                                         |     |
+| **Week 11** 04/17 | *Rapid Prototype*                                          |     |
+| **Week 12** 04/24 | Working Session                                            |     |
+| **Week 13** 05/01 | Working Session                                            |     |
+| **Week 14** 05/08 | *Learning Portfolio Reflection Post*                       |     |
+|                   | *PDP*                                                      |     |
+| **Week 15** 05/15 | *Emerging Object*                                          |     |
 
-## Assessable Tasks
-- *Pitch decks*. Students will produce documentation for their proposed designs. (7)
-- *3 Sensors*. Students will create a circuit utilizing three different types of sensors. (3)
-- *Good/Bad Review* and *Magazine Cover*. Students will use playful design methodologies to brainstorm and polish their designs. (1 & 4)
-- *User Journeys* and *Personas*. Students create user experience design documentation for their designs. (2 & 5)
-- *Rapid Prototype*. Students use cardboard and paper prototyping to test their experience designs. (6)
+### Assessable Tasks
+
+- *Pitch decks*. Students will produce documentation for their proposed designs.
+- *Hello, world*. Students will create a Python application utilizing inputs and outputs.
+- *Hello, electricity*. Students will create a circuit utilizing 2 inputs and 1 output.
+- *Mood Light*. Create a box light from 3D model, to 2D pattern, to fabrication.
+- *Rapid Prototype*. Students use cardboard and paper prototyping in a series of in-class exercises.
 - *PDP*. Students create "product description" web page mock-up for their design. (2 & 7)
-- *Emerging Object*. Students create a *working* prototype of their design. (6)
-- *Learning Portfolio Reflection Post*. (8)
+- *Emerging Object*. Students create a *working* device.
+- *Learning Portfolio Reflection Post*. 
 
-## Learning Portfolio
+### Learning Portfolio
 
 You will use the Parsons Learning Portfolio throughout your education at
 Parsons. It is an ongoing, cumulative repository for your creative
@@ -119,15 +116,15 @@ your**[**
 Bio***](http://guides.instructure.com/m/4212/l/75098?data-resolve-url=true&data-manual-id=4212)**.**
 This allows fellow students and faculty to access your portfolio.
 
-## Links
+### Links
 
 [are.na/emergent-objects](https://www.are.na/newschool/emergent-objects)
 
-## Required Readings
+### Required Readings
 
-[Reading list](./readinglist.md)
+[Reading list](https://github.com/arielchuri/emergentobjects/blob/main/readinglist.md)
 
-## Materials and Supplies
+### Materials and Supplies
 
 Please note that there are materials costs associated with this studio
 course and you should expect to purchase up to \$50 on supplies. The
@@ -139,7 +136,7 @@ materials kit items on the First Year advising page:[
 
 [](http://www.newschool.edu/parsons/academic-advising-first-year-students/)
 
-[Materials list](./materialslist.md)
+[Materials list](https://github.com/arielchuri/emergentobjects/blob/main/materialslist.md)
 
 [Making Center Tool List](https://drive.google.com/file/d/1dF-RaKN6y5C2Pp43RNqfa-ncEDPiNYUA/view?usp=sharing)
 
@@ -151,22 +148,22 @@ materials kit items on the First Year advising page:[
   We can’t be articulate all the time & will make mistakes: As much as we’d like, we just can’t. Often people feel hesitant to participate in a workshop or meeting or express ones comments for fear of “messing up” or stumbling over their words. We want everyone to feel comfortable participating, even if you can’t be as articulate as you’d like. We have the opportunity to use several way to communicate; Canvas, in-person, and Zoom. We will use all three in this class when needed.
 - Take care of yourself and each other.
 
-## Grading and Evaluation
+### Grading and Evaluation
 
 Students' ability to meet the course's learning outcomes will be evaluated based on the following criteria:
 
--   Attend regularly and communicate any challenge or absences to their faculty
--   Solve problems, both creative and technical through an iterative process
--   Turn in project assignments and course material on time
--   Document their research in the development of projects
--   Describe the the cross-course exploration between the Studio and Seminar
--   Participate in class discussions and critiques
--   Be accountable in collaborative work
--   Improve in technical, creative, and problem solving abilities
--   Submit thoughtful studio works that have undertaken several stages
-    of ideation.
+- Attend regularly and communicate any challenge or absences to their faculty
+- Solve problems, both creative and technical through an iterative process
+- Turn in project assignments and course material on time
+- Document their research in the development of projects
+- Describe the the cross-course exploration between the Studio and Seminar
+- Participate in class discussions and critiques
+- Be accountable in collaborative work
+- Improve in technical, creative, and problem solving abilities
+- Submit thoughtful studio works that have undertaken several stages
+  of ideation.
 
-### About Attendance and Grading
+#### About Attendance and Grading
 
 Your final grade will be calculated based on class participation (40%
 total) and projects (60% total). The following grade calculation
@@ -184,7 +181,7 @@ immediately inform the faculty and his or her program advisor.
 
 (For more information on attendance see the University Policies below)
 
-## Final Grade Calculation\
+### Final Grade Calculation\
 
 **Class Participation:** **40%**
 
@@ -206,19 +203,19 @@ immediately inform the faculty and his or her program advisor.
 
 **100% TOTAL**
 
-# UNIVERSITY POLICY & RESOURCES
+## UNIVERSITY POLICY & RESOURCES
 
-## **Resources**
+### **Resources**
 
 The university provides many resources to help students achieve academic
 and artistic excellence. These resources include:
 
--   [***The University (and associated)
-    Libraries***](https://library.newschool.edu/)
--   [***The University Learning
-    Center***](https://www.newschool.edu/university-learning-center/)
--   [***University Disabilities
-    Service***](https://www.newschool.edu/student-disability-services/)**s**
+- [***The University (and associated)
+  Libraries***](https://library.newschool.edu/)
+- [***The University Learning
+  Center***](https://www.newschool.edu/university-learning-center/)
+- [***University Disabilities
+  Service***](https://www.newschool.edu/student-disability-services/)**s**
 
 In keeping with the university\'s policy of providing equal access for
 students with disabilities, any student with a disability who needs
@@ -234,7 +231,7 @@ give to me. Please note that faculty will not work unilaterally with
 students to provide accommodations. If you inform me of a disability but
 do not provide any official notification, I must refer you to SDS.
 
--   [***Making Center***](http://resources.parsons.edu/)
+- [***Making Center***](http://resources.parsons.edu/)
 
 The Making Center is a constellation of shops, labs, and open workspaces
 that are situated across the New School to help students express their
@@ -247,13 +244,13 @@ concern, so each area has policies for access, training, and etiquette
 with which students and faculty should be familiar. Many areas require
 specific orientations or training before access is granted.
 
--   [***Health and
-    Wellness***](https://www.newschool.edu/campus-community/health-wellness-support/):
-    additional services and support available to New School students.
+- [***Health and
+  Wellness***](https://www.newschool.edu/campus-community/health-wellness-support/):
+  additional services and support available to New School students.
 
-## **Grading Standards**
+### **Grading Standards**
 
-### **Undergraduate**
+#### **Undergraduate**
 
 A student's final grades and GPA are calculated using a 4.0 scale.
 
@@ -287,14 +284,14 @@ F \[0.0\] Failure, no credit (0% - \<60%)
 
 GM Grade missing for an individual
 
-## **Grade of W**
+### **Grade of W**
 
 The grade of W may be issued by the Office of the Registrar to a student
 who officially withdraws from a course within the applicable deadline.
 There is no academic penalty, but the grade will appear on the student
 transcript.\
 
-## **Unofficial Withdrawal (Grade of Z)**
+### **Unofficial Withdrawal (Grade of Z)**
 
 This grade is to be assigned to students who have **never attended or
 stopped attending** classes. Exceptions can be made if the student has
@@ -306,7 +303,7 @@ still carries a myriad of consequences for students on visas or
 receiving financial aid. Only issue the Z grade when a student meets the
 above criteria.
 
-## **Grades of Incomplete **
+### **Grades of Incomplete **
 
 The grade of I, or temporary incomplete, may be granted to a student
 under unusual and extenuating circumstances, such as when the student's
@@ -317,14 +314,15 @@ be completed and signed by the student and instructor. The time allowed
 for completion of the work and removal of the "I" mark will be set by
 the instructor with the following limitations:
 
-### **Undergraduate students:** Work must be completed no later than the
+#### **Undergraduate students:** Work must be completed no later than the
+
 seventh week of the following fall semester for spring or summer term
 incompletes and no later than the seventh week of the following spring
 semester for fall term incompletes. Grades of "I" not revised in the
 prescribed time will be recorded as a final grade of "F" by the
 Registrar's Office.
 
-## **College, School, Program and Class Policies**
+### **College, School, Program and Class Policies**
 
 A comprehensive overview of policy may be found under [*Policies: A to
 Z*](https://www.newschool.edu/about/university-resources/policies/).
@@ -376,13 +374,9 @@ absence. Students may be asked to withdraw from a course if habitual
 absenteeism or tardiness has a negative impact on the class environment.
 
 I will assess each student's performance against all of the assessment
-criteria in determining your final grade. \[Students are expected to
-keep up with class activities and requirements each week. Also, describe
-additional expectations for meaningful participation. If students are
-unable to join synchronous sessions, how will they access the content
-and materials covered during the session so that they can keep up and
-"make-up" this absence? How will faculty and students interact on Zoom?
-Use the chat feature? Etc.\]
+criteria in determining your final grade. Students are expected to
+keep up with class activities and requirements each week.
+Students are expected to come to class with all required materials to complete the class work.
 
 **Recording Synchronous Sessions**
 
@@ -426,9 +420,9 @@ University community are expected to conduct themselves in accord with
 the standards of academic honesty and integrity. Please see the complete
 policy in the Parsons Catalog.
 
-[]{#anchor-17}**Intellectual Property Rights**
+**Intellectual Property Rights**
 
-[]{#anchor-18}The New School (the \"university\") seeks to encourage
+The New School (the \"university\") seeks to encourage
 creativity and invention among its faculty members and students. In
 doing so, the University affirms its traditional commitment to the
 personal ownership by its faculty members and students of Intellectual
@@ -437,11 +431,9 @@ Intellectual Property Rights may be seen on the [*university website, on
 the Provost's
 page*](https://www.newschool.edu/provost/accreditation-policies/).
 
-> []{#anchor-19}
-
 **Student Course Ratings (Course Evaluations)**
 
-[]{#anchor-20}During the last two weeks of the semester, students are
+During the last two weeks of the semester, students are
 asked to provide feedback for each of their courses through an online
 survey. They cannot view grades until providing feedback or officially
 declining to do so. Course evaluations are a vital space where students
