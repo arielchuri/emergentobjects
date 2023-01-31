@@ -3,11 +3,24 @@ import sys
 
 print(sys.argv)
 
-print(sys.argv[1])
+print("hello, world.")
 
-for x in sys.argv:
+fred = 10
+
+print(fred)
+
+if fred > 5:
+    print("Fred is greater than 5.")
+
+mylist = ["banana", "3", "4", 5, 2, fred]
+
+print(mylist[1])
+
+print(1+2)
+
+print(mylist[3] + mylist[4])
+
+for x in mylist:
     print(x)
 
-print(sys.argv[1] + sys.argv[2])
-
-print( int(sys.argv[1]) + int(sys.argv[2]) )
+print("Goodbye.")

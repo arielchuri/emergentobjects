@@ -72,6 +72,7 @@ if z:
 
 ## Lists - add, insert, delete
 
+mylist = ["blueberry", "strawberry", "dragonfruit", "pineapple", "apple"]
 
 ## Loops
 
