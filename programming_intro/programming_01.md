@@ -11,11 +11,7 @@ A nice tutorial site:
 
 # The development environment
 
-We are using the **Atom** text editor with the *script* package installed in order to code and run vanilla *python* when not using the *Circuit Playground*.
-
-- [Setup: Mac](https://www.linkedin.com/learning/python-for-students/getting-set-up-on-a-mac)
-- [Setup: Windows](https://www.linkedin.com/learning/python-for-students/getting-set-up-on-a-pc-using-windows)
-
+We are using the [**Pycharm**](https://www.jetbrains.com/pycharm/) text editor in order to code and run vanilla *python* when not using a microcontroller.
 
 # Section 1
 
