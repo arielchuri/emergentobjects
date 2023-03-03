@@ -118,7 +118,10 @@ This allows fellow students and faculty to access your portfolio.
 
 ### Links
 
-[are.na/emergent-objects](https://www.are.na/newschool/emergent-objects)
+
+I keep all of the information for this class that is not on Canvas here: [Github Site](https://github.com/arielchuri/emergentobject-s/)
+
+Links of interest to the class are collected here: [are.na/emergent-objects](https://www.are.na/newschool/emergent-objects)
 
 ### Required Readings
 
