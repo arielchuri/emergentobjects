@@ -22,4 +22,4 @@ Welcome to the [*emerging objects* git repository](https://github.com/arielchuri
 
 ## Final Project
 
-[emergentfinal.md](arielchuri.github.io/emergentobjects/finalproject/emergentfinal.md)
+[emergentfinal.md](finalproject/emergentfinal.md)
