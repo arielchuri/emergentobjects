@@ -6,7 +6,7 @@ Welcome to the [*emerging objects* git repository](https://github.com/arielchuri
 
 [Electricity Intro](electricity_intro/electricity_intro.md)
 
-[Circuit Playgound Intro](circuitplayground_intro/circuitplayground_intro.md)
+[Microcontroller Intro](microcontroller_intro/microcontroller_intro.md)
 
 [Programming Intro](programming_intro/programming_01.md)
 
@@ -22,6 +22,4 @@ Welcome to the [*emerging objects* git repository](https://github.com/arielchuri
 
 ## Final Project
 
-[emergentfinal.html](arielchuri.github.io/emergentobjects/finalproject/emergentfinal.html)
-
-[emergentfinal.pdf](finalproject/emergentfinal.pdf)
+[emergentfinal.md](arielchuri.github.io/emergentobjects/finalproject/emergentfinal.md)
