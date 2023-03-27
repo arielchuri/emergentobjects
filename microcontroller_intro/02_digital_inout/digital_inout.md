@@ -1,6 +1,6 @@
 # Digital In Out
 
-The file [code.py](code.py) contains a simple program that lights an LED when a button is pressed. [code_simpler.py](code_simpler.py) and [code_simpleryet.py](code_simpleryet.py) are simplified versions of this program that achieve the same result.
+The file [code.py](microcontroller_intro/03_digital_inout/code.py) contains a simple program that lights an LED when a button is pressed. [code_simpler.py](code_simpler.py) and [code_simpleryet.py](code_simpleryet.py) are simplified versions of this program that achieve the same result.
 
 The code in [code_button_switch.py](code_button_switch.py) lights the LED if both buttons are pressed and outputs text for the position of the switch.
 
