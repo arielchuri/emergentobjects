@@ -2,7 +2,7 @@
 
 ![](images/how-to-solder-3.jpg)
 
-- [Weller Soldering Tips.](file:///home/arielc/Downloads/WellerSoldering-1.pdf)
+- [Weller Soldering Tips.](WellerSoldering.pdf)
 - [Makespace Soldering Guide](https://www.makerspaces.com/how-to-solder/) 
 
 ## Soldering
