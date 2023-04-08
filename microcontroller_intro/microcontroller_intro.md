@@ -10,9 +10,13 @@ We program our microcontroller by editing a text file on our computer and loadin
  
 - [Adafruit Circuit Playground Express](https://learn.adafruit.com/adafruit-circuit-playground-express)
 
+[Circuit Playground Quickstart](https://learn.adafruit.com/circuit-playground-express-circuitpython-5-minute-guide)
+
 - [Arduino UNO](https://docs.arduino.cc/hardware/uno-rev3)
   
 - [Mu Editor](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor)
+
+
 
 ## Connecting to a circuit
 
