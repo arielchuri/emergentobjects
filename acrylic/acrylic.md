@@ -14,7 +14,7 @@ Extruded acrylic sheets are the most common for crafting.
 
 - Laser cut edges do not dissolve well and must be lightly sanded first.
 
-![](/home/arielc/Documents/School/emergentobjectsS22/emergentobjects/acrylic/cement.jpg)
+![](cement.jpg)
 
 In order to weld acrylic:
 
@@ -54,4 +54,4 @@ A band saw or a rotary tool also works well but care must be taken to use the ap
 
 Acrylic may be bent into a variety of shapes. A heat gun can be used to slowly heat up the acrylic. This takes around 3 minutes. Pieces of wood to form sharp bends or cylinders to create curves.
 
-The acrylic should clean before it is heated.
+The acrylic should be clean before it is heated.
