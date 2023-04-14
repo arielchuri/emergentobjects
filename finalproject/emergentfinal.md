@@ -63,4 +63,26 @@ Include at least 20 images and links to at least 5 specific projects.
 This diagram shows the relationship of the deliverables to the overall phases of the project. Please note that most of the deliverables take place in the beginning of the project.
 
 [Direct link to diagram](https://arielchuri.github.io/emergentobjects/finalproject/images/process.png)
+
 ## Mechanical Drawing
+
+![Orgone Projector drawing](projector_mech.png)
+![Buddha Box drawing](buddhabox_mech.jpg)
+
+## Circuit Diagram
+
+![Circuit diagram](projector_wiring.png)
+
+## Bill of Materials
+
+| Name              | Type              | Qty. | Link                                            | Datasheet                                                                                  |
+| ----------------- | ----------------- | ---- | ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Acrylic           | Matte White       |      |                                                 |                                                                                            |
+|                   | Smoked            |      |                                                 |                                                                                            |
+|                   | Clear, green edge |      |                                                 |                                                                                            |
+| Arduino UNO       |                   |      |                                                 |                                                                                            |
+| Mini breadboard   |                   |      |                                                 |                                                                                            |
+| Resistor          | 1M                | 1    |                                                 |                                                                                            |
+| Neopixel          | 8mm               | 2    | [source](https://www.adafruit.com/product/1734) | [data](https://www.adafruit.com/images/product-files/1138/SK6812%20LED%20datasheet%20.pdf) |
+| Jumper wires      |                   |      |                                                 |                                                                                            |
+| Double-sided tape |                   |      |                                                 |                                                                                            |
