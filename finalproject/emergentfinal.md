@@ -16,10 +16,6 @@ This document describes the process and the first two deliverables required for 
 
 [Link to github repository](https://github.com/arielchuri/emergentobjects/tree/main/finalproject)
 
-[Link to html version](https://arielchuri.github.io/emergentobjects/finalproject/emergentfinal.html)
-
-[Link to PDF version](https://github.com/arielchuri/emergentobjects/blob/main/finalproject/emergentfinal.pdf)
-
 ### To do list
 
 - [ ] Inspiration Board (described here)
@@ -67,3 +63,4 @@ Include at least 20 images and links to at least 5 specific projects.
 This diagram shows the relationship of the deliverables to the overall phases of the project. Please note that most of the deliverables take place in the beginning of the project.
 
 [Direct link to diagram](https://arielchuri.github.io/emergentobjects/finalproject/images/process.png)
+## Mechanical Drawing
