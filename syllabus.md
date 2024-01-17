@@ -4,11 +4,11 @@ PUFY 1263
 
 CRN: 10657
 
-Spring 2023
+Spring 2024
 
 Monday, 12:10pm - 2:50pm
 
-Parsons 2 W 13th, Room: 702
+Parsons 2 W 13th, Room: 602
 
 Instructor: Ariel Churi
 
@@ -34,7 +34,7 @@ We will cover the basics of coding and working with micro-controllers. By progra
 
 User testing and documentation are a vital step in the creation of complex objects. We will explore the process of pitching and defending our work as an aid to the design process.
 
-We will design and create our products individually, but meet in small groups to critique each other's work. Bi-weekly technical lectures will be supported by short learning assignments to be completed in pairs.
+We will design and create our products individually, but meet in small groups to critique each other's work. Bi-weekly technical lectures will be supported by short learning assignments.
 
 ### Learning Outcomes
 
@@ -50,44 +50,63 @@ By the successful completion of this course, students will be able, at *an intro
 
 ### Weekly Outline
 
-**Course Format**
-
-| week + date       | Activity                                                   | Due |
-| ----------------- | ---------------------------------------------------------- | --- |
-| **Week 1** 01/23  | Class community agreements,                                |     |
-|                   | expectations on attendance and communication,              |     |
-|                   | Canvas site walkthrough.                                   |     |
-|                   | *Acquire Supplies*, *About myself and my Favorite Device*, |     |
-|                   | *Lab Orientations*, *Intro to Python*                      |     |
-| **Week 2** 01/30  | *Python Looping*                                           |     |
-| **Week 3** 02/06  | *Python "Hello, world."*                                   |     |
-| **Week 4** 02/13  | *Hello, electricity*, Lab Orientations are complete        |     |
-| 02/20             | PRESIDENT'S DAY                                            |     |
-| **Week 5** 02/27  | *Simple Cube 3D Model*                                     |     |
-| **Week 6** 03/06  | *Simple Cube Render*, *Simle Cube 2D Pattern*              |     |
-| 03/13             | SPRING BREAK                                               |     |
-| **Week 7** 03/20  | *Simple Cube Fabrication*, Soldering                       |     |
-|                   | *Moodlight*                                                |     |
-| **Week 8** 03/27  | Midterm Check-ins                                          |     |
-| **Week 9** 04/03  | *Pitch Deck*                                               |     |
-| **Week 10** 04/10 | *BOM*, *Schematic*                                         |     |
-| **Week 11** 04/17 | *Rapid Prototype*                                          |     |
-| **Week 12** 04/24 | Working Session                                            |     |
-| **Week 13** 05/01 | Working Session                                            |     |
-| **Week 14** 05/08 | *Learning Portfolio Reflection Post*                       |     |
-|                   | *PDP*                                                      |     |
-| **Week 15** 05/15 | *Emerging Object*                                          |     |
+| week + date       | Activity                                                         | Due |
+|-------------------|------------------------------------------------------------------|-----|
+| **Week 1** 01/22  | Class community agreements,                                      |     |
+|                   | expectations on attendance and communication,                    |     |
+|                   | Canvas site walkthrough.                                         |     |
+|                   | *Acquire Supplies*, *Python tutorial*,                           |     |
+|                   | *Lab Orientations*, *Install Blender*                            |     |
+| **Week 2** 01/29  | Applied python, Blender 101.                                     |     |
+|                   | *Python application*, *Blender tutorials*, *Electronic Supplies* |     |
+| **Week 3** 02/05  | Electronics 101                                                  |     |
+|                   | *Cube Render*, *Electronic Circuit*                              |     |
+| **Week 4** 02/12  | Microcontoller programming, Microcontroller & electronics        |     |
+|                   | *Microcontoler Circuit*                                          |     |
+| 02/19             | PRESIDENT'S DAY                                                  |     |
+| **Week 5** 02/26  | Advanced programming                                             |     |
+|                   | *Object One Sheet*                                               |     |
+| **Week 6** 03/04  | Creating your object                                             |     |
+| 03/11             | SPRING BREAK                                                     |     |
+| **Week 7** 03/18  | Creat the prototype circuit                                      |     |
+|                   | *Circuit Programming*, *Acquire Object Materials*                |     |
+|                   | *Create Digital File*                                            | 4-1 |
+| **Week 8** 03/25  | Midterm Check-ins, Prototype circuit presentations               |     |
+|                   | *Laser cut your object enclosure*                                |     |
+| **Week 9** 04/01  | Fabricating with acrylic                                         |     |
+|                   | *Construct your Enclosure*                                       |     |
+| **Week 10** 04/08 | Individual Meetings Online. No in-person meeting                 |     |
+| **Week 11** 04/15 | How to solder                                                    |     |
+|                   | *Solder your Circuit*                                            |     |
+| **Week 12** 04/22 | Assemble your object                                             |     |
+| **Week 13** 04/29 | Testing your object                                              |     |
+|                   | *Update one sheet*                                               |     |
+| **Week 14** 05/06 | Work session                                                     |     |
+|                   | *Learning Portfolio Entry*                                       |     |
+| **Week 15** 05/15 | Final presentation                                               |     |
 
 ### Assessable Tasks
 
-- *Pitch decks*. Students will produce documentation for their proposed designs.
-- *Hello, world*. Students will create a Python application utilizing inputs and outputs.
-- *Hello, electricity*. Students will create a circuit utilizing 2 inputs and 1 output.
-- *Mood Light*. Create a box light from 3D model, to 2D pattern, to fabrication.
-- *Rapid Prototype*. Students use cardboard and paper prototyping in a series of in-class exercises.
-- *PDP*. Students create "product description" web page mock-up for their design. (2 & 7)
+- *Python Application* Create a Python application utilizing inputs and outputs.
+- *Electronic Circuit* Create a circuit utilizing 2 inputs and 1 output.
+- *Cube Render* Create a 3D render.
+- *Microcontroller Circuit* Creation of a microcontroller circuit.
+- *Object One Sheet* Create a single page document about your object.
+- *Object Prototype Circuit*
+- *Digital Documentation*
 - *Emerging Object*. Students create a *working* device.
 - *Learning Portfolio Reflection Post*. 
+
+### Links
+
+
+I keep all of the information for this class that is not on Canvas here: [Github Site](https://github.com/arielchuri/emergentobject-s/)
+
+Links of interest to the class are collected here: [are.na/emergent-objects](https://www.are.na/newschool/emergent-objects)
+
+### Required Readings
+
+[Reading list](https://github.com/arielchuri/emergentobjects/blob/main/readinglist.md)
 
 ### Learning Portfolio
 
@@ -116,17 +135,6 @@ your**[**
 Bio***](http://guides.instructure.com/m/4212/l/75098?data-resolve-url=true&data-manual-id=4212)**.**
 This allows fellow students and faculty to access your portfolio.
 
-### Links
-
-
-I keep all of the information for this class that is not on Canvas here: [Github Site](https://github.com/arielchuri/emergentobject-s/)
-
-Links of interest to the class are collected here: [are.na/emergent-objects](https://www.are.na/newschool/emergent-objects)
-
-### Required Readings
-
-[Reading list](https://github.com/arielchuri/emergentobjects/blob/main/readinglist.md)
-
 ### Materials and Supplies
 
 Please note that there are materials costs associated with this studio
@@ -143,13 +151,18 @@ materials kit items on the First Year advising page:[
 
 [Making Center Tool List](https://drive.google.com/file/d/1dF-RaKN6y5C2Pp43RNqfa-ncEDPiNYUA/view?usp=sharing)
 
-**Learning Together/Community Agreement**
+### Learning Together/Community Agreement
 
-- Zoom Classes: As in a traditional classroom setting, our class time together is valuable. While in class, I ask that you concentrate exclusively on our conversation and activities. Do not allow yourself to get distracted by other activities on your screen(s) and beyond.
-- All classroom interactions should be in support of group and individual learning. Please reach out to me via email churia@newschool.edu if you have any concerns about the learning environment or “classroom” dynamics. NOTE: You will receive ZOOM invite from me via an email before this date.
-- Keep in mind...No one knows everything, everyone knows something, together we know a lot: This means we all get to practice being humble, because we have something to learn from everyone in the “room”. It also means we all have a responsibility to share what we know, as wellas our question, so that others may learn from us.   
-  We can’t be articulate all the time & will make mistakes: As much as we’d like, we just can’t. Often people feel hesitant to participate in a workshop or meeting or express ones comments for fear of “messing up” or stumbling over their words. We want everyone to feel comfortable participating, even if you can’t be as articulate as you’d like. We have the opportunity to use several way to communicate; Canvas, in-person, and Zoom. We will use all three in this class when needed.
-- Take care of yourself and each other.
+Faculty please add guidelines for your classroom community. You may add
+your own guiding principles, or invite students to build a set of
+understandings with you on the first day of class that can be added to
+the syllabus or Canvas and referenced during the semester.
+
+Community agreements, sometimes called ground rules, invite faculty and
+students to work together in building an inclusive classroom, allowing
+for thoughtful and open dialogue while setting a tone of respect and
+responsibility. For more information on Community Agreements from The
+New School Faculty Center, [Click here](https://sites.google.com/a/newschool.edu/faculty-professional-development-network/home-page/on-teaching-sometimes-other-things/community-agreements-for-inclusive-classrooms).
 
 ### Grading and Evaluation
 
@@ -184,7 +197,7 @@ immediately inform the faculty and his or her program advisor.
 
 (For more information on attendance see the University Policies below)
 
-### Final Grade Calculation\
+### Final Grade Calculation
 
 **Class Participation:** **40%**
 
@@ -194,7 +207,7 @@ immediately inform the faculty and his or her program advisor.
 
 10% In-class exercises, sketches, and digital studies
 
-10% Learning Portfolio engagement
+10% Learning Portfolio
 
 **Projects\*:** **60%**
 
@@ -202,7 +215,7 @@ immediately inform the faculty and his or her program advisor.
 
 10% Final project
 
-\* See individual assignment sheets for grading criteria.
+* See individual assignment sheets for grading criteria.
 
 **100% TOTAL**
 
@@ -293,18 +306,6 @@ The grade of W may be issued by the Office of the Registrar to a student
 who officially withdraws from a course within the applicable deadline.
 There is no academic penalty, but the grade will appear on the student
 transcript.\
-
-### **Unofficial Withdrawal (Grade of Z)**
-
-This grade is to be assigned to students who have **never attended or
-stopped attending** classes. Exceptions can be made if the student has
-completed enough work to warrant a grade (including a failing grade),
-and arrangements have been made with the instructor(s) and the Dean's
-Office prior to grade submission. The Z grade does not calculate into
-the student's GPA. Though a Z grade does not have a failing penalty it
-still carries a myriad of consequences for students on visas or
-receiving financial aid. Only issue the Z grade when a student meets the
-above criteria.
 
 ### **Grades of Incomplete **
 
