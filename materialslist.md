@@ -1,24 +1,16 @@
 # Materials List
 
-## Rapid Prototyping
-
-- Black, permanent marker
-- Post-Its
-- Masking tape
-- Cutting board
-- Cardboard
-- Utility knife
-
 ## 2023 Bundle 20.25
 
 - Raspberry PI pico w/ headers
 - Solderless Breadboard
 - jumper wire
+- Multimeter
 - USB Cable
 - Potentiometer
 - LED
-- Resistor
-- Button
+- Resistors: 100-220 (2), 1k (2), 1m
+- Button (2)
 
 ## Microcontroller
 - [Adafruit Circuit Playground Express](https://learn.adafruit.com/adafruit-circuit-playground-express/overview) $24.95

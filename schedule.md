@@ -1,4 +1,5 @@
 # Schedule
+THIS DOCUMENT IS BEING UPDATED
 ## Week 1
   - Welcome
   - Making devices
