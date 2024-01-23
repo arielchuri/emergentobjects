@@ -3,12 +3,14 @@
 ## 2023 Bundle 20.25
 
 - Raspberry PI pico w/ headers
+- USB Cable
 - Solderless Breadboard
 - jumper wire
 - Multimeter
-- USB Cable
 - Potentiometer
+- Light dependent resistor
 - LED
+- RGB LEDs (2)
 - Resistors: 100-220 (2), 1k (2), 1m
 - Button (2)
 
