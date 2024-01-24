@@ -5,13 +5,15 @@
 - Raspberry PI pico w/ headers
 - USB Cable
 - Solderless Breadboard
+- Perfboard breadboard
+- Mounting hardware
 - jumper wire
 - Multimeter
 - Potentiometer
 - Light dependent resistor
 - LED
 - RGB LEDs (2)
-- Resistors: 100-220 (2), 1k (2), 1m
+- Resistors: 100-220 (6), 1k (2), 1m
 - Button (2)
 
 ## Microcontroller
