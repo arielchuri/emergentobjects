@@ -7,7 +7,7 @@
 - Solderless Breadboard
 - Perfboard breadboard
 - Mounting hardware
-- jumper wire
+- jumper wires
 - Multimeter
 - Potentiometer
 - Light dependent resistor
