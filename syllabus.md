@@ -50,41 +50,42 @@ By the successful completion of this course, students will be able, at *an intro
 
 ### Weekly Outline
 
-| week + date       | Activity                                                         | Due |
-|-------------------|------------------------------------------------------------------|-----|
-| **Week 1** 01/22  | Class community agreements,                                      |     |
-|                   | expectations on attendance and communication,                    |     |
-|                   | Canvas site walkthrough.                                         |     |
-|                   | *Product Sell Sheet*, *Python Tutorial*, *Lab Journal*,          |     |
-|                   | *Lab Orientations*, *Install Blender*                            |     |
-|                   | *Acquire Supplies*                                               | 2-5 |
-| **Week 2** 01/29  | Applied python, Blender 101.                                     |     |
-|                   | *Python application*, *Blender tutorials*, *Electronic Supplies* |     |
-| **Week 3** 02/05  | Electronics 101                                                  |     |
-|                   | *Cube Render*, *Electronic Circuit*                              |     |
-| **Week 4** 02/12  | Microcontoller programming, Microcontroller & electronics        |     |
-|                   | *Microcontoler Circuit*                                          |     |
-| 02/19             | PRESIDENT'S DAY                                                  |     |
-| **Week 5** 02/26  | Advanced programming                                             |     |
-|                   | *Object Sell Sheet*                                              |     |
-| **Week 6** 03/04  | Creating your object                                             |     |
-| 03/11             | SPRING BREAK                                                     |     |
-| **Week 7** 03/18  | Creat the prototype circuit                                      |     |
-|                   | *Circuit Programming*, *Acquire Object Materials*                |     |
-|                   | *Create Digital File*                                            | 4-1 |
-| **Week 8** 03/25  | Midterm Check-ins, Prototype circuit presentations               |     |
-|                   | *Laser cut your object enclosure*                                |     |
-| **Week 9** 04/01  | Fabricating with acrylic                                         |     |
-|                   | *Construct your Enclosure*                                       |     |
-| **Week 10** 04/08 | Individual Meetings Online. No in-person meeting                 |     |
-| **Week 11** 04/15 | How to solder                                                    |     |
-|                   | *Solder your Circuit*                                            |     |
-| **Week 12** 04/22 | Assemble your object                                             |     |
-| **Week 13** 04/29 | Testing your object                                              |     |
-|                   | *Update one sheet*                                               |     |
-| **Week 14** 05/06 | Work session                                                     |     |
-|                   | *Learning Portfolio Entry*                                       |     |
-| **Week 15** 05/15 | Final presentation                                               |     |
+| week + date       | Activity                                                                  | Due |
+|-------------------|---------------------------------------------------------------------------|-----|
+| **Week 1** 01/22  | Class community agreements,                                               |     |
+|                   | expectations on attendance and communication,                             |     |
+|                   | Canvas site walkthrough.                                                  |     |
+|                   | *Product Sell Sheet*, *Utopia/Dystopia* *Python Tutorial*, *Lab Journal*, |     |
+|                   | *Lab Orientations*, *Install Blender*                                     |     |
+|                   | *Acquire Supplies*                                                        | 2-5 |
+| **Week 2** 01/29  | Applied python                                                            |     |
+|                   | *Python application*, *Electronic Supplies*,                              |     |
+|                   | *Utopia/Dystopia Cultural Probe*                                          |     |
+| **Week 3** 02/05  | Electronics 101                                                           |     |
+|                   | *Electronic Circuit*                                                      |     |
+| **Week 4** 02/12  | Microcontoller programming, Microcontroller & electronics                 |     |
+|                   | *Microcontoler Circuit*                                                   |     |
+| 02/19             | PRESIDENT'S DAY                                                           |     |
+| **Week 5** 02/26  | Advanced programming                                                      |     |
+|                   | *Object Sell Sheet*                                                       |     |
+| **Week 6** 03/04  | Creating your object                                                      |     |
+| 03/11             | SPRING BREAK                                                              |     |
+| **Week 7** 03/18  | Creat the prototype circuit                                               |     |
+|                   | *Circuit Programming*, *Acquire Object Materials*                         |     |
+|                   | *Create Digital File*                                                     | 4-1 |
+| **Week 8** 03/25  | Midterm Check-ins, Prototype circuit presentations                        |     |
+|                   | *Laser cut your object enclosure*                                         |     |
+| **Week 9** 04/01  | Fabricating with acrylic                                                  |     |
+|                   | *Construct your Enclosure*                                                |     |
+| **Week 10** 04/08 | Individual Meetings Online. No in-person meeting                          |     |
+| **Week 11** 04/15 | How to solder                                                             |     |
+|                   | *Solder your Circuit*                                                     |     |
+| **Week 12** 04/22 | Assemble your object                                                      |     |
+| **Week 13** 04/29 | Testing your object                                                       |     |
+|                   | *Update one sheet*                                                        |     |
+| **Week 14** 05/06 | Work session                                                              |     |
+|                   | *Learning Portfolio Entry*                                                |     |
+| **Week 15** 05/15 | Final presentation                                                        |     |
 
 ### Assessable Tasks
 
