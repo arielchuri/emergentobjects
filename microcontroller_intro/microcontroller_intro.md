@@ -4,17 +4,25 @@
 
 We will connect our microcontroller to any inputs, such as buttons and sensors, and outputs, such a lights, motors, and speakers. We will program our microcontroller to use the devices.
 
-We program our microcontroller by editing a text file on our computer and loading onto the microcontroller. This requires a USB cable to connect our computer to the microcontroller and an application to edit the text file and upload it. The first step is to follow the directions for your microcontroller. I have included the appropriate tutorials below.
+We program our microcontroller by editing a text file on the microcontroller. This requires a data-capable, USB cable to connect our computer to the microcontroller and an application to edit the text file and upload it. The first step is to follow the directions for your microcontroller. I have included the appropriate tutorials below.
 
-- [Getting Started with Raspberry Pi Pico and CircuitPython](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython)
+This guide contains everything you need to set up your microcontroller: [Getting Started with Raspberry Pi Pico and CircuitPython](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython)
+
+1. Download the UF2 file [from this page](https://circuitpython.org/board/raspberry_pi_pico/).
+2. Follow the directions [on this page](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython) to load the file on your chip.
+
+Following those steps will cause the Raspberry PI Pico to appear as thumbdrive on your desktop. If you have or create a text file named _code.py_, it will run automatically. You can use the MU editor or Visual Studio Code with the circuitPython extension to edit your _code.py_ file. 
+
+- [Circuit Playground Quickstart](https://learn.adafruit.com/circuit-playground-express-circuitpython-5-minute-guide)
  
-- [Adafruit Circuit Playground Express](https://learn.adafruit.com/adafruit-circuit-playground-express)
+- [Mu Editor](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor)
 
-[Circuit Playground Quickstart](https://learn.adafruit.com/circuit-playground-express-circuitpython-5-minute-guide)
+### Other microcontrollers
+
+- [Adafruit Circuit Playground Express](https://learn.adafruit.com/adafruit-circuit-playground-express)
 
 - [Arduino UNO](https://docs.arduino.cc/hardware/uno-rev3)
   
-- [Mu Editor](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor)
 
 
 
