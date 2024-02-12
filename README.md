@@ -6,7 +6,7 @@ Welcome to the [*emerging objects* git repository](https://github.com/arielchuri
 
 [Electricity Intro](electricity_intro/electricity_intro.md)
 
-[Microcontroller Intro](microcontroller_intro.md)
+[Microcontroller Intro](/microcontroller_intro/microcontroller_intro.md)
 
 [Programming Intro](programming_intro/programming_01.md)
 
