@@ -47,9 +47,3 @@ def fade_led(led, fade_speed, fade_dir, last_fade_time):
 
 # Inside the while loop
 while True:
-    # Get the interval from the blink pattern based on the current index
-    # Check if it's time to change the LED state
-    last_change_time, pattern_index, interval = run_led(last_change_time, interval, pattern_index)
-    
-    LAST_FADE_TIME, FADE_DIR = fade_led(led, FADE_SPEED, FADE_DIR, LAST_FADE_TIME)
-    # time.sleep(0.1)  # Simulate other operations
