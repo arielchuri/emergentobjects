@@ -7,6 +7,18 @@
 - [ ] Be able to multitask with _Circuit Python_. Blink an **LED** without using _time.sleep_ and toggle a button.
 - [ ] Understand the code.
 
+## Breadboard
+
+The following steps assume you have a breadboard set up with your _Raspberry PI PICO_. PI should be powering the breadboard with PIN 36 for power and one of the ground pins (3 and or 38).
+
+[](raspberry-pi-pico-pinout.png)
+
+## Step one
+
+
+
+## temp
+
 ```python
 import digitalio
 import analogio
