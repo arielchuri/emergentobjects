@@ -12,11 +12,13 @@
 The following steps assume you have a breadboard set up with your _Raspberry PI PICO_. PI should be powering the breadboard with PIN 36 for power and one of the ground pins (3 and or 38).
 
 ![](raspberry-pi-pico-pinout.png)
+![](breadboard.png)
+![](schematic.png)
 
 ## Step one
 
 
-
+Ω
 ## temp
 
 ```python
