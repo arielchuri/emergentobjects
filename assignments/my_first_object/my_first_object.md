@@ -24,7 +24,7 @@ Notice the LED that is not connected to the _PICO_. This **LED** will always be 
 
 ![](schematic.png)
 
-## Step Two
+## Hello World
 
 Upload the following code to your PICO. Do you see the output in the _Serial Port Monitor_.
 
@@ -59,7 +59,7 @@ while True:
     print('Hello, world!')
 ```
 
-## Step Two
+## Blinky
 
 Can you understand what it should do before you try it?
 
@@ -184,6 +184,7 @@ while True:
 ## Using Sensor Data
 
 Can you add this code in to change the blink speed based on the sensor?
+The sensor values may need to be changed for your lighting situation.
 
 ```python
         if sensor.value >= 55000:
