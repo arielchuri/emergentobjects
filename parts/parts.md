@@ -1,3 +1,4 @@
+- [Neopixel](neopixel/neopixel.md)
 - [ Real Time Clock ]( https://www.adafruit.com/product/5188 )
   - [Clock project](https://learn.adafruit.com/digital-clock-with-circuitpython)
 
