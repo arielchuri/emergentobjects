@@ -44,3 +44,41 @@ while True:
     speaker.duty_cycle = 65535 // 2  # On 50%
     time.sleep(0.0)
 ```
+
+Squeeks!
+
+```python
+import time
+import board
+import pwmio
+import analogio
+from adafruit_simplemath import map_range
+
+potentiometer = analogio.AnalogIn(board.GP26)
+
+speaker = pwmio.PWMOut(board.GP14, duty_cycle=0, frequency=440, variable_frequency=True)
+
+while True:
+    for i in range(1000,1800,2):
+        speaker.frequency = i
+        speaker.duty_cycle = 65535 // 2  # On 50%
+        print(i)
+        time.sleep(0.00)
+    # print(freq)
+    speaker.duty_cycle = 0  # On 50%
+    time.sleep(.05)
+    for i in range(1800,1000,-1):
+        speaker.frequency = i
+        speaker.duty_cycle = 65535 // 2  # On 50%
+        print(i)
+        time.sleep(0.00)
+    speaker.duty_cycle = 0  # On 50%
+    time.sleep(.15)
+    for i in range(300,1000,1):
+        speaker.frequency = i
+        speaker.duty_cycle = 65535 // 2  # On 50%
+        print(i)
+        time.sleep(0.00)
+    speaker.duty_cycle = 0  # On 50%
+    time.sleep(2)# Audio
+```
