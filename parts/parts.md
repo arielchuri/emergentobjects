@@ -1,4 +1,12 @@
+## Guides
+
+- [Audio](audio.md)
+- [Display](display/display.md)
 - [Neopixel](neopixel/neopixel.md)
+- [Ultrasonic_sensor](ultrasonic_sensor/ultrasonic_sensor.md)
+
+## Links
+
 - [ Real Time Clock ]( https://www.adafruit.com/product/5188 )
   - [Clock project](https://learn.adafruit.com/digital-clock-with-circuitpython)
 
