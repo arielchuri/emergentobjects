@@ -1,8 +1,10 @@
 ## Guides
 
 - [Audio](audio.md)
+- [Capacitive Touch Sensor](captouch_sensor/captouch_sensor.md)
 - [Display](display/display.md)
 - [Neopixel](neopixel/neopixel.md)
+- [Real Time Clock](realTimeClock/realTimeClock_ds3231.md)
 - [Ultrasonic_sensor](ultrasonic_sensor/ultrasonic_sensor.md)
 
 ## Links
