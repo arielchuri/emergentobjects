@@ -1,0 +1,1 @@
+/run/media/arielc/CIRCUITPY/code.py
