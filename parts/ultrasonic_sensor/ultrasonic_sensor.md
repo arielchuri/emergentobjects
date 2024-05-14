@@ -13,10 +13,14 @@ sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.GP5, echo_pin=board.GP6)
 # For the potentiometer.
 while True:
     try:
-        print((sonar.distance,))
+        print(sonar.distance)
+        my_distance = sonar.distance
     except RuntimeError:
         print("Retrying!")
     time.sleep(0.01)
+
+    if my_distance > 40:
+        print("GET BACK!")
 ```
 
 
