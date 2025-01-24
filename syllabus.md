@@ -4,11 +4,11 @@ PUFY 1263
 
 CRN: 10657
 
-Spring 2024
+Spring 2025
 
 Monday, 12:10pm - 2:50pm
 
-Parsons 2 W 13th, Room: 602
+6 East 16th St. #704
 
 Instructor: Ariel Churi
 
@@ -18,6 +18,11 @@ Office Hours: By appointment [(zoom link)](https://newschool.zoom.us/s/990717080
 
 ### Course Description
 
+
+
+Program, fabricate, and document electronic objects and build a better future. Gain an understanding of tactile, human-computer interfaces by producing evocative and functional devices of your own design. Design is the process of actualizing change to our current state. By imagining a potential future, we can create a context for designed objects that reflect on our current circumstances. We will develop working hardware devices that respond to user input in this hands-on, project-based class. We will begin by understanding the process of creating a compelling user experience and learn how to document and present a research-based approach to design. We'll go through electrical engineering fundamentals, circuit design, and electronic component prototyping. Our knowledge of electricity will allow us to create sensors that interact with the human body. We will cover the basics of coding and working with micro-controllers. By programming the brains of our object we will use the data from our sensors to create a responsive device. User testing and documentation are a vital step in the creation of complex objects and will guide our way to a final project of personal interest.
+
+#### Old
 Program, fabricate, and document electronic objects and build a better future.
 Gain an understanding of tactile, human-computer interfaces by producing evocative and functional devices of your own design.
 
@@ -25,7 +30,7 @@ Design is the process of actualizing change to our current state.
 By imagining a potential future, we can create a context for designed objects that reflect on our current circumstances.
 
 We will develop working hardware devices that respond to user input in this hands-on, project-based class.
-We will begin by understanding the process of creating a compelling user experience and learn how to document and present a research-based approach to design. 
+We will begin by understanding the process of creating a compelling user experience and learn how to document and present a research-based approach to design.
 
 We'll go through electrical engineering fundamentals, circuit design, and electronic component prototyping.
 Our knowledge of electricity will allow us to create sensors that interact with the human body.
@@ -38,7 +43,7 @@ We will design and create our products individually, but meet in small groups to
 
 ### Learning Outcomes
 
-By the successful completion of this course, students will be able, at *an introductory level,* to:
+By the successful completion of this course, students will be able, at _an introductory level,_ to:
 
 1. Think critically about the designed object and learn to reflect this thinking in their own designs.
 2. Create documentation justifying their designs.
@@ -46,63 +51,63 @@ By the successful completion of this course, students will be able, at *an intro
 4. Use design research methodologies that require a playful and/or experimental approach to the design process.
 5. Gain proficiency in modeling, sketching, and prototyping.
 6. Pitch, present, and defend their work.
-7. Reflect on their own learning in posts on the Parsons Learning Portfolio.                                                                                                                                               
+7. Reflect on their own learning in posts on the Parsons Learning Portfolio.
 
 ### Weekly Outline
 
-| week + date       | Activity                                                                  | Due |
-|-------------------|---------------------------------------------------------------------------|-----|
-| **Week 1** 01/22  | Class community agreements,                                               |     |
-|                   | expectations on attendance and communication,                             |     |
-|                   | Canvas site walkthrough.                                                  |     |
-|                   | *Product Sell Sheet*, *Utopia/Dystopia* *Python Tutorial*, *Lab Journal*, |     |
-|                   | *Lab Orientations*, *Install Blender*                                     |     |
-|                   | *Acquire Supplies*                                                        | 2-5 |
-| **Week 2** 01/29  | Applied python                                                            |     |
-|                   | *Python application*, *Electronic Supplies*,                              |     |
-|                   | *Utopia/Dystopia Cultural Probe*                                          |     |
-| **Week 3** 02/05  | Electronics 101                                                           |     |
-|                   | *Electronic Circuit*                                                      |     |
-| **Week 4** 02/12  | Microcontoller programming, Microcontroller & electronics                 |     |
-|                   | *Microcontoler Circuit*                                                   |     |
-| 02/19             | PRESIDENT'S DAY                                                           |     |
-| **Week 5** 02/26  | Advanced programming                                                      |     |
-|                   | *Object Sell Sheet*                                                       |     |
-| **Week 6** 03/04  | Creating your object                                                      |     |
-| 03/11             | SPRING BREAK                                                              |     |
-| **Week 7** 03/18  | Creat the prototype circuit                                               |     |
-|                   | *Circuit Programming*, *Acquire Object Materials*                         |     |
-|                   | *Create Digital File*                                                     | 4-1 |
-| **Week 8** 03/25  | Midterm Check-ins, Prototype circuit presentations                        |     |
-|                   | *Laser cut your object enclosure*                                         |     |
-| **Week 9** 04/01  | Fabricating with acrylic                                                  |     |
-|                   | *Construct your Enclosure*                                                |     |
-| **Week 10** 04/08 | Individual Meetings Online. No in-person meeting                          |     |
-| **Week 11** 04/15 | How to solder                                                             |     |
-|                   | *Solder your Circuit*                                                     |     |
-| **Week 12** 04/22 | Assemble your object                                                      |     |
-| **Week 13** 04/29 | Testing your object                                                       |     |
-|                   | *Update one sheet*                                                        |     |
-| **Week 14** 05/06 | Work session                                                              |     |
-|                   | *Learning Portfolio Entry*                                                |     |
-| **Week 15** 05/15 | Final presentation                                                        |     |
+| week         | date        | Activity                                                                                    |
+| ------------ | ----------- | ------------------------------------------------------------------------------------------- |
+| **Week 1**   | 01/27       | Introductions, community agreements, communication, attendance, syllabus, supplies, Canvas. |
+|              |             | _Utopia/Dystopia_ workshop, VS Code + Codium                                                |
+|              |             | Assignment: _Emerging Object_, _Utopia/Dystopia_, _Lab Orientations_, _Acquire Supplies_    |
+| **Week 2**   | 02/3        | Python 1, _Object Possibilites_                                                             |
+|              |             | _Persona_, _Python Application_                                                             |
+| **Week 3**   | 02/10       | Electronics 1, _Object Workshop_                                                            |
+|              |             | Assignment: _Electronic Circuit_, _Object Sketches_                                         |
+| **No Class** | 02/17       | President's day                                                                             |
+| **Week 4**   | 02/24       | Microcontoller programming, Microcontroller & electronics                                   |
+|              |             | Assignment: _Microcontoller Circuit_, _Object Presentation_                                 |
+| **No Class** | 03/03       | No class                                                                                    |
+| **Week 5**   | 03/07-03/14 | Individual Meetings Online. No in-person meeting                                            |
+| **No Class** | 03/10       | SPRING BREAK                                                                                |
+| **Week 6**   | 03/17       | Advanced microcontroller programming                                                        |
+|              |             | _Object Sell Sheet_                                                                         |
+| **Week 7**   | 03/24       | Peripheral devices, Cardboard engineering                                                   |
+|              |             | _Peripheral Device_, _User Journey_                                                         |
+| **Week 8**   | 03/31       | Midterm checkin                                                                             |
+|              |             | _Circuit Programming_, _Acquire Object Materials_                                           |
+| **Week 9**   | 04/07       | Circuit programming                                                                         |
+|              |             | _Prototype Circuit Presentations_, _Mechanical Design_                                      |
+| **Week 10**  | 04/14       | How to Solder                                                                               |
+|              |             | _Construct your Enclosure_                                                                  |
+| **Week 11**  | 04/21       | Assemble your object                                                                        |
+|              |             | _Assemble Object_                                                                           |
+| **Week 12**  | 04/28       | User testing                                                                                |
+|              |             | _Instructions_, _Product Photography_                                                       |
+| **Week 13**  | 05/05       | Work session                                                                                |
+|              |             | _Update one sheet_                                                                          |
+| **Week 14**  | 05/12       | Work session                                                                                |
+|              |             | _Learning Portfolio Entry_                                                                  |
+| **Week 15**  | 05/13       | Final presentation                                                                          |
 
 ### Assessable Tasks
 
-- *Product Sell Sheet*
-- *Lab Journal*
-- *Python Application* Create a Python application utilizing inputs and outputs.
-- *Electronic Circuit* Create a circuit utilizing 2 inputs and 1 output.
-- *Cube Render* Create a 3D render.
-- *Microcontroller Circuit* Creation of a microcontroller circuit.
-- *Object Sell Sheet* Create a single page document about your object.
-- *Object Prototype Circuit*
-- *Digital Documentation*
-- *Emerging Object*. Students create a *working* device.
-- *Learning Portfolio Reflection Post*. 
+- _Emerging Object_. Students create a working electronic device.
+- _Utopia/Distopia_
+- _Persona_
+- _Object Possibilities_
+- _Object Sketches_
+- _Python Application_ Create a Python application utilizing inputs and outputs.
+- _Electronic Circuit_ Create a circuit utilizing 2 inputs and 1 output.
+- _Microcontroller Circuit_ Creation of a microcontroller circuit.
+- _User Journey_
+- _Object Sell Sheet_ Create a single page document about your object.
+- _Mechanical Design_
+- _Circuit Diagram_
+- _Object Prototype Circuit_
+- _Learning Portfolio Reflection Post_.
 
 ### Links
-
 
 I keep all of the information for this class that is not on Canvas here: [Github Site](https://github.com/arielchuri/emergentobjects/)
 
@@ -134,9 +139,9 @@ critically reflective learning, thinking, writing and making.
 **Make sure to use the MANDATORY Parsons Learning Portfolio Template**-
 and do not change the template as this is a shared component of the
 Parsons experience. Also please **add a Learning Portfolio link to
-your**[**
-**](http://guides.instructure.com/m/4212/l/75098?data-resolve-url=true&data-manual-id=4212)[***Canvas
-Bio***](http://guides.instructure.com/m/4212/l/75098?data-resolve-url=true&data-manual-id=4212)**.**
+your**[\*\*
+\*\*](http://guides.instructure.com/m/4212/l/75098?data-resolve-url=true&data-manual-id=4212)[**_Canvas
+Bio_**](http://guides.instructure.com/m/4212/l/75098?data-resolve-url=true&data-manual-id=4212)**.**
 This allows fellow students and faculty to access your portfolio.
 
 ### Materials and Supplies
@@ -147,7 +152,7 @@ expected cost does not include printer points that you receive as a
 student, nor does it include the materials from the materials kit that
 is purchased as you enter the first year. You can find a list of the
 materials kit items on the First Year advising page:[
-](http://www.newschool.edu/parsons/academic-advising-first-year-students/)[*http://www.newschool.edu/parsons/academic-advising-first-year-students/*](http://www.newschool.edu/parsons/academic-advising-first-year-students/)
+](http://www.newschool.edu/parsons/academic-advising-first-year-students/)[_http://www.newschool.edu/parsons/academic-advising-first-year-students/_](http://www.newschool.edu/parsons/academic-advising-first-year-students/)
 
 [](http://www.newschool.edu/parsons/academic-advising-first-year-students/)
 
@@ -219,7 +224,7 @@ immediately inform the faculty and his or her program advisor.
 
 10% Final project
 
-* See individual assignment sheets for grading criteria.
+- See individual assignment sheets for grading criteria.
 
 **100% TOTAL**
 
@@ -230,12 +235,12 @@ immediately inform the faculty and his or her program advisor.
 The university provides many resources to help students achieve academic
 and artistic excellence. These resources include:
 
-- [***The University (and associated)
-  Libraries***](https://library.newschool.edu/)
-- [***The University Learning
-  Center***](https://www.newschool.edu/university-learning-center/)
-- [***University Disabilities
-  Service***](https://www.newschool.edu/student-disability-services/)**s**
+- [**_The University (and associated)
+  Libraries_**](https://library.newschool.edu/)
+- [**_The University Learning
+  Center_**](https://www.newschool.edu/university-learning-center/)
+- [**_University Disabilities
+  Service_**](https://www.newschool.edu/student-disability-services/)**s**
 
 In keeping with the university\'s policy of providing equal access for
 students with disabilities, any student with a disability who needs
@@ -251,7 +256,7 @@ give to me. Please note that faculty will not work unilaterally with
 students to provide accommodations. If you inform me of a disability but
 do not provide any official notification, I must refer you to SDS.
 
-- [***Making Center***](http://resources.parsons.edu/)
+- [**_Making Center_**](http://resources.parsons.edu/)
 
 The Making Center is a constellation of shops, labs, and open workspaces
 that are situated across the New School to help students express their
@@ -264,8 +269,8 @@ concern, so each area has policies for access, training, and etiquette
 with which students and faculty should be familiar. Many areas require
 specific orientations or training before access is granted.
 
-- [***Health and
-  Wellness***](https://www.newschool.edu/campus-community/health-wellness-support/):
+- [**_Health and
+  Wellness_**](https://www.newschool.edu/campus-community/health-wellness-support/):
   additional services and support available to New School students.
 
 ### **Grading Standards**
@@ -332,10 +337,10 @@ Registrar's Office.
 
 ### **College, School, Program and Class Policies**
 
-A comprehensive overview of policy may be found under [*Policies: A to
-Z*](https://www.newschool.edu/about/university-resources/policies/).
-Students are also encouraged to consult the [*Academic Catalog for
-Parsons*](https://www.newschool.edu/provost/academic-catalogs/).
+A comprehensive overview of policy may be found under [_Policies: A to
+Z_](https://www.newschool.edu/about/university-resources/policies/).
+Students are also encouraged to consult the [_Academic Catalog for
+Parsons_](https://www.newschool.edu/provost/academic-catalogs/).
 
 **Canvas**
 
@@ -398,7 +403,7 @@ As a general rule please consider the following with regards to AI:
 - Do not submit any final work - writing or images - generated by AI tools without written permission from your faculty.
 - AI tools deliver results that have been synthesized and averaged from many non citable sources. Misrepresentations are easy to miss.
 - The AI tech space is rapidly changing and will continue to be contested. Be discerning in how you use these tools.
-- Remember why you are at Parsons - to invest in yourself as a creative.  Explore these tools with curiosity and criticality, rather than dependency.
+- Remember why you are at Parsons - to invest in yourself as a creative. Explore these tools with curiosity and criticality, rather than dependency.
 
 **Academic Honesty and Integrity**
 
@@ -415,11 +420,11 @@ work, taking examinations, and doing research. It is the responsibility
 of students to learn the procedures specific to their discipline for
 correctly and appropriately differentiating their own work from that of
 others. The full text of the policy, including adjudication procedures,
-is found on the university website under [*Policies: A to
-Z*](https://www.newschool.edu/about/university-resources/policies/).
+is found on the university website under [_Policies: A to
+Z_](https://www.newschool.edu/about/university-resources/policies/).
 Resources regarding what plagiarism is and how to avoid it can be found
-on the [*Learning Center's
-website*](https://www.newschool.edu/learning-center/resources-workshops/).
+on the [_Learning Center's
+website_](https://www.newschool.edu/learning-center/resources-workshops/).
 
 The New School views "academic honesty and integrity" as the duty of
 every member of an academic community to claim authorship for his or her
@@ -445,9 +450,9 @@ creativity and invention among its faculty members and students. In
 doing so, the University affirms its traditional commitment to the
 personal ownership by its faculty members and students of Intellectual
 Property Rights in works they create. The complete policy governing
-Intellectual Property Rights may be seen on the [*university website, on
+Intellectual Property Rights may be seen on the [_university website, on
 the Provost's
-page*](https://www.newschool.edu/provost/accreditation-policies/).
+page_](https://www.newschool.edu/provost/accreditation-policies/).
 
 **Student Course Ratings (Course Evaluations)**
 
@@ -465,4 +470,4 @@ changed in future. Without this information, it can be difficult for an
 instructor to reflect upon and improve teaching methods and course
 design. In addition, program/department chairs and other administrators
 review course surveys. Instructions are available online
-[*here.*](#_3dy6vkm)
+[_here._](#_3dy6vkm)
