@@ -50,11 +50,17 @@ is_student = True
 
 ### 3. Input and Output (15 minutes)
 - **Concept**: Getting input from users and displaying output.
+- **How to Accept Input**: Explain the `input()` function.
+  - Syntax: `variable = input("Prompt text")`
+  - Input is always stored as a string; use type conversion (`int()`, `float()`) when needed.
 - **Example**:
 
 ```python
 name = input("What is your name? ")
 print("Hello, " + name + "!")
+
+age = int(input("How old are you? "))
+print("You are", age, "years old.")
 ```
 
 **Activity**: Create a program that asks for the user’s age and calculates the year they were born.
@@ -103,6 +109,16 @@ while count < 5:
 
 ### 6. Functions (20 minutes)
 - **Concept**: Organizing code into reusable blocks.
+- **Example**:
+
+```python
+def helloFunction():
+    return "Hello World!"
+
+print(helloFunction)
+```
+
+- **Concept**: Using functions with arguments.
 - **Example**:
 
 ```python
@@ -163,5 +179,4 @@ print("Your final score is:", score)
 - Recap the concepts learned.
 - Encourage students to explore Python further and practice regularly.
 - Answer any remaining questions.
-
 
