@@ -5,7 +5,8 @@
 - Raspberry PI pico w/ headers
 - USB Cable
 - Solderless Breadboard
-- jumper wires
+- Jumper wires
+- Speaker
 - Multimeter
 - Potentiometer
 - Light dependent resistor
@@ -18,7 +19,7 @@
 - Ultrasonic range finder  
 - Real Time Clock         
 
-Cost: 42.50
+Cost: 43.50
 
 ## Microcontroller
 - [Adafruit Circuit Playground Express](https://learn.adafruit.com/adafruit-circuit-playground-express/overview) $24.95
