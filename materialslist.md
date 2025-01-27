@@ -1,20 +1,24 @@
 # Materials List
 
-## 2023 Bundle 20.25
+## 2025 Bundle
 
 - Raspberry PI pico w/ headers
 - USB Cable
 - Solderless Breadboard
-- Perfboard breadboard
-- Mounting hardware
 - jumper wires
 - Multimeter
 - Potentiometer
 - Light dependent resistor
 - LED
-- RGB LEDs (2)
-- Resistors: 100-220 (6), 1k (2), 1m
-- Button (2)
+- Resistors: 100-220 (4), 1k (2), 1m
+- Button
+- Neopixel (2)            
+- Touch sensor (2)        
+- OLED screen             
+- Ultrasonic range finder  
+- Real Time Clock         
+
+Cost: 42.50
 
 ## Microcontroller
 - [Adafruit Circuit Playground Express](https://learn.adafruit.com/adafruit-circuit-playground-express/overview) $24.95
@@ -22,16 +26,6 @@
 - [Raspberry Pi Pico](https://www.adafruit.com/product/5525)
 
 Adafruit has these back in stock and I have some as well that I can bring to class if you ask.
-
-## Basic Electronics Kit
-
-- Solderless breadboard
-- Jumper wires
-- LED
-- Potentiometer
-- 1 100-220 ohm resistors
-- 2 10k ohm resistors
-- Push button
 
 ### Examples of premade kits
 
@@ -44,7 +38,7 @@ These two are the most barebones I could find on amazon. The quality maybe low b
 
 ## Multimeter
 All of these are low quality but will work fine for our purposes.
-- I sell a low end model and can bring it to class. $9.00
+- I have a low end model and can bring it to class. $9.00
 - [One of many on amazon](https://smile.amazon.com/AstroAI-Digital-Multimeter-Voltage-Tester/dp/B01ISAMUA6/) $12.50
 - [Adafruit Multimeter](https://www.adafruit.com/product/2034) $17.50
 

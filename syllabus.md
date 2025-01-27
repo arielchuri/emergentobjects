@@ -1,5 +1,19 @@
 # **Emergent Objects**
 
+  ______                                     _
+ |  ____|                                   | |
+ | |__   _ __ ___   ___ _ __ __ _  ___ _ __ | |_
+ |  __| | '_ ` _ \ / _ \ '__/ _` |/ _ \ '_ \| __|
+ | |____| | | | | |  __/ | | (_| |  __/ | | | |_
+ |______|_| |_|_|_|\___|_| _\__, |\___|_| |_|\__|
+  / __ \| |   (_)         | |__/ |
+ | |  | | |__  _  ___  ___| |___/_
+ | |  | | '_ \| |/ _ \/ __| __/ __|
+ | |__| | |_) | |  __/ (__| |_\__ \
+  \____/|_.__/| |\___|\___|\__|___/
+             _/ |
+            |__/
+
 PUFY 1263  
 CRN: 10657  
 Spring 2025  
@@ -31,7 +45,6 @@ By the successful completion of this course, students will be able, at **an intr
 4. Students will be able to create an electronic circuit and program a microprocessor.
 5. Students will be able to explore and experiment with electronic design and functionality, using speculative scenarios to inspire creative problem-solving and innovative approaches
 6. Students will be able to analyze user behaviors, needs, and goals to develop a detailed persona, demonstrating critical thinking in identifying and synthesizing patterns from research data.
-
 7. Think critically about the designed object and learn to reflect this thinking in their own designs.
 8. Students will learn to prototype, test, and build an electronic object including programming a microcontroller..
 9. Students will play with the idea of a fantastic object and experiment with new ways that a human may interact with an object.
