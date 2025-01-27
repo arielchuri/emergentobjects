@@ -19,7 +19,12 @@
 - Ultrasonic range finder  
 - Real Time Clock         
 
-Cost: 43.50
+**Cost: $43.50**
+
+You must Venmo, Zelle, or pay in cash before 3/5/25 to get the bundle on time.
+
+![](images/venmo.png)
+![](images/chase.jpg)
 
 ## Microcontroller
 - [Adafruit Circuit Playground Express](https://learn.adafruit.com/adafruit-circuit-playground-express/overview) $24.95
