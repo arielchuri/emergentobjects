@@ -83,6 +83,15 @@ else:
 
 **Activity**: Write a program to determine if a number entered by the user is odd or even.
 
+In order to complete this assignment, you will have to use the operator _modulo_ (%)
+
+```python
+number = int(input("Enter a number: "))
+print("The remainder of the number/2 is ", number % 2)
+if number % 2 == 0:
+    print("The number is even")
+```
+
 ---
 
 ### 5. Loops (20 minutes)
