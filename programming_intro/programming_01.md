@@ -11,7 +11,7 @@ A nice tutorial site:
 
 # The development environment
 
-We are using the [**Pycharm**](https://www.jetbrains.com/pycharm/) text editor in order to code and run vanilla *python* when not using a microcontroller.
+We are using the [**Mu**](https://codewith.mu/) text editor to write and run *python*.
 
 # Section 1
 
