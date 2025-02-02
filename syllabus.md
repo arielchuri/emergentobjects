@@ -59,9 +59,9 @@ By the successful completion of this course, students will be able, at **an intr
 | week        | date  | Activity                                                                                    |
 | :---------- | :---- | :------------------------------------------------------------------------------------------ |
 | **Week 1**  | 01/27 | Introductions, community agreements, communication, attendance, syllabus, supplies, Canvas. |
-|             |       | _Utopia/Dystopia_ workshop, VS Code \+ Codium                                               |
+|             |       | _Utopia/Dystopia_ workshop, Mu editor, Codium, Python intro                                 |
 |             |       | Assignment: _Emerging Object_, _Utopia/Dystopia_, _Lab Orientations_, _Acquire Supplies_    |
-| **Week 2**  | 02/3  | Python 1, _Object Possibilities_                                                            |
+| **Week 2**  | 02/3  | Python, _Object Possibilities_                                                            |
 |             |       | _Persona_, _Python Application_                                                             |
 | **Week 3**  | 02/10 | Electronics 1, _Object Workshop_                                                            |
 |             |       | Assignment: _Electronic Circuit_, _Object Sketches_                                         |
