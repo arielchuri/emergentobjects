@@ -50,6 +50,12 @@ is_student = True
 
 **Activity**: Have students declare their own variables and print them.
 
+
+- [Strings](https://www.linkedin.com/learning/python-for-students/strings)
+- [Strings](https://www.linkedin.com/learning/python-for-non-programmers/strings)
+- [Creating Variables](https://www.linkedin.com/learning/python-for-students/creating-variables)
+- [Variables](https://www.linkedin.com/learning/python-for-non-programmers/variables)
+
 ---
 
 ### 3. Numbers and basic calculations
@@ -67,7 +73,7 @@ print(6%5) # modulo
 
 ---
 
-### 3. Input and Output (15 minutes)
+### 4. Input and Output (15 minutes)
 
 - **Concept**: Getting input from users and displaying output.
 - **How to Accept Input**: Explain the `input()` function.
@@ -87,7 +93,7 @@ print("You are", age, "years old.")
 
 ---
 
-### 4. Conditional Statements (20 minutes)
+### 5. Conditional Statements (20 minutes)
 
 - **Concept**: Making decisions using `if`, `elif`, and `else`.
 - **Example**:
@@ -106,6 +112,10 @@ else:
 
 In order to complete this assignment, you will have to use the operator _modulo_ (%)
 
+- [Using If](https://www.linkedin.com/learning/python-for-students/using-if)
+- [Variables in Strings](https://www.linkedin.com/learning/python-for-non-programmers/using-variables-in-strings)
+- [Booleans and If Statements](https://www.linkedin.com/learning/python-for-non-programmers/booleans-and-if-statements)
+- [Comparison and Else](https://www.linkedin.com/learning/python-for-non-programmers/comparison-and-else)
 ```python
 number = int(input("Enter a number: "))
 print("The remainder of the number/2 is ", number % 2)
@@ -115,7 +125,7 @@ if number % 2 == 0:
 
 ---
 
-### 5. Loops (20 minutes)
+### 6. Loops (20 minutes)
 
 - **Concept**: Repeating actions using `for` and `while` loops.
 - **Examples**:
@@ -140,7 +150,7 @@ while count < 5:
 
 ---
 
-### 6. Functions (20 minutes)
+### 7. Functions (20 minutes)
 
 - **Concept**: Organizing code into reusable blocks.
 - **Example**:
@@ -166,7 +176,7 @@ print(greet("Alice"))
 
 ---
 
-### 7. Final Project (30 minutes)
+### 8. Final Project (30 minutes)
 
 **Objective**: Combine all the learned concepts into a single program.
 
@@ -214,8 +224,7 @@ print("Your final score is:", score)
 
 ---
 
-### Closing (5 minutes)
+### Next
 
-- Recap the concepts learned.
-- Encourage students to explore Python further and practice regularly.
-- Answer any remaining questions.
+- [What are Lists?](https://www.linkedin.com/learning/python-for-students/what-are-lists)
+- [Lists](https://www.linkedin.com/learning/python-for-non-programmers/lists)
