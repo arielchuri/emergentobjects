@@ -1,6 +1,4 @@
-print(6+5)
-print(6-5)
-print(6*5)
-print(6/5)
-print(6%5)
-
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit)
+print(fruit)
