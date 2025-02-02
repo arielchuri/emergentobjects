@@ -56,39 +56,39 @@ By the successful completion of this course, students will be able, at **an intr
 
 # **Weekly Outline**
 
-| week        | date  | Activity                                                                                    |
-| :---------- | :---- | :------------------------------------------------------------------------------------------ |
-| **Week 1**  | 01/27 | Introductions, community agreements, communication, attendance, syllabus, supplies, Canvas. |
-|             |       | _Utopia/Dystopia_ workshop, Mu editor, Codium, Python intro                                 |
-|             |       | Assignment: _Emerging Object_, _Utopia/Dystopia_, _Lab Orientations_, _Acquire Supplies_    |
-| **Week 2**  | 02/3  | Python, _Object Possibilities_                                                            |
-|             |       | _Persona_, _Python Application_                                                             |
-| **Week 3**  | 02/10 | Electronics 1, _Object Workshop_                                                            |
-|             |       | Assignment: _Electronic Circuit_, _Object Sketches_                                         |
-|             | 02/17 | President’s day (no class)                                                                  |
-| **Week 4**  | 02/24 | Microcontroller programming, Microcontroller & electronics                                  |
-|             |       | Assignment: _Microcontroller Circuit_, _Object Presentation_                                |
-| **Week 5**  | 03/03 | Individual Meetings Online. No in-person meeting                                            |
-|             | 03/10 | Spring Break (no class)                                                                     |
-| **Week 6**  | 03/17 | Advanced microcontroller programming                                                        |
-|             |       | _Object Sell Sheet_                                                                         |
-| **Week 7**  | 03/24 | Peripheral devices, Cardboard engineering                                                   |
-|             |       | _Peripheral Device_, _User Journey_                                                         |
-| **Week 8**  | 03/31 | Midterm check-in & work session                                                             |
-|             |       | _Circuit Programming_, _Acquire Object Materials_                                           |
-| **Week 9**  | 04/07 | Circuit programming                                                                         |
-|             |       | _Prototype Circuit Presentations_, _Mechanical Design_                                      |
-| **Week 10** | 04/14 | How to Solder                                                                               |
-|             |       | _Construct your Enclosure_                                                                  |
-| **Week 11** | 04/21 | Assemble your object                                                                        |
-|             |       | _Assemble Object_                                                                           |
-| **Week 12** | 04/28 | User testing                                                                                |
-|             |       | _Instructions_, _Product Photography_                                                       |
-| **Week 13** | 05/05 | Work session                                                                                |
-|             |       | _Update one sheet_                                                                          |
-| **Week 14** | 05/12 | Work session                                                                                |
-|             |       | _Learning Portfolio Entry_                                                                  |
-| **Week 15** | 05/13 | Final presentation                                                                          |
+| week        | date  | Activity                                                                                                                            |
+| :---------- | :---- | :---------------------------------------------------------------------------------------------------------------------------------- |
+| **Week 1**  | 01/27 | Introductions, community agreements, communication, attendance, syllabus, supplies, Canvas.                                         |
+|             |       | _Utopia/Dystopia_ workshop, Mu editor, Codium, Python intro                                                                         |
+|             |       | Assignment: _Emerging Object_, _Python Application_, _Introduction Post_, _Utopia/Dystopia_, _Lab Orientations_, _Acquire Supplies_ |
+| **Week 2**  | 02/3  | Python 2, _Personas Mind Map_                                                                                                       |
+|             |       | _Persona_, _Object Inspiration_                                                                                                     |
+| **Week 3**  | 02/10 | Electronics 1, _Object Workshop_                                                                                                    |
+|             |       | Assignment: _Electronic Circuit_, _Object Sketches_                                                                                 |
+|             | 02/17 | President’s day (no class)                                                                                                          |
+| **Week 4**  | 02/24 | Microcontroller programming, Microcontroller & electronics                                                                          |
+|             |       | Assignment: _Microcontroller Circuit_, _Object Presentation_                                                                        |
+| **Week 5**  | 03/03 | Individual Meetings Online. No in-person meeting                                                                                    |
+|             | 03/10 | Spring Break (no class)                                                                                                             |
+| **Week 6**  | 03/17 | Advanced microcontroller programming                                                                                                |
+|             |       | _Object Sell Sheet_                                                                                                                 |
+| **Week 7**  | 03/24 | Peripheral devices, Cardboard engineering                                                                                           |
+|             |       | _Peripheral Device_, _User Journey_                                                                                                 |
+| **Week 8**  | 03/31 | Midterm check-in & work session                                                                                                     |
+|             |       | _Circuit Programming_, _Acquire Object Materials_                                                                                   |
+| **Week 9**  | 04/07 | Circuit programming                                                                                                                 |
+|             |       | _Prototype Circuit Presentations_, _Mechanical Design_                                                                              |
+| **Week 10** | 04/14 | How to Solder                                                                                                                       |
+|             |       | _Construct your Enclosure_                                                                                                          |
+| **Week 11** | 04/21 | Assemble your object                                                                                                                |
+|             |       | _Assemble Object_                                                                                                                   |
+| **Week 12** | 04/28 | User testing                                                                                                                        |
+|             |       | _Instructions_, _Product Photography_                                                                                               |
+| **Week 13** | 05/05 | Work session                                                                                                                        |
+|             |       | _Update one sheet_                                                                                                                  |
+| **Week 14** | 05/12 | Work session                                                                                                                        |
+|             |       | _Learning Portfolio Entry_                                                                                                          |
+| **Week 15** | 05/13 | Final presentation                                                                                                                  |
 
 # **Assessable Tasks** These are activities, assignments, projects that satisfy the course's learning outcomes.
 
