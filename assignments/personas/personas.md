@@ -1,7 +1,8 @@
 # Personas
 
-[Universal Methods of Design (excerpt)](universalMethodsOfDesign_Personas.pdf)
-
+- [Universal Methods of Design (excerpt)](universalMethodsOfDesign_Personas.pdf)
+- [Smashing Magazine](https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2/)
+- [CXL](https://cxl.com/blog/user-personas/)
 
 - ![](influencer-15-user-persona-templates-examples-justinmind.png.webp)
 - ![](personas.mduniversalMethodsOfDesign_Personas.pdf)
