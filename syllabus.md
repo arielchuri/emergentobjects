@@ -61,7 +61,7 @@ By the successful completion of this course, students will be able, at **an intr
 | **Week 1**  | 01/27 | Introductions, community agreements, communication, attendance, syllabus, supplies, Canvas.                                         |
 |             |       | _Utopia/Dystopia_ workshop, Mu editor, Codium, Python intro                                                                         |
 |             |       | Assignment: _Emerging Object_, _Python Application_, _Introduction Post_, _Utopia/Dystopia_, _Lab Orientations_, _Acquire Supplies_ |
-| **Week 2**  | 02/3  | Python 2, _Personas Mind Map_                                                                                                       |
+| **Week 2**  | 02/3  | Python 2, _Personas Mind Map_                                                                                                      |
 |             |       | _Persona_, _Object Inspiration_                                                                                                     |
 | **Week 3**  | 02/10 | Electronics 1, _Object Workshop_                                                                                                    |
 |             |       | Assignment: _Electronic Circuit_, _Object Sketches_                                                                                 |
