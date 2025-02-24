@@ -1,4 +1,4 @@
-# Circuit Playground Intro
+# Circuit Python Intro
 
 ## Overview
 
@@ -24,7 +24,9 @@ Following those steps will cause the Raspberry PI Pico to appear as thumbdrive o
 - [Arduino UNO](https://docs.arduino.cc/hardware/uno-rev3)
   
 
+## Raspberry Pi Pico Pinout Diagram
 
+![](../images/graphics/pico_pinout.svg)
 
 ## Connecting to a circuit
 
