@@ -61,6 +61,30 @@ while True:
 1. Blink the led S.O.S
 2. Blink an led using a _loop_.
 
+## Button
+
+### Code
+
+```python
+# Setup the pins for the pot, leds and buttons.
+led1 = digitalio.DigitalInOut(board.GP14)
+led1.direction = digitalio.Direction.OUTPUT
+
+button1 = digitalio.DigitalInOut(board.GP13)
+button1.switch_to_input(pull=digitalio.Pull.DOWN)
+
+while True:
+    led1.value = button1.value
+```
+
+### Circuit illustration
+
+![](../images/graphics/button_circuit.svg)
+
+### Circuit
+
+![](../images/graphics/button_circuit_schem.svg)
+
 ## Moving on
 
 Create the following circuits to use these basic features of your micro.
