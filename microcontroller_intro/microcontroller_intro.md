@@ -30,7 +30,17 @@ Following those steps will cause the Raspberry PI Pico to appear as thumbdrive o
 
 ## Connecting to a circuit
 
-The next step is to connect your MC to circuit. Create the following circuits to use these basic features of your micro.
+The next step is to connect your MC to circuit.
+
+### Circuit illustration
+
+![](../images/graphics/first_micro_circuit.svg)
+
+### Circuit schematic
+
+![](../images/graphics/first_micro_circuit_schem.svg)
+
+Create the following circuits to use these basic features of your micro.
 
 Try to follow the tutorials for your micro to do the following individually:
 
@@ -62,6 +72,21 @@ Here are some tutorials:
 [Arduino - PWM](https://docs.arduino.cc/built-in-examples/basics/Fade)
 
 ## Putting it all together.
+
+### LED circuit
+
+```python
+# Setup the pins for the pot, leds and buttons.
+led1 = digitalio.DigitalInOut(board.GP14)
+led1.direction = digitalio.Direction.OUTPUT
+
+while True:
+    # This line prints the pot value to the terminal.
+    led1.value = 1
+    time.sleep(0.15)
+    led1.value = 0
+    time.sleep(0.35)
+```
 
 The following code has all of the inputs and outputs.
 
