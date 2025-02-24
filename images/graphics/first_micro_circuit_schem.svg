@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      inkscape:zoom="1.5019781"
-     inkscape:cx="615.18872"
-     inkscape:cy="396.81004"
-     inkscape:window-width="3382"
-     inkscape:window-height="1399"
+     inkscape:cx="615.18873"
+     inkscape:cy="397.14294"
+     inkscape:window-width="3396"
+     inkscape:window-height="1440"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -96,12 +96,23 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:Inter;-inkscape-font-specification:'Inter Light';text-align:start;letter-spacing:0.264583px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#37c8ab;stroke:none;stroke-width:1.21894;stroke-linecap:round;stroke-dasharray:none"
        x="117.67224"
        y="149.48372"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:Inter;-inkscape-font-specification:'Inter Light';letter-spacing:0.264583px;fill:#37c8ab;stroke:none;stroke-width:1.21894"
+         x="117.67224"
+         y="149.48372">LED</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:Inter;-inkscape-font-specification:'Inter Light';text-align:start;letter-spacing:0.264583px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#37c8ab;stroke:none;stroke-width:1.21894;stroke-linecap:round;stroke-dasharray:none"
+       x="74.612808"
+       y="134.2686"
        id="text8"><tspan
          sodipodi:role="line"
          id="tspan8"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:Inter;-inkscape-font-specification:'Inter Light';letter-spacing:0.264583px;fill:#37c8ab;stroke:none;stroke-width:1.21894"
-         x="117.67224"
-         y="149.48372">LED</tspan></text>
+         x="74.612808"
+         y="134.2686">14</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:Inter;-inkscape-font-specification:'Inter Light';text-align:start;letter-spacing:0.264583px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#37c8ab;stroke:none;stroke-width:1.21894;stroke-linecap:round;stroke-dasharray:none"
