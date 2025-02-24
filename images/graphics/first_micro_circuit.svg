@@ -8656,8 +8656,10 @@
        y2="81.279999" /></defs><g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Layer 2"><rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-dasharray:none"
+     inkscape:label="Layer 2"
+     style="display:inline"
+     sodipodi:insensitive="true"><rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
        id="rect5"
        width="182.34929"
        height="68.18306"
