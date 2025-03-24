@@ -1,4 +1,4 @@
-# Circuit Python Intro
+# Microcontroller Intro
 
 ## Overview
 
@@ -327,6 +327,10 @@ while True:
     print(potentiometer.value)
 ```
 
+### Light Dependant Resistor
+
+![](../images/graphics/ldr_circuit_schem.svg)
+
 ## PWM Out
 
 ```python
@@ -383,6 +387,7 @@ button1 = digitalio.DigitalInOut(board.GP13)
 button1.switch_to_input(pull=digitalio.Pull.DOWN)
 
 potentiometer = analogio.AnalogIn(board.GP26)
+ldr = analogio.AnalogIn(board.GP27)
 
 # Create the variables
 
@@ -399,7 +404,7 @@ while True:
         if not currentButton1State:
             myMode1 = not myMode1
             print('myMode1 =', myMode1)
-            print("up")
+            print("ldr.value")
         else:
             print("down")
     previousButton1State = currentButton1State
@@ -407,4 +412,5 @@ while True:
     # print("led1 = ", led1.value)
     # This line sets the PWM (pulse width modulation) to the potentiometer value.
     led2.duty_cycle = potentiometer.value
+
 ```
