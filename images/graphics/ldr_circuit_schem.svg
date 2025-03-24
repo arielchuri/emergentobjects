@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   sodipodi:docname="circuit_schem.svg"
+   sodipodi:docname="ldr_circuit_schem.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      inkscape:zoom="1.067402"
-     inkscape:cx="778.5258"
-     inkscape:cy="407.99999"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:cx="778.05738"
+     inkscape:cy="407.53156"
+     inkscape:window-width="1860"
+     inkscape:window-height="1035"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -197,13 +197,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:Inter;-inkscape-font-specification:'Inter Light';text-align:start;letter-spacing:0.264583px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#37c8ab;stroke:none;stroke-width:1.21894;stroke-linecap:round;stroke-dasharray:none"
        x="270.36386"
-       y="89.001968"
+       y="120.75195"
        id="text19"><tspan
          sodipodi:role="line"
          id="tspan19"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:Inter;-inkscape-font-specification:'Inter Light';letter-spacing:0.264583px;fill:#37c8ab;stroke:none;stroke-width:1.21894"
          x="270.36386"
-         y="89.001968">LDR</tspan></text>
+         y="120.75195">LDR</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.64444px;font-family:Inter;-inkscape-font-specification:'Inter Light';text-align:start;letter-spacing:0.264583px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#37c8ab;stroke:none;stroke-width:1.21894;stroke-linecap:round;stroke-dasharray:none"
@@ -383,8 +383,8 @@
        d="m 172.02594,100.63765 h 52.79759"
        id="path14" />
     <path
-       style="fill:#31ab6d;fill-opacity:0.691141;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#marker3)"
-       d="m 171.77806,87.004472 81.55121,0"
+       style="fill:#31ab6d;fill-opacity:0.691141;stroke:#000000;stroke-width:0.269526;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#marker3)"
+       d="m 171.78305,87.004472 h 84.62687"
        id="path1"
        sodipodi:nodetypes="cc" />
     <path
@@ -408,6 +408,6 @@
        width="7.8288078"
        height="11.168708"
        x="256.89182"
-       y="80.779221" />
+       y="112.52921" />
   </g>
 </svg>

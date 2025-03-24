@@ -351,6 +351,31 @@ button1 = digitalio.DigitalInOut(board.GP13)
 button1.switch_to_input(pull=digitalio.Pull.DOWN)
 
 potentiometer = analogio.AnalogIn(board.GP26)
+
+while True:
+    led2.dutycycle = 5000
+```
+
+## PWM Out
+
+```python
+# Emergent Objects
+import board
+import digitalio
+import analogio
+import pwmio
+import time
+
+
+# Setup the pins for the pot, leds and buttons.
+led1 = digitalio.DigitalInOut(board.GP14)
+led1.direction = digitalio.Direction.OUTPUT
+led2 = pwmio.PWMOut(board.GP15, frequency=1000)
+
+button1 = digitalio.DigitalInOut(board.GP13)
+button1.switch_to_input(pull=digitalio.Pull.DOWN)
+
+potentiometer = analogio.AnalogIn(board.GP26)
 ldr = analogio.AnalogIn(board.GP27)
 
 while True:
