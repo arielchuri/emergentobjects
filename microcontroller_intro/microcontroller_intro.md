@@ -385,9 +385,34 @@ while True:
 
 ![](../images/graphics/pwm_circuit_schem.svg)
 
+## Installing a library
+
+External code libraries can be copied to your pico.
+Copy the _./03_libraries/adafruit_simplemath.mpy_ file into the _lib_ folder on your pico.
+This will allow you to use the following command.
+
+## Map Range
+
+```python
+# Emergent Objects
+import board
+import time
+import adafruit_simplemath
+from adafruit_simplemath import map_unconstrained_range
+
+anumber = 68553
+mappednumber = 0
+
+while True:
+    mappednumber = map_unconstrained_range(anumber, 200, 100000, 0, 100)
+    print(f"{mappednumber}\t{int(mappednumber)}")
+```
+
 ---
 
 ![](../images/graphics/pico_pinout.svg)
+
+---
 
 ```python
 import board
