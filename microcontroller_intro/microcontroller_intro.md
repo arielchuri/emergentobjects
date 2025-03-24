@@ -334,6 +334,7 @@ while True:
 ## PWM Out
 
 ```python
+# Emergent Objects
 import board
 import digitalio
 import analogio
@@ -350,16 +351,11 @@ button1 = digitalio.DigitalInOut(board.GP13)
 button1.switch_to_input(pull=digitalio.Pull.DOWN)
 
 potentiometer = analogio.AnalogIn(board.GP26)
-
-# Create the variables
-
-previousButton1State = button1.value
-
-# This is the variable that will change when we press the button.
-myMode1 = False
+ldr = analogio.AnalogIn(board.GP27)
 
 while True:
-    led2.duty_cycle = 1000
+    # print the sensors
+    print(f"button = {button1.value}\t| potentiometer = {potentiometer.value}\t| LDR = {ldr.value}")
 ```
 
 ![](../images/graphics/pwm_circuit_schem.svg)
@@ -367,8 +363,6 @@ while True:
 ---
 
 ![](../images/graphics/pico_pinout.svg)
-
----
 
 ```python
 import board

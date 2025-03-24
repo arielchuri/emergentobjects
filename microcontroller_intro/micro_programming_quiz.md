@@ -46,6 +46,13 @@ while True:
     led2.duty_cycle = potentiometer.value
 ```
 
+## Links
+
+- [Python 1](../programming_intro/python_lesson.md)
+- [Python 2](../programming_2/programming_02.md)
+- [Microcontroller 1](../microcontroller_intro/microcontroller_intro.md)
+- [Microcontroller 2](../microcontroller_two/)
+
 ## Problem One
 
 An LED gets brighter as the room gets darker.
