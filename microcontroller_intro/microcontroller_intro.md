@@ -11,10 +11,10 @@ This guide contains everything you need to set up your microcontroller: [Getting
 1. Download the UF2 file [from this page](https://circuitpython.org/board/raspberry_pi_pico/).
 2. Follow the directions [on this page](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython) to load the file on your chip.
 
-Following those steps will cause the Raspberry PI Pico to appear as thumbdrive on your desktop. If you have or create a text file named _code.py_, it will run automatically. You can use the MU editor or Visual Studio Code with the circuitPython extension to edit your _code.py_ file. 
+Following those steps will cause the Raspberry PI Pico to appear as thumbdrive on your desktop. If you have or create a text file named _code.py_, it will run automatically. You can use the MU editor or Visual Studio Code with the circuitPython extension to edit your _code.py_ file.
 
 - [Circuit Playground Quickstart](https://learn.adafruit.com/circuit-playground-express-circuitpython-5-minute-guide)
- 
+
 - [Mu Editor](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor)
 
 ### Other microcontrollers
@@ -22,7 +22,6 @@ Following those steps will cause the Raspberry PI Pico to appear as thumbdrive o
 - [Adafruit Circuit Playground Express](https://learn.adafruit.com/adafruit-circuit-playground-express)
 
 - [Arduino UNO](https://docs.arduino.cc/hardware/uno-rev3)
-  
 
 ## Raspberry Pi Pico Pinout Diagram
 
@@ -56,6 +55,7 @@ while True:
     led1.value = 0
     time.sleep(0.35)
 ```
+
 ### Exercises
 
 1. Blink the led S.O.S
@@ -118,8 +118,6 @@ Here are some tutorials:
 
 [Arduino - PWM](https://docs.arduino.cc/built-in-examples/basics/Fade)
 
-
-
 The following code has all of the inputs and outputs.
 
 ```python
@@ -142,13 +140,13 @@ while True:
     led2.duty_cycle = potentiometer.value
 ```
 
-There are two problems. We cannot use the sleep function to blink the LED because the micro will sleeping instead of checking the button and pot. The second problem is that a button can have a little bounce which the micro sees as many button presses and we want the button change the way our device works even after the user finishes pressing it. 
+There are two problems. We cannot use the sleep function to blink the LED because the micro will sleeping instead of checking the button and pot. The second problem is that a button can have a little bounce which the micro sees as many button presses and we want the button change the way our device works even after the user finishes pressing it.
 
 There are code libraries that can take care of these issues but we can do it ourselves for code as simple as this.
 
 ## Advanced Button
 
-First lets fix the button. We will create a variable called *myMode1* for the button and then we can use the variable to control whatever we want.
+First lets fix the button. We will create a variable called _myMode1_ for the button and then we can use the variable to control whatever we want.
 
 ```python
 import board
@@ -233,6 +231,7 @@ while True:
             led.value = False
             LAST_BLINK_TIME = now
 ```
+
 Now, lets put the new blink code with the previous button code:
 
 ```python
@@ -297,6 +296,114 @@ while True:
         else:
             print("down")
     previousButton1State = currentButton1State
+    # print("led1 = ", led1.value)
+    # This line sets the PWM (pulse width modulation) to the potentiometer value.
+    led2.duty_cycle = potentiometer.value
+```
+
+## Analog In
+
+### Potentiometer
+
+![](../images/graphics/pot_circuit_schem.svg)
+
+```python
+import board
+import digitalio
+import analogio
+import time
+
+
+# Setup the pins for the pot, leds and buttons.
+led1 = digitalio.DigitalInOut(board.GP14)
+led1.direction = digitalio.Direction.OUTPUT
+
+button1 = digitalio.DigitalInOut(board.GP13)
+button1.switch_to_input(pull=digitalio.Pull.DOWN)
+
+potentiometer = analogio.AnalogIn(board.GP26)
+
+while True:
+    print(potentiometer.value)
+```
+
+## PWM Out
+
+```python
+import board
+import digitalio
+import analogio
+import pwmio
+import time
+
+
+# Setup the pins for the pot, leds and buttons.
+led1 = digitalio.DigitalInOut(board.GP14)
+led1.direction = digitalio.Direction.OUTPUT
+led2 = pwmio.PWMOut(board.GP15, frequency=1000)
+
+button1 = digitalio.DigitalInOut(board.GP13)
+button1.switch_to_input(pull=digitalio.Pull.DOWN)
+
+potentiometer = analogio.AnalogIn(board.GP26)
+
+# Create the variables
+
+previousButton1State = button1.value
+
+# This is the variable that will change when we press the button.
+myMode1 = False
+
+while True:
+    led2.duty_cycle = 1000
+```
+
+![](../images/graphics/pwm_circuit_schem.svg)
+
+---
+
+![](../images/graphics/pico_pinout.svg)
+
+---
+
+```python
+import board
+import digitalio
+import analogio
+import pwmio
+import time
+
+
+# Setup the pins for the pot, leds and buttons.
+led1 = digitalio.DigitalInOut(board.GP14)
+led1.direction = digitalio.Direction.OUTPUT
+led2 = pwmio.PWMOut(board.GP15, frequency=1000)
+
+button1 = digitalio.DigitalInOut(board.GP13)
+button1.switch_to_input(pull=digitalio.Pull.DOWN)
+
+potentiometer = analogio.AnalogIn(board.GP26)
+
+# Create the variables
+
+previousButton1State = button1.value
+
+# This is the variable that will change when we press the button.
+myMode1 = False
+
+while True:
+    currentButton1State = button1.value
+    if currentButton1State != previousButton1State:
+        # print statements like these can be seen in the serial terminal
+        # print('yes')
+        if not currentButton1State:
+            myMode1 = not myMode1
+            print('myMode1 =', myMode1)
+            print("up")
+        else:
+            print("down")
+    previousButton1State = currentButton1State
+    led1.value = myMode1
     # print("led1 = ", led1.value)
     # This line sets the PWM (pulse width modulation) to the potentiometer value.
     led2.duty_cycle = potentiometer.value
