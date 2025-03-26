@@ -1,5 +1,7 @@
 # Micro Programming Quiz
 
+Each problem includes psuedo code to get you started.
+
 ## Starter Code
 
 ```python
@@ -57,17 +59,93 @@ while True:
 
 An LED gets brighter as the room gets darker.
 
+```python
+
+pwm.dutycycle = lightsensor.value
+
+
+```
+
 ## Problem Two
 
 Make an LED slowly fade in and out.
 
-An LED turns on when the room get dark. The level of darkness required to turn on the LED may be adjusted with a potentiometer.
+```python
+
+ledBrightness = 0
+ledDirection = 1
+maxBrightness = 6000
+
+while true:
+    led.dutycycle = ledBrightness
+    ledBrightness = ledBrightness + ledDirection
+    time.sleep(.05)
+    if ledBrightness >= maxBrightness OR ledBrightness <= 0:
+        ledDirection = ledDirection x -1
+
+```
 
 ## Problem Three
+
+An LED turns on when the room get dark. The level of darkness required to turn on the LED may be adjusted with a potentiometer.
+
+You will need the _simplemath_ library on your pico. Instructions are in this file [microcontroller_intro](./microcontroller_intro.md) and the library is here [libraries folder](03_libraries).
+
+```python
+
+import adafruit_simplemath
+from adafruit_simplemath import map_unconstrained_range
+
+potValue = 0
+lightValue = 0
+
+while true:
+    potValue = potentiometer.value
+    lightValue = lightsensor.value
+
+    # this takes the potentiometers value range and makes it 1-100
+    potValue  = map_unconstraned_range(potValue, 0, 65535, 1, 100)
+
+    # you will need change the first two numbers to the high and low of your light sensor
+    lightValue = map_unconstraned_range(lightValue, 330, 9056, 1, 100)
+
+    if lightValue > potValue:
+        led.value = true
+    else
+        led.value = false
+
+```
+
+## Problem four
 
 On button press, an off LED becomes brighter in 6 steps. Each step being 3/4 of a second long.
 The button will turn off the LED at any time.
 
-## Problem 4
+```python
+
+lightMode = false
+brightnessValues = [200, 1000, 2000, 3000, 4000, 6000]
+brightnessStep = 0
+previousTime = 0
+
+while true:
+    check button to see if we need to change the mode
+
+    if lightMode == true:
+        # send the current brightness to the led
+        led.dutycycle = brightnessValues[brightnessStep]
+        # change the current brightness if enough time has passed
+        if enough time has passed:
+            brightnessStep += 1
+            if brightnessStep > 5:
+                brightnessStep = 0
+    else:
+        led.dutycycle = 0
+        brightnessStep = 0
+
+```
+
+## Problem five
 
 Two buttons. Pressing button1 changes the effect of Button2. Button2 will either, make an LED blink, or make the same LED 60% bright, or make the LED turn off.
+(use touch sensor or two wires for the second button)

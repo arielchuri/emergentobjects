@@ -356,7 +356,7 @@ while True:
     led2.dutycycle = 5000
 ```
 
-## PWM Out
+## Light Dependent Resistor
 
 ```python
 # Emergent Objects
@@ -393,6 +393,8 @@ This will allow you to use the following command.
 
 ## Map Range
 
+The maprange command allows you to map one range of numbers to another. For example, if you take the value 50, in a range of 1-100 and map it to 1-1000, it would return 500.
+
 ```python
 # Emergent Objects
 import board
@@ -408,6 +410,16 @@ while True:
     print(f"{mappednumber}\t{int(mappednumber)}")
 ```
 
+## Touch Sensor
+
+A small device with a metal circle that acts like a button when touched.
+
+It has three pins:
+
+- VCC: connects to power
+- Ground: connects to ground
+- IO: connects to a pico pin set up as a button
+
 ---
 
 ![](../images/graphics/pico_pinout.svg)
@@ -420,6 +432,8 @@ import digitalio
 import analogio
 import pwmio
 import time
+import adafruit_simplemath
+from adafruit_simplemath import map_unconstrained_range
 
 
 # Setup the pins for the pot, leds and buttons.
@@ -429,6 +443,8 @@ led2 = pwmio.PWMOut(board.GP15, frequency=1000)
 
 button1 = digitalio.DigitalInOut(board.GP13)
 button1.switch_to_input(pull=digitalio.Pull.DOWN)
+button2 = digitalio.DigitalInOut(board.GP12)
+button2.switch_to_input(pull=digitalio.Pull.DOWN)
 
 potentiometer = analogio.AnalogIn(board.GP26)
 ldr = analogio.AnalogIn(board.GP27)
@@ -441,20 +457,10 @@ previousButton1State = button1.value
 myMode1 = False
 
 while True:
+    print(f"button1 = {button1.value}\t|button2 = {button2.value}\t| potentiometer = {potentiometer.value}\t| LDR = {ldr.value}")
+    led1.value = button1.value
     currentButton1State = button1.value
     if currentButton1State != previousButton1State:
-        # print statements like these can be seen in the serial terminal
-        # print('yes')
-        if not currentButton1State:
-            myMode1 = not myMode1
-            print('myMode1 =', myMode1)
-            print("ldr.value")
-        else:
-            print("down")
-    previousButton1State = currentButton1State
-    led1.value = myMode1
-    # print("led1 = ", led1.value)
-    # This line sets the PWM (pulse width modulation) to the potentiometer value.
     led2.duty_cycle = potentiometer.value
 
 ```
