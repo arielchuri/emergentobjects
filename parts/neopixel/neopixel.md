@@ -10,7 +10,7 @@ Each Neopixel draws a small amount of power.
 A large number of Neopixels could use a lot of power and require changes to your circuit.
 
 You can use the neopixel library from Adafruit to control your neopixels.
-Download the library ([circuitPython Library Bundle](https://circuitpython.org/librarieshttps://circuitpython.org/libraries)) and copy the _neopixel.py_ file to your Pico's _lib_ folder.
+Download the library. This page has a link to the _latest release_ ([circuitPython Library Bundle]( https://docs.circuitpython.org/projects/bundle/en/stable/ )). Copy the _neopixel.py_ file to your Pico's _lib_ folder.
 
 ![Circuit diagram of neopixel](neopixel_circuit.png)
 
