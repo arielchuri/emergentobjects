@@ -14,6 +14,8 @@ Download the library. This page has a link to the _latest release_ ([circuitPyth
 
 ![Circuit diagram of neopixel](neopixel_circuit.png)
 
+![Pinout diagram of neopixel](neopixel_5mm_diagram.svg)
+
 ## Links
 
 - [Neopixel uber guide](https://learn.adafruit.com/adafruit-neopixel-uberguide)
