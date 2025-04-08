@@ -18,19 +18,20 @@ This document describes the process and the first two deliverables required for 
 
 ### To do list
 
-- [ ] Inspiration Board (described here)
-- [ ] Proposal Document (described here)
+- [ ] Inspiration Board (miro, include link in *Proposal Document*)
+- [ ] Proposal Document (google doc, txt, md)
 - [ ] Sketch
-- [ ] Functional Diagram
-- [ ] Psuedo-code
-- [ ] Mechanical Drawing
-- [ ] Bill of Materials
-- [ ] Code
+- [ ] Functional Diagram (graphic)
+- [ ] Pseudo-code (py, txt, md)
+- [ ] Circuit Diagram (png, jpg, svg)
+- [ ] Mechanical Drawing (png, jpg, svg)
+- [ ] Bill of Materials (doc, csv, txt, md)
+- [ ] Code (py)
 - [ ] Documentation post (*Learning Portfolio*)
 
 ## Proposal Document
 
-![](images/document.png)
+![](document.png)
 
 Create a single page document describing what you will make.
 We will use this document to customize a plan specific to your design goals.
@@ -46,7 +47,7 @@ Include:
 
 ## Inspiration Board
 
-![](images/inspiration.png)
+![](inspiration.png)
 
 Create a board using [Miro](https://miro.com) and layout a collection of images and links.
 Use this board as a place to both, help design the look and feel of the object you want to create, and collate inspirational or similar projects that you find in your research.
@@ -66,7 +67,10 @@ This diagram shows the relationship of the deliverables to the overall phases of
 
 ## Mechanical Drawing
 
-![Orgone Projector drawing](projector_mech.png)
+![Orgone Projector drawing](mechanical-m.svg)
+
+![Orgone Projector drawing](projector_mech.png) 
+
 ![Buddha Box drawing](buddhabox_mech.jpg)
 
 ## Circuit Diagram
@@ -75,14 +79,14 @@ This diagram shows the relationship of the deliverables to the overall phases of
 
 ## Bill of Materials
 
-| Name              | Type              | Qty. | Link                                            | Datasheet                                                                                  |
-| ----------------- | ----------------- | ---- | ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Acrylic           | Matte White       |      |                                                 |                                                                                            |
-|                   | Smoked            |      |                                                 |                                                                                            |
-|                   | Clear, green edge |      |                                                 |                                                                                            |
-| Arduino UNO       |                   |      |                                                 |                                                                                            |
-| Mini breadboard   |                   |      |                                                 |                                                                                            |
-| Resistor          | 1M                | 1    |                                                 |                                                                                            |
+| Name              | Type              | Qty. | Link                                            | Measurements                                                 |
+| ----------------- | ----------------- | ---- | ----------------------------------------------- | ------------------------------------------------------------ |
+| Acrylic           | Matte White       |      |                                                 | 2"x2"x2" and/or link to data                                 |
+|                   | Smoked            |      |                                                 |                                                              |
+|                   | Clear, green edge |      |                                                 |                                                              |
+| Arduino UNO       |                   |      |                                                 |                                                              |
+| Mini breadboard   |                   |      |                                                 |                                                              |
+| Resistor          | 1M                | 1    |                                                 |                                                              |
 | Neopixel          | 8mm               | 2    | [source](https://www.adafruit.com/product/1734) | [data](https://www.adafruit.com/images/product-files/1138/SK6812%20LED%20datasheet%20.pdf) |
-| Jumper wires      |                   |      |                                                 |                                                                                            |
-| Double-sided tape |                   |      |                                                 |                                                                                            |
+| Jumper wires      |                   |      |                                                 |                                                              |
+| Double-sided tape |                   |      |                                                 |                                                              |
