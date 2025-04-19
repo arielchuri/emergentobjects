@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11in"
+   height="8.5in"
+   viewBox="0 0 279.4 215.9"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     inkscape:zoom="4"
+     inkscape:cx="298.375"
+     inkscape:cy="93.625"
+     inkscape:window-width="3398"
+     inkscape:window-height="1440"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="1.27"
+       spacingy="1.27"
+       empcolor="#0099e5"
+       empopacity="0.49411765"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="2"
+       enabled="false"
+       visible="true" />
+    <inkscape:grid
+       id="grid2"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#ff51b7"
+       empopacity="0.30196078"
+       color="#e50085"
+       opacity="0.14901961"
+       empspacing="10"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g19"
+       transform="translate(15.851051,1.140624)"
+       style="stroke:#00222b">
+      <path
+         id="path8"
+         style="fill:none;stroke:#00222b;stroke-width:0.449792;stroke-dasharray:none;stroke-opacity:0.5"
+         d="m 82.695182,54.859375 v -7.032844 h 1.45377"
+         sodipodi:nodetypes="ccc" />
+      <rect
+         style="fill:none;stroke:#00222b;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+         id="rect12"
+         width="14.127013"
+         height="17"
+         x="85.021965"
+         y="29.859377" />
+      <rect
+         style="fill:none;stroke:#00222b;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="rect2"
+         width="0.87300098"
+         height="19.999998"
+         x="84.148949"
+         y="28.859377" />
+    </g>
+    <g
+       id="g17"
+       transform="translate(1.1427078,1.140625)"
+       style="stroke:#00222b">
+      <rect
+         style="fill:none;stroke:#00222b;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
+         id="rect3"
+         width="10.160001"
+         height="2.5399971"
+         x="53.650284"
+         y="46.305161" />
+      <path
+         style="fill:#00ff00;stroke:#00222b;stroke-width:0.635;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:0, 2.54;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 54.920289,47.57515 h 7.620003"
+         id="path17" />
+      <path
+         id="path13"
+         style="fill:none;stroke:#00222b;stroke-width:0.449792;stroke-dasharray:none;stroke-opacity:0.5"
+         d="M 62.520702,54.859375 V 48.845158"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="path14"
+         style="fill:none;stroke:#00222b;stroke-width:0.449792;stroke-dasharray:none;stroke-opacity:0.5"
+         d="M 57.410936,54.859375 V 48.845158"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="path15"
+         style="fill:none;stroke:#00222b;stroke-width:0.449792;stroke-dasharray:none;stroke-opacity:0.5"
+         d="M 59.999462,54.859375 V 48.845158"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="path16"
+         style="fill:none;stroke:#00222b;stroke-width:0.449792;stroke-dasharray:none;stroke-opacity:0.5"
+         d="M 54.924793,54.859375 V 48.845158"
+         sodipodi:nodetypes="cc" />
+      <circle
+         style="fill:none;stroke:#00222b;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+         id="circle6"
+         cx="48.357292"
+         cy="38.359375"
+         r="8.5" />
+      <circle
+         style="fill:none;stroke:#00222b;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+         id="path6"
+         cx="69.357292"
+         cy="38.326302"
+         r="8.5" />
+      <rect
+         style="fill:none;stroke:#00222b;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="rect11"
+         width="40.000004"
+         height="20"
+         x="38.857292"
+         y="28.859375" />
+    </g>
+    <g
+       id="g18"
+       transform="translate(1.2697095,11.152758)"
+       style="stroke:#00222b">
+      <path
+         id="path10"
+         style="fill:none;stroke:#00222b;stroke-width:0.449792;stroke-dasharray:none;stroke-opacity:0.5"
+         d="m 62.520702,60.859375 v -2"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="path9"
+         style="fill:none;stroke:#00222b;stroke-width:0.449792;stroke-dasharray:none;stroke-opacity:0.5"
+         d="m 57.469401,60.859375 v -2"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="path11"
+         style="fill:none;stroke:#00222b;stroke-width:0.449792;stroke-dasharray:none;stroke-opacity:0.5"
+         d="m 59.999462,60.859375 v -2"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect3-1"
+         style="fill:none;stroke:#00222b;stroke-width:0.449792;stroke-dasharray:none;stroke-opacity:0.5"
+         d="m 54.924793,60.859375 v -2"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="fill:none;stroke:#00222b;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+         id="rect13"
+         width="14.127013"
+         height="17"
+         x="61.872677"
+         y="-77.857292"
+         transform="rotate(90)" />
+      <rect
+         style="fill:none;stroke:#00222b;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+         id="rect8"
+         width="14.127013"
+         height="17"
+         x="61.872677"
+         y="-56.872009"
+         transform="rotate(90)" />
+      <rect
+         style="fill:none;stroke:#00222b;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="rect7"
+         width="40.000004"
+         height="1"
+         x="38.857292"
+         y="60.859375" />
+      <path
+         style="fill:#00ff00;stroke:#00222b;stroke-width:0.635;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:0, 2.54;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 54.920289,58.847242 h 7.620003"
+         id="path7" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.7;font-family:'Hack Nerd Font Mono';-inkscape-font-specification:'Hack Nerd Font Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.449792;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+       x="185.37604"
+       y="49.855728"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Chalet Sixty';-inkscape-font-specification:'Chalet Sixty Bold';fill:#1a1a1a;stroke:none;stroke-width:0.449792"
+         x="185.37604"
+         y="49.855728">Sparkle Labs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.7;font-family:'Chalet Eighty';-inkscape-font-specification:'Chalet Eighty Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.449792;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+       x="140.79375"
+       y="112.49583"
+       id="text27"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Monaspace Argon Frozen';-inkscape-font-specification:'Monaspace Argon Frozen Medium';fill:#1a1a1a;stroke:none;stroke-width:0.449792"
+         x="140.79375"
+         y="112.49583">Sparkle Labs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.7;font-family:'Chalet Eighty';-inkscape-font-specification:'Chalet Eighty Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.449792;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+       x="40"
+       y="15.790627"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-expanded;font-family:'Monaspace Krypton Frozen';-inkscape-font-specification:'Monaspace Krypton Frozen Semi-Expanded';fill:#1a1a1a;stroke:none;stroke-width:0.449792"
+         x="40"
+         y="15.790627">HC-SR04</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.7;font-family:'Chalet Eighty';-inkscape-font-specification:'Chalet Eighty Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.449792;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+       x="141.85207"
+       y="140"
+       id="text29"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Monaspace Neon Frozen';-inkscape-font-specification:'Monaspace Neon Frozen';fill:#1a1a1a;stroke:none;stroke-width:0.449792"
+         x="141.85207"
+         y="140">Sparkle Labs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.7;font-family:'Chalet Eighty';-inkscape-font-specification:'Chalet Eighty Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.449792;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+       x="210.77603"
+       y="111.83437"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Monaspace Radon Frozen';-inkscape-font-specification:'Monaspace Radon Frozen';fill:#1a1a1a;stroke:none;stroke-width:0.449792"
+         x="210.77603"
+         y="111.83437">Sparkle Labs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.7;font-family:'Chalet Eighty';-inkscape-font-specification:'Chalet Eighty Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.449792;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+       x="210"
+       y="125.725"
+       id="text31"><tspan
+         sodipodi:role="line"
+         id="tspan31"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Monaspace Xenon Frozen';-inkscape-font-specification:'Monaspace Xenon Frozen Medium';fill:#1a1a1a;stroke:none;stroke-width:0.449792"
+         x="210"
+         y="125.725">Sparkle Labs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.7;font-family:'Chalet Eighty';-inkscape-font-specification:'Chalet Eighty Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.449792;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+       x="212.23125"
+       y="137.23438"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Monaspace Argon Frozen';-inkscape-font-specification:'Monaspace Argon Frozen Medium';fill:#1a1a1a;stroke:none;stroke-width:0.449792"
+         x="212.23125"
+         y="137.23438">Sparkle Labs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.7;font-family:'Chalet Eighty';-inkscape-font-specification:'Chalet Eighty Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.449792;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+       x="139"
+       y="23"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight Ultra-Bold';fill:#1a1a1a;stroke:none;stroke-width:0.449792"
+         x="139"
+         y="23">Sparkle Labs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.7;font-family:'Chalet Eighty';-inkscape-font-specification:'Chalet Eighty Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.449792;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+       x="145"
+       y="35"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Heavy';fill:#1a1a1a;stroke:none;stroke-width:0.449792"
+         x="145"
+         y="35">SPARKLE LABS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.7;font-family:'Chalet Eighty';-inkscape-font-specification:'Chalet Eighty Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.449792;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+       x="147"
+       y="80"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Chalet Seventy';-inkscape-font-specification:'Chalet Seventy Light';fill:#1a1a1a;stroke:none;stroke-width:0.449792"
+         x="147"
+         y="80">Sparkle Labs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.7;font-family:'Chalet Eighty';-inkscape-font-specification:'Chalet Eighty Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.449792;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+       x="225.49545"
+       y="200"
+       id="text25"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Chalet Seventy';-inkscape-font-specification:'Chalet Seventy';fill:#1a1a1a;stroke:none;stroke-width:0.449792"
+         x="225.49545"
+         y="200">Sparkle Labs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;line-height:1.7;font-family:'Chalet Eighty';-inkscape-font-specification:'Chalet Eighty Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.449792;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5"
+       x="195.68333"
+       y="81.318748"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Chalet Seventy';-inkscape-font-specification:'Chalet Seventy Medium';fill:#1a1a1a;stroke:none;stroke-width:0.449792"
+         x="195.68333"
+         y="81.318748">Sparkle Labs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.7;font-family:inter;-inkscape-font-specification:'inter Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke:none;stroke-width:0.449792;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="139.73541"
+       y="50.847916"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:inter;-inkscape-font-specification:'inter Bold';fill:#1a1a1a;stroke:none;stroke-width:0.449792"
+         x="139.73541"
+         y="50.847916">Sparkle Labs</tspan></text>
+  </g>
+</svg>
