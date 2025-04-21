@@ -28,9 +28,9 @@
      labelstyle="below"
      inkscape:clip-to-page="false"
      showgrid="false"
-     inkscape:zoom="1.067402"
-     inkscape:cx="528.38576"
-     inkscape:cy="408"
+     inkscape:zoom="0.50338699"
+     inkscape:cx="389.36246"
+     inkscape:cy="579.07734"
      inkscape:window-width="1878"
      inkscape:window-height="1080"
      inkscape:window-x="0"
@@ -257,6 +257,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="font-variation-settings:normal;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect57"
+       width="280.1481"
+       height="214.44734"
+       x="0"
+       y="0" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,179.39123,29.775157)"
@@ -264,54 +271,54 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:expanded;font-size:13.3333px;line-height:1.7;font-family:'Monaspace Krypton Frozen';-inkscape-font-specification:'Monaspace Krypton Frozen Semi-Bold Expanded';text-align:start;letter-spacing:-0.8px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect533);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
          x="22.054688"
          y="304.67295"
-         id="tspan3"><tspan
+         id="tspan12"><tspan
            style="font-stretch:normal;-inkscape-font-specification:'Monaspace Krypton Frozen Semi-Bold'"
-           id="tspan1">2D grid to axiometric</tspan><tspan
+           id="tspan10">2D grid to axiometric</tspan><tspan
            style="font-weight:normal;font-stretch:normal;-inkscape-font-specification:'Monaspace Krypton Frozen'"
-           id="tspan2">
+           id="tspan11">
 </tspan></tspan><tspan
          x="22.054688"
          y="327.33957"
-         id="tspan5"><tspan
+         id="tspan14"><tspan
            style="fill:#0077b9"
-           id="tspan4">Wall A: scale W 89.66% H 10.353%, skew </tspan></tspan><tspan
+           id="tspan13">Wall A: scale W 89.66% H 10.353%, skew </tspan></tspan><tspan
          x="22.054688"
          y="350.0062"
-         id="tspan8"><tspan
+         id="tspan17"><tspan
            style="fill:#0077b9"
-           id="tspan6">V -30°</tspan><tspan
+           id="tspan15">V -30°</tspan><tspan
            style="font-weight:normal;font-stretch:normal;-inkscape-font-specification:'Monaspace Krypton Frozen'"
-           id="tspan7">
+           id="tspan16">
 </tspan></tspan><tspan
          x="22.054688"
          y="372.67283"
-         id="tspan19"><tspan
+         id="tspan22"><tspan
            style="fill:#e1005f"
-           id="tspan9">Wall B: scale W 89.66 H 10.353%, skew </tspan></tspan><tspan
+           id="tspan18">Wall B: scale W 89.66 H 10.353%, skew </tspan></tspan><tspan
          x="22.054688"
          y="395.33945"
-         id="tspan25"><tspan
+         id="tspan28"><tspan
            style="fill:#e1005f"
-           id="tspan20">V 30°</tspan><tspan
+           id="tspan23">V 30°</tspan><tspan
            style="font-weight:normal;font-stretch:normal;-inkscape-font-specification:'Monaspace Krypton Frozen'"
-           id="tspan24">
+           id="tspan27">
 </tspan></tspan><tspan
          x="22.054688"
          y="419.13388"
-         id="tspan35"><tspan
+         id="tspan31"><tspan
            dx="0 10.366643 10.366643 10.366643 10.366643 10.366643 10.359982 10.366643 10.359975 10.366643 10.366643 10.366651 10.366643 10.359975 10.366643 10.366651 10.366635 10.359982 10.366635 10.366651 10.366635 10.366651 10.359982 10.366635 10.366651 10.366635 10.359982 10.366635 10.366651 10.366651"
            style="fill:#14aa00"
-           id="tspan26">Floor : skew 15° 15°, rot -45V</tspan><tspan
+           id="tspan29">Floor : skew 15° 15°, rot -45V</tspan><tspan
            dx="10.366651"
            style="font-weight:normal;font-stretch:normal;-inkscape-font-specification:'Monaspace Krypton Frozen'"
-           id="tspan34">
+           id="tspan30">
 </tspan></tspan><tspan
          x="22.054688"
          y="441.80049"
-         id="tspan37"><tspan
+         id="tspan33"><tspan
            dx="0 8.2666569 8.2666569 8.2666578 8.2666559 8.199975 8.2666597 8.2666559 8.2666559 8.2666597 8.2666521 8.1999788 8.2666597 8.2666521 8.2666597 8.2466402 8.2666597 8.2666597 8.2666521"
            style="font-weight:normal;font-stretch:normal;-inkscape-font-specification:'Monaspace Krypton Frozen'"
-           id="tspan36">All: scale 107.53% </tspan></tspan></text>
+           id="tspan32">All: scale 107.53% </tspan></tspan></text>
     <g
        id="g543"
        transform="matrix(1.1704737,0,0,1.1704737,130.40231,-58.269398)"
@@ -489,7 +496,7 @@
     </g>
     <path
        id="rect4-0-1-6"
-       style="font-variation-settings:normal;mix-blend-mode:normal;vector-effect:none;fill:#ffff00;fill-opacity:0.407843;stroke:none;stroke-width:0.0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0;-inkscape-stroke:none;stop-color:#000000"
+       style="font-variation-settings:normal;mix-blend-mode:multiply;vector-effect:none;fill:#ffff00;fill-opacity:0.407843;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        inkscape:transform-center-x="9.0268752"
        inkscape:transform-center-y="-0.01618602"
        d="m 63.852924,149.56088 33.232966,-19.18707 33.23296,19.18706 -33.232964,19.18707 z" />
@@ -507,10 +514,11 @@
        d="m 37.374373,72.87793 33.233878,19.18759 v 38.30829 L 37.374373,111.18622 Z" />
     <path
        id="rect4-0-7-4-4"
-       style="font-variation-settings:normal;mix-blend-mode:normal;vector-effect:none;fill:#00ffff;fill-opacity:0.407843;stroke:none;stroke-width:0.0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0;-inkscape-stroke:none;stop-color:#000000"
+       style="font-variation-settings:normal;mix-blend-mode:multiply;vector-effect:none;fill:#00ffff;fill-opacity:0.407843;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        inkscape:transform-center-x="-4.4995436"
        inkscape:transform-center-y="-7.816698"
-       d="m 130.32333,111.25206 -33.233867,19.18759 v 38.30829 l 33.233867,-19.18759 z" />
+       d="m 130.32333,111.25206 -33.233867,19.18759 v 38.30829 l 33.233867,-19.18759 z"
+       sodipodi:nodetypes="ccccc" />
     <g
        id="g55">
       <path
@@ -522,16 +530,11 @@
          style="fill:#8100e0;stroke:none;fill-opacity:0.285795;stroke-opacity:0.0;stroke-width:0px;stop-color:#000000"
          id="path55" />
     </g>
-    <g
-       id="g57">
-      <path
-         d="M 86.0097 136.791 L 97.0871 130.396 L 119.242 155.957 L 108.165 162.352 Z"
-         style="fill:#aaff55;stroke:none;fill-opacity:0.407843;stroke-opacity:0.0;stroke-width:0px;stop-color:#000000"
-         id="path56" />
-      <path
-         d="M 108.167 124.022 L 97.0883 130.418 L 108.166 162.352 L 119.244 155.956 Z"
-         style="fill:#55ffaa;stroke:none;fill-opacity:0.407843;stroke-opacity:0.0;stroke-width:0px;stop-color:#000000"
-         id="path57" />
-    </g>
+    <circle
+       style="font-variation-settings:normal;opacity:1;fill:#ff9500;fill-opacity:0.30207947;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path57"
+       cx="97.499947"
+       cy="169.37659"
+       r="37.975048" />
   </g>
 </svg>
