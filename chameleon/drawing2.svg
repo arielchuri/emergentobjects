@@ -26,14 +26,14 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="1016.1124"
-     inkscape:cy="754.48293"
-     inkscape:window-width="3374"
-     inkscape:window-height="1416"
+     inkscape:cx="1015.4053"
+     inkscape:cy="755.19004"
+     inkscape:window-width="1008"
+     inkscape:window-height="613"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer3">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid1"
        units="in"
@@ -9207,32 +9207,32 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:expanded;font-size:13.3333px;line-height:1.7;font-family:'Monaspace Krypton Frozen';-inkscape-font-specification:'Monaspace Krypton Frozen Semi-Bold Expanded';text-align:start;letter-spacing:-0.8px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect533);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
          x="22.054688"
          y="304.67295"
-         id="tspan13"><tspan
+         id="tspan4"><tspan
            style="font-stretch:normal;-inkscape-font-specification:'Monaspace Krypton Frozen Semi-Bold'"
-           id="tspan11">2D grid to axiometric</tspan><tspan
+           id="tspan2">2D grid to axiometric</tspan><tspan
            style="font-weight:normal;font-stretch:normal;-inkscape-font-specification:'Monaspace Krypton Frozen'"
-           id="tspan12">
+           id="tspan3">
 </tspan></tspan><tspan
          x="22.054688"
          y="327.33957"
-         id="tspan15"><tspan
+         id="tspan6"><tspan
            style="font-weight:normal;font-stretch:normal;-inkscape-font-specification:'Monaspace Krypton Frozen'"
-           id="tspan14">Wall A: scale W 71% H 81.85%, skew V -30°
+           id="tspan5">Wall A: scale W 71% H 81.85%, skew V -30°
 </tspan></tspan><tspan
          x="22.054688"
          y="350.0062"
-         id="tspan17"><tspan
+         id="tspan8"><tspan
            style="font-weight:normal;font-stretch:normal;-inkscape-font-specification:'Monaspace Krypton Frozen'"
-           id="tspan16">Wall B: scale W 71% H 81.85%, skew V 30°
+           id="tspan7">Wall B: scale W 71% H 81.85%, skew V 30°
 </tspan></tspan><tspan
          x="22.054688"
          y="372.67283"
-         id="tspan19"><tspan
+         id="tspan10"><tspan
            style="font-weight:normal;font-stretch:normal;-inkscape-font-specification:'Monaspace Krypton Frozen'"
-           id="tspan18">Floor : rot 45°, scale H 57.7% </tspan></tspan></text>
+           id="tspan9">Floor : rot 45°, scale H 57.7% </tspan></tspan></text>
     <g
        id="g543"
-       transform="matrix(1.1704737,0,0,1.1704737,-136.24162,174.73373)"
+       transform="matrix(1.1704737,0,0,1.1704737,-88.346919,193.06842)"
        style="stroke-width:0.854355">
       <rect
          style="opacity:1;fill:#243131;fill-opacity:0.216205;stroke:#243131;stroke-width:0.226048;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
