@@ -8,6 +8,9 @@ Connect the clock chip to power and ground and the SDA to pin GP10 and the SCL G
 
 This code is based on this guide: [Adafruit DS3231 Precision RTC Breakout](https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout/circuitpython)
 
+
+You will need copy this file to the _lib_ folder on your _Pico_. [adafruit_ds3231.mpy](adafruit_ds3231.mpy) (2025-04-28 Newer version may be available from [Adafruit](https://learn.adafruit.com/welcome-to-circuitpython/circuitpython-libraries))
+
 ```python
 import time
 import board
