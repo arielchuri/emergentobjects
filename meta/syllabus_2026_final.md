@@ -1,15 +1,21 @@
 # PUFY 1263: Emergent Objects
 
 **Spring 2026, PUFY 1263**
+
 **CRN:**
 
 **Spring 2026**
+
 **Class Time:** Monday, 12:10 PM – 2:50 PM
+
 **Location:** Parsons 2 W 13th #1013
+
 **Canvas Site:** to be added
 
 **Instructor:** Ariel Churi
+
 **E-mail:** churia@newschool.edu
+
 **Office Hours:** By appointment virtually or before or after class.
 
 ---
@@ -42,43 +48,43 @@ By the successful completion of this course, students will be able, at an introd
 
 ## Weekly Outline
 
-| Topic | week + date | Activity                                                                    | Due               |
-| :---- | :---------- | :-------------------------------------------------------------------------- | :---------------- |
-|       | **Week 1**  | Class community agreements, expectations on attendance and communication,   |                   |
-|       | **Jan 26**  | Canvas site walkthrough. **Intro:** Syllabus and supplies.                  | Lab Orientation   |
-|       |             | **Lecture:** Utopia/Dystopia. **Workshop:** Setup Codium.                   |                   |
-|       | **Week 2**  | **Lecture:** The User Persona.                                              | Persona Draft     |
-|       | **Feb 2**   | **Demo:** Basic Python (Variables/Conditions). **Workshop:** Logic puzzles. |                   |
-|       | **Week 3**  | **Lecture:** Electricity Fundamentals.                                      | Python App        |
-|       | **Feb 9**   | **Demo:** Circuit Prototyping. **Workshop:** Basic circuits.                |                   |
-|       | —           | **NO CLASS – President's Day**                                              | —                 |
-|       | **Feb 16**  |                                                                             |                   |
-|       | **Week 4**  | **Lecture:** Code meets electricity.                                        | Circuit Plan      |
-|       | **Feb 23**  | **Demo:** Blinking LEDs with Code. **Workshop:** Wiring.                    |                   |
-|       | **Week 5**  | **Workshop:** Your first electronic object.                                 | Object Sketches   |
-|       | **Mar 2**   |                                                                             |                   |
-|       | **Week 6**  | **Lecture:** Coding fundamentals.                                           | Sell Sheet        |
-|       | **Mar 9**   | **Demo:** Sensors & Input. **Workshop:** Soldering Intro.                   |                   |
-|       | —           | **NO CLASS – Spring Break**                                                 | —                 |
-|       | **Mar 16**  |                                                                             |                   |
-|       | **Week 7**  | **Lecture:** Cardboard Engineering. **Demo:** Enclosure building.           | User Journey      |
-|       | **Mar 23**  | **Workshop:** Prototyping.                                                  |                   |
-|       | **Week 8**  | **Mid-Term Check-ins:** Detailed individual assessment of progress.         | Up-to-date grades |
-|       | **Mar 30**  |                                                                             |                   |
-|       | **Week 9**  | **Demo:** Advanced Code Loops.                                              | Prototype Pres.   |
-|       | **Apr 6**   | **Workshop:** Final project troubleshooting.                                |                   |
-|       | **Week 10** | **Workshop:** Soldering and final assembly.                                 | Enclosure build   |
-|       | **Apr 13**  |                                                                             |                   |
-|       | **Week 11** | **Workshop:** Code debugging and wiring refinement.                         | Assembled Object  |
-|       | **Apr 20**  |                                                                             |                   |
-|       | **Week 12** | **Lecture:** Product Photography.                                           | Test results      |
-|       | **Apr 27**  | **Workshop:** Peer User Testing.                                            |                   |
-|       | **Week 13** | **Work Session:** Final polish and presentation prep.                       | Draft Portfolio   |
-|       | **May 4**   |                                                                             |                   |
-|       | **Week 14** | **Final Review:** Wrap-up and reflection.                                   | Reflection Post   |
-|       | **May 11**  |                                                                             |                   |
-|       | **Week 15** | **Final Presentation**                                                      | Final Project     |
-|       | **May 12**  | (_Note: Tuesday make-up day session_).                                      |                   |
+| week + date | Activity                                                                    | Due               |
+| :---------- | :-------------------------------------------------------------------------- | :---------------- |
+| **Week 1**  | Class community agreements, expectations on attendance and communication,   |                   |
+| Jan 26      | Canvas site walkthrough. **Intro:** Syllabus and supplies.                  | Lab Orientation   |
+|             | **Lecture:** Utopia/Dystopia. **Workshop:** Setup Codium.                   |                   |
+| **Week 2**  | **Lecture:** The User Persona.                                              | Persona Draft     |
+| Feb 2       | **Demo:** Basic Python (Variables/Conditions). **Workshop:** Logic puzzles. |                   |
+| **Week 3**  | **Lecture:** Electricity Fundamentals.                                      | Python App        |
+| Feb 9       | **Demo:** Circuit Prototyping. **Workshop:** Basic circuits.                |                   |
+| —           | **NO CLASS – President's Day**                                              | —                 |
+| Feb 16      |                                                                             |                   |
+| **Week 4**  | **Lecture:** Code meets electricity.                                        | Circuit Plan      |
+| Feb 23      | **Demo:** Blinking LEDs with Code. **Workshop:** Wiring.                    |                   |
+| **Week 5**  | **Workshop:** Your first electronic object.                                 | Object Sketches   |
+| Mar 2       |                                                                             |                   |
+| **Week 6**  | **Lecture:** Coding fundamentals.                                           | Sell Sheet        |
+| Mar 9       | **Demo:** Sensors & Input. **Workshop:** Soldering Intro.                   |                   |
+| —           | **NO CLASS – Spring Break**                                                 | —                 |
+| Mar 16      |                                                                             |                   |
+| **Week 7**  | **Lecture:** Cardboard Engineering. **Demo:** Enclosure building.           | User Journey      |
+| Mar 23      | **Workshop:** Prototyping.                                                  |                   |
+| **Week 8**  | **Mid-Term Check-ins:** Detailed individual assessment of progress.         | Up-to-date grades |
+| Mar 30      |                                                                             |                   |
+| **Week 9**  | **Demo:** Advanced Code Loops.                                              | Prototype Pres.   |
+| Apr 6       | **Workshop:** Final project troubleshooting.                                |                   |
+| **Week 10** | **Workshop:** Soldering and final assembly.                                 | Enclosure build   |
+| Apr 13      |                                                                             |                   |
+| **Week 11** | **Workshop:** Code debugging and wiring refinement.                         | Assembled Object  |
+| Apr 20      |                                                                             |                   |
+| **Week 12** | **Lecture:** Product Photography.                                           | Test results      |
+| Apr 27      | **Workshop:** Peer User Testing.                                            |                   |
+| **Week 13** | **Work Session:** Final polish and presentation prep.                       | Draft Portfolio   |
+| May 4       |                                                                             |                   |
+| **Week 14** | **Final Review:** Wrap-up and reflection.                                   | Reflection Post   |
+| May 11      |                                                                             |                   |
+| **Week 15** | **Final Presentation**                                                      | Final Project     |
+| May 12      | (_Note: Tuesday make-up day session_).                                      |                   |
 
 ---
 
@@ -132,9 +138,9 @@ Please note that there are materials costs associated with this studio course an
 
 At the beginning of the semester students and faculty will work together to establish a common culture/approach for learning together that could take the form of Community Agreements. As you prepare for this process is important for you to review the following statements:
 
-* [**CURRICULAR JUSTICE ACKNOWLEDGMENT STATEMENT**](https://docs.google.com/document/d/14V-8ZIv2iLAY23y2WNBeHAHvZhaUU00bsG9txSAhl4Y/edit?usp=sharing)  
-* [**STATEMENT ON DIVERSITY, EQUITY & INCLUSION**](https://docs.google.com/document/d/1kuMJ6carMfWwjPEiSnm7FUKNn2U0hOwG3T6r0ZNMpac/edit?usp=sharing)  
-* [**PRONOUNS STATEMENT**](https://docs.google.com/document/d/1G2MvyMR9jLRjMuM_FDHVZp6LIpWn_ycGzny9UZyRYoc/edit?usp=sharing)
+- [**CURRICULAR JUSTICE ACKNOWLEDGMENT STATEMENT**](https://docs.google.com/document/d/14V-8ZIv2iLAY23y2WNBeHAHvZhaUU00bsG9txSAhl4Y/edit?usp=sharing)
+- [**STATEMENT ON DIVERSITY, EQUITY & INCLUSION**](https://docs.google.com/document/d/1kuMJ6carMfWwjPEiSnm7FUKNn2U0hOwG3T6r0ZNMpac/edit?usp=sharing)
+- [**PRONOUNS STATEMENT**](https://docs.google.com/document/d/1G2MvyMR9jLRjMuM_FDHVZp6LIpWn_ycGzny9UZyRYoc/edit?usp=sharing)
 
 **This course Community Agreements and Guidelines to Learning Together are:**
 
@@ -232,22 +238,23 @@ The Making Center is a constellation of shops, labs, and open workspaces that ar
 
 A student's final grades and GPA are calculated using a 4.0 scale.
 
-
 **Undergraduate**  
 A student’s final grades and GPA are calculated using a 4.0 scale.
 
-A  \[4.0\] 	Work of exceptional quality, which often goes beyond the stated goals of the course (95-100%)  
-A- \[3.7\] 	Work of very high quality (90% \- \<95%)  
-B+ \[3.3\]	Work of high quality that indicates higher than average abilities (87% \- \<90%)  
-B  \[3.0\] 	Very good work that satisfies the goals of the course (83% \- \<87%)  
-B- \[2.7\] 	Good work (80% \- \<83%)  
-C+ \[2.3\]	Above-average work (77% \- \<80%)  
-C  \[2.0\] 	Average work that indicates an understanding of the course material; passable (73% \- \<77%);   
-Satisfactory completion of a course is considered to be a grade of C or higher.  
-C- \[1.7\] 	Passing work but below good academic standing (70% \- \<73%)  
-D  \[1.0\] 	Below-average work that indicates a student does not fully understand the assignments (60% \- \<70%); Probation level though passing for credit  
-F  \[0.0\]	Failure, no credit (0% \- \<60%)  
-GM	Grade missing for an individual
+```
+A \[4.0\] Work of exceptional quality, which often goes beyond the stated goals of the course (95-100%)
+A- \[3.7\] Work of very high quality (90% \- \<95%)
+B+ \[3.3\] Work of high quality that indicates higher than average abilities (87% \- \<90%)
+B \[3.0\] Very good work that satisfies the goals of the course (83% \- \<87%)
+B- \[2.7\] Good work (80% \- \<83%)
+C+ \[2.3\] Above-average work (77% \- \<80%)
+C \[2.0\] Average work that indicates an understanding of the course material; passable (73% \- \<77%);
+Satisfactory completion of a course is considered to be a grade of C or higher.
+C- \[1.7\] Passing work but below good academic standing (70% \- \<73%)
+D \[1.0\] Below-average work that indicates a student does not fully understand the assignments (60% \- \<70%); Probation level though passing for credit
+F \[0.0\] Failure, no credit (0% \- \<60%)
+GM Grade missing for an individual
+```
 
 ### Grade of W
 
