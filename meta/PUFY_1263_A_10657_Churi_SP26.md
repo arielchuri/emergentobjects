@@ -2,7 +2,7 @@
 
 **Spring 2026, PUFY 1263**
 
-**CRN:**
+**CRN:** 10657
 
 **Spring 2026**
 
@@ -16,7 +16,9 @@
 
 **E-mail:** churia@newschool.edu
 
-**Office Hours:** By appointment virtually or before or after class.
+**Office Hours:** Virturally 10am - 3pm, Wednesdays and Thursdays. Appointments must be booked at least 8 hours in advance. Meetings will take place over the zoom link in the calendar invite.
+
+[Booking link](https://calendar.app.google/DV7jR3gnQERu9cF46) 
 
 ---
 
@@ -241,7 +243,6 @@ A student's final grades and GPA are calculated using a 4.0 scale.
 **Undergraduate**  
 A student’s final grades and GPA are calculated using a 4.0 scale.
 
-```
 A \[4.0\] Work of exceptional quality, which often goes beyond the stated goals of the course (95-100%)
 A- \[3.7\] Work of very high quality (90% \- \<95%)
 B+ \[3.3\] Work of high quality that indicates higher than average abilities (87% \- \<90%)
@@ -254,7 +255,6 @@ C- \[1.7\] Passing work but below good academic standing (70% \- \<73%)
 D \[1.0\] Below-average work that indicates a student does not fully understand the assignments (60% \- \<70%); Probation level though passing for credit
 F \[0.0\] Failure, no credit (0% \- \<60%)
 GM Grade missing for an individual
-```
 
 ### Grade of W
 
