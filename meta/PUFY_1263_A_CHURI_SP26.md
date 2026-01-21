@@ -16,9 +16,9 @@
 
 **E-mail:** churia@newschool.edu
 
-**Office Hours:** Virturally 10am - 3pm, Wednesdays and Thursdays. Appointments must be booked at least 8 hours in advance. Meetings will take place over the zoom link in the calendar invite.
+**Office Hours:** Virturally 10am - 3pm, Wednesdays and Thursdays. Appointments must be booked at least 8 hours in advance. Meetings will take place over the zoom link in the calendar invite. [Booking link](https://calendar.app.google/DV7jR3gnQERu9cF46)
 
-[Booking link](https://calendar.app.google/DV7jR3gnQERu9cF46) 
+**GitHub** All files related to this class are stored in the [class repository](https://github.com/arielchuri/emergentobjects)
 
 ---
 
@@ -50,43 +50,87 @@ By the successful completion of this course, students will be able, at an introd
 
 ## Weekly Outline
 
-| week + date | Activity                                                                    | Due               |
-| :---------- | :-------------------------------------------------------------------------- | :---------------- |
-| **Week 1**  | Class community agreements, expectations on attendance and communication,   |                   |
-| Jan 26      | Canvas site walkthrough. **Intro:** Syllabus and supplies.                  | Lab Orientation   |
-|             | **Lecture:** Utopia/Dystopia. **Workshop:** Setup Codium.                   |                   |
-| **Week 2**  | **Lecture:** The User Persona.                                              | Persona Draft     |
-| Feb 2       | **Demo:** Basic Python (Variables/Conditions). **Workshop:** Logic puzzles. |                   |
-| **Week 3**  | **Lecture:** Electricity Fundamentals.                                      | Python App        |
-| Feb 9       | **Demo:** Circuit Prototyping. **Workshop:** Basic circuits.                |                   |
-| —           | **NO CLASS – President's Day**                                              | —                 |
-| Feb 16      |                                                                             |                   |
-| **Week 4**  | **Lecture:** Code meets electricity.                                        | Circuit Plan      |
-| Feb 23      | **Demo:** Blinking LEDs with Code. **Workshop:** Wiring.                    |                   |
-| **Week 5**  | **Workshop:** Your first electronic object.                                 | Object Sketches   |
-| Mar 2       |                                                                             |                   |
-| **Week 6**  | **Lecture:** Coding fundamentals.                                           | Sell Sheet        |
-| Mar 9       | **Demo:** Sensors & Input. **Workshop:** Soldering Intro.                   |                   |
-| —           | **NO CLASS – Spring Break**                                                 | —                 |
-| Mar 16      |                                                                             |                   |
-| **Week 7**  | **Lecture:** Cardboard Engineering. **Demo:** Enclosure building.           | User Journey      |
-| Mar 23      | **Workshop:** Prototyping.                                                  |                   |
-| **Week 8**  | **Mid-Term Check-ins:** Detailed individual assessment of progress.         | Up-to-date grades |
-| Mar 30      |                                                                             |                   |
-| **Week 9**  | **Demo:** Advanced Code Loops.                                              | Prototype Pres.   |
-| Apr 6       | **Workshop:** Final project troubleshooting.                                |                   |
-| **Week 10** | **Workshop:** Soldering and final assembly.                                 | Enclosure build   |
-| Apr 13      |                                                                             |                   |
-| **Week 11** | **Workshop:** Code debugging and wiring refinement.                         | Assembled Object  |
-| Apr 20      |                                                                             |                   |
-| **Week 12** | **Lecture:** Product Photography.                                           | Test results      |
-| Apr 27      | **Workshop:** Peer User Testing.                                            |                   |
-| **Week 13** | **Work Session:** Final polish and presentation prep.                       | Draft Portfolio   |
-| May 4       |                                                                             |                   |
-| **Week 14** | **Final Review:** Wrap-up and reflection.                                   | Reflection Post   |
-| May 11      |                                                                             |                   |
-| **Week 15** | **Final Presentation**                                                      | Final Project     |
-| May 12      | (_Note: Tuesday make-up day session_).                                      |                   |
+### Week 1 — Jan 26
+- Class community agreements, expectations on attendance and communication
+- Canvas site walkthrough
+- **Intro:** Syllabus and supplies
+- **Lecture:** Utopia/Dystopia
+- **Workshop:** Setup Codium
+- **Due:** Lab Orientation
+
+### Week 2 — Feb 2
+- **Lecture:** The User Persona
+- **Demo:** Basic Python (Variables/Conditions)
+- **Workshop:** Logic puzzles
+- **Due:** Persona Draft
+
+### Week 3 — Feb 9
+- **Lecture:** Electricity Fundamentals
+- **Demo:** Circuit Prototyping
+- **Workshop:** Basic circuits
+- **Due:** Python App
+
+### — Feb 16
+**NO CLASS – President's Day**
+
+### Week 4 — Feb 23
+- **Lecture:** Code meets electricity
+- **Demo:** Blinking LEDs with Code
+- **Workshop:** Wiring
+- **Due:** Circuit Plan
+
+### Week 5 — Mar 2
+- **Workshop:** Your first electronic object
+- **Due:** Object Sketches
+
+### Week 6 — Mar 9
+- **Lecture:** Coding fundamentals
+- **Demo:** Sensors & Input
+- **Workshop:** Soldering Intro
+- **Due:** Sell Sheet
+
+### — Mar 16
+**NO CLASS – Spring Break**
+
+### Week 7 — Mar 23
+- **Lecture:** Cardboard Engineering
+- **Demo:** Enclosure building
+- **Workshop:** Prototyping
+- **Due:** User Journey
+
+### Week 8 — Mar 30
+- **Mid-Term Check-ins:** Detailed individual assessment of progress
+- **Due:** Up-to-date grades
+
+### Week 9 — Apr 6
+- **Demo:** Advanced Code Loops
+- **Workshop:** Final project troubleshooting
+- **Due:** Prototype Pres
+
+### Week 10 — Apr 13
+- **Workshop:** Soldering and final assembly
+- **Due:** Enclosure build
+
+### Week 11 — Apr 20
+- **Workshop:** Code debugging and wiring refinement
+- **Due:** Assembled Object
+
+### Week 12 — Apr 27
+- **Lecture:** Product Photography
+- **Workshop:** Peer User Testing
+- **Due:** Test results
+
+### Week 13 — May 4
+- **Work Session:** Final polish and presentation prep
+- **Due:** Draft Portfolio
+
+### Week 14 — May 11
+- **Final Review:** Wrap-up and reflection
+- **Due:** Reflection Post
+
+### Week 15 — May 12
+- **Final Presentation** (_Note: Tuesday make-up day session_)
+- **Due:** Final Project
 
 ---
 
@@ -110,7 +154,7 @@ You will use the Parsons Learning Portfolio throughout your education at Parsons
 
 Showing preliminary work (sketches, drafts, notes, research, etc.) as well as final documentation of your work will help to tell your story and make connections that may not have otherwise been apparent. In Integrative Seminar and Studio, the Parsons Learning Portfolio will serve as a bridging mechanism to aid conversation and provide access to projects and writings across the seminar and studio, and stimulate critically reflective learning, thinking, writing and making.
 
-Make sure to use the MANDATORY Parsons Learning Portfolio Template- and do not change the template as this is a shared component of the Parsons experience. Also please add a Learning Portfolio link to your Canvas Bio. This allows fellow students and faculty to access your portfolio.
+Make sure to use the MANDATORY Parsons Learning Portfolio Template- and do not change the template as this is a shared component of the Parsons experience. Also please add a Learning Portfolio link to your Canvas Bio. This allows fellow students and faculty to access your portfolio. **Your work for this class on the Learning Portfolio accounts for 10% of your grade**.
 
 ---
 
@@ -120,15 +164,26 @@ To be added based on course needs.
 
 ---
 
+## Software
+
+A code editor that can write to the Raspberry Pi Pico.
+
+- Mu
+- Thonny
+- Visual Studo Code
+
+---
+
 ## Materials and Supplies
 
 Please note that there are materials costs associated with this studio course and you should expect to purchase at least $50 of supplies. The expected cost does not include printer points that you receive as a student, nor does it include the materials from the materials kit that is purchased as you enter the first year. You can find a list of the materials kit items on the First Year advising page: [http://www.newschool.edu/parsons/academic-advising-first-year-students/](http://www.newschool.edu/parsons/academic-advising-first-year-students/)
 
 **Additional supplies for this course:**
 
+- Laptop with USB port.
 - Raspberry Pi Pico microcontroller (or similar if you have experience)
 - Electronic components (LEDs, sensors, wires, breadboard)
-- Soldering supplies - available in Making Center [need to check this is up to date]
+- Soldering supplies - available in Making Center
 - Cardboard and basic craft materials for enclosures
 - USB cable for microcontroller programming
 
@@ -175,11 +230,12 @@ Students' ability to meet the course's learning outcomes will be evaluated based
 
 ## About Attendance and Grading
 
-**Attendance will be taken at the start of every class** to encourage punctuality. More than three absences (20% of the term) may lead to failure of the course.
+**Attendance:** Attendance will be taken at the start of every class to encourage punctuality. An absence is an absence (there is no difference between excused or unexcused). Your attendance grade (10%) will be affected after 2 absences. Each absence after that will take 2% off your attendance grade. 3 late arrivals or early departures will equal 1 absence. **Being absent 5 times will result in losing all the attendance part of your grade, which will make it not possible to have an A**. Students who must miss a class session should notify the instructor (ideally in an email prior to the class meeting) and make up any missed work as soon as possible. The student is responsible for following the course on Canvas and continuing to meet due dates, regardless of absences. A student who anticipates an extended period of absence should immediately inform the faculty and his or her program advisor.
 
-Students should be assessed fully and comprehensively against all measures outlined in the course syllabus, including participation. Class Participation, which includes attendance and meeting due dates, represents 40% of the overall grade, validating the importance of students' active engagement in each step of the learning process.
+**Participation:** The following 40% grade calculation demonstrates the need for your consistent participation, and equally as important, your active engagement in each step of the learning process.   
+Weekly participation will allow you to successfully complete course projects, get important process feedback and to contribute to our learning community. This is even more important given the making based nature of this course. Missing even one class can cause a significant setback in your ability to meet project/assignment deadlines. **Lack of weekly participation will also have an impact on your grade, which can result in subtracting up to 10% for lack of participation in class discussions or failure to present projects for peer reviews or feedback sessions, 10% for missing in-class exercises and activities, and 10% for failing to use the Learning Portfolio as a tool for reflection**. If you lose the whole 30% of your participation grade, the highest grade you will be able to achieve would be a C, given you get the maximum grades in your projects and have good attendance. 
 
-Faculty must use Starfish (Student Success Network) to track students' attendance and to document concerns.
+**Students who do not come to class regularly, keep fluid communication with faculty, or participate meaningfully in class week-to-week won’t be able to get an A grade, regardless of how high they score in their projects.** 
 
 ---
 
@@ -190,10 +246,10 @@ Faculty must use Starfish (Student Success Network) to track students' attendanc
 - 10% Attendance/ Meeting Due Dates
 - 10% Work-in-progress reviews; class discussions
 - 10% Being prepared for class with the correct tools
-- 10% Learning Portfolio engagement
 
 **Projects: 60%**
 
+- 10% Learning Portfolio engagement
 - 10% Persona & User Journey
 - 10% Python Application
 - 10% Electronic Circuit & Microcontroller

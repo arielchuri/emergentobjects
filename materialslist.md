@@ -1,29 +1,28 @@
 # Materials List
 
-## 2025 Bundle
+## 2026 Bundle
 
-I can bring in the parts we will work with.
-
+- Raspberry PI pico w/ headers
+- USB Cable (A to mini-B)
+- USB A to USB C adapter
 - Solderless Breadboard
 - Jumper wires
 - Multimeter
-- Potentiometer
+- OLED screen
 - Light dependent resistor
 - LED
+- Neopixel (2)
+- Potentiometer
 - Resistors: 100-220 (4), 1k (2), 1m
 - Button
-- Raspberry PI pico w/ headers
-- USB Cable (A to mini-B)
 - Speaker
-- Neopixel (2)
 - Touch sensor (2)
-- OLED screen
 - Ultrasonic range finder
 - Real Time Clock
 
-**Cost: $43.50**
+**Cost: $44.50**
 
-You must Venmo, Zelle, or pay in cash before 3/5/25 to get the bundle on time.
+You must Venmo, Zelle, Paypal or cash before.
 
 ![](images/venmo.png)
 ![](images/chase.jpg)
@@ -74,7 +73,9 @@ Requires mini-B USB cable that can connect to your computer.
 - [https://www.adafruit.com/product/5544](https://www.adafruit.com/product/5544)
 - [https://a.co/d/enF8yjf](https://a.co/d/enF8yjf)
 
-### USB Cable (micro-B on one end. The other end must connect to your computer.)
+### USB Cable & USB A to C adapter
+
+(micro-B on one end. The other end must connect to your computer.)
 
 - [https://www.adafruit.com/product/3879](https://www.adafruit.com/product/3879)
 - [https://www.adafruit.com/product/4111](https://www.adafruit.com/product/4111)
