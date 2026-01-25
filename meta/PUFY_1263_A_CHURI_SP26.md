@@ -50,96 +50,87 @@ By the successful completion of this course, students will be able, at an introd
 
 ## Weekly Outline
 
-| Week       | Info                                                                     |
-| ---------- | ------------------------------------------------------------------------ |
-| **Week 1** | Class community agreements, expectations on attendance and communication |
-| Jan 26     | Canvas site walkthroughi                                                 |
-|            | **Intro:** Syllabus and suppliesi                                        |
-|            | **Lecture:** Utopia/Dystopiai                                            |
-|            | **Workshop:** Setup Codiumi                                              |
-|            | **Due:** Lab Orientationi                                                |
-| **Week 2** |                                                                          |
-| Feb 2      | **Lecture:** The User Persona                                            |
-|            | **Demo:** Basic Python (Variables/Conditions)                            |
-|            | **Workshop:** Logic puzzles                                              |
-|            | **Due:** Persona Draft                                                   |
-|            |                                                                          |
-| **Week 3** |                                                                          |
-| Feb 9      | **Lecture:** Electricity Fundamentals                                    |
-|            | **Demo:** Circuit Prototyping                                            |
-|            | **Workshop:** Basic circuits                                             |
-|            | **Due:** Python App                                                      |
-| Feb 16     | **NO CLASS – President's Day**                                           |
-|            |                                                                          |
-| **Week 4** |                                                                          |
-| Feb 23     | **Lecture:** Code meets electricity                                      |
-|            | **Demo:** Blinking LEDs with Code                                        |
-|            | **Workshop:** Wiring                                                     |
-|            | **Due:** Circuit Plan                                                    |
-
-| **Week 5** |                                            |
-| ---------- | ------------------------------------------ |
-| Mar 2      | **Workshop:** Your first electronic object |
-|            | **Due:** Object Sketches                   |
-
-| **Week 6** |                                  |
-| ---------- | -------------------------------- |
-| Mar 9      | **Lecture:** Coding fundamentals |
-|            | **Demo:** Sensors & Input        |
-|            | **Workshop:** Soldering Intro    |
-|            | **Due:** Sell Sheet              |
-
-| Mar 16 | **NO CLASS – Spring Break** |
-| ------ | --------------------------- |
-
-| **Week 7** |                                    |
-| ---------- | ---------------------------------- |
-| Mar 23     | **Lecture:** Cardboard Engineering |
-|            | **Demo:** Enclosure building       |
-|            | **Workshop:** Prototyping          |
-|            | **Due:** User Journey              |
-
-| **Week 8** |                                                                    |
-| ---------- | ------------------------------------------------------------------ |
-| Mar 30     | **Mid-Term Check-ins:** Detailed individual assessment of progress |
-|            | **Due:** Up-to-date grades                                         |
-
-| **Week 9** |                                             |
-| ---------- | ------------------------------------------- |
-| Apr 6      | **Demo:** Advanced Code Loops               |
-|            | **Workshop:** Final project troubleshooting |
-|            | **Due:** Prototype Pres                     |
-
-| **Week 10** |                                            |
-| ----------- | ------------------------------------------ |
-| Apr 13      | **Workshop:** Soldering and final assembly |
-|             | **Due:** Enclosure build                   |
-
-| **Week 11** |                                                    |
-| ----------- | -------------------------------------------------- |
-| Apr 20      | **Workshop:** Code debugging and wiring refinement |
-|             | **Due:** Assembled Object                          |
-
-| **Week 12** |                                  |
-| ----------- | -------------------------------- |
-| Apr 27      | **Lecture:** Product Photography |
-|             | **Workshop:** Peer User Testing  |
-|             | **Due:** Test results            |
-
-| **Week 13** |                                                      |
-| ----------- | ---------------------------------------------------- |
-| May 4       | **Work Session:** Final polish and presentation prep |
-|             | **Due:** Draft Portfolio                             |
-
-| **Week 14** |                                          |
-| ----------- | ---------------------------------------- |
-| May 11      | **Final Review:** Wrap-up and reflection |
-|             | **Due:** Reflection Post                 |
-
-| **Week 15** |                                                              |
-| ----------- | ------------------------------------------------------------ |
-| May 12      | **Final Presentation** (_Note: Tuesday make-up day session_) |
-|             | **Due:** Final Project                                       |
+| Week        | Info                                                                     |
+| ----------- | ------------------------------------------------------------------------ |
+| **Week 1**  | Jan 26                                                                   |
+|             | Class community agreements, expectations on attendance and communication |
+|             | Canvas site walkthroughi                                                 |
+|             | **Intro:** Syllabus and suppliesi                                        |
+|             | **Lecture:** Utopia/Dystopiai                                            |
+|             | **Workshop:** Setup Codiumi                                              |
+|             | **Due:** Lab Orientationi                                                |
+|             |                                                                          |
+| **Week 2**  | Feb 2                                                                    |
+|             | **Lecture:** The User Persona                                            |
+|             | **Demo:** Basic Python (Variables/Conditions)                            |
+|             | **Workshop:** Logic puzzles                                              |
+|             | **Due:** Persona Draft                                                   |
+|             |                                                                          |
+| **Week 3**  | Feb 9                                                                    |
+|             | **Lecture:** Electricity Fundamentals                                    |
+|             | **Demo:** Circuit Prototyping                                            |
+|             | **Workshop:** Basic circuits                                             |
+|             | **Due:** Python App                                                      |
+|             |                                                                          |
+| Feb 16      | **NO CLASS – President's Day**                                           |
+|             |                                                                          |
+| **Week 4**  | Feb 23                                                                   |
+|             | **Lecture:** Code meets electricity                                      |
+|             | **Demo:** Blinking LEDs with Code                                        |
+|             | **Workshop:** Wiring                                                     |
+|             | **Due:** Circuit Plan                                                    |
+|             |                                                                          |
+| **Week 5**  | Mar 2                                                                    |
+|             | **Workshop:** Your first electronic object                               |
+|             | **Due:** Object Sketches                                                 |
+|             |                                                                          |
+| **Week 6**  | Mar 9                                                                    |
+|             | **Lecture:** Coding fundamentals                                         |
+|             | **Demo:** Sensors & Input                                                |
+|             | **Workshop:** Soldering Intro                                            |
+|             | **Due:** Sell Sheet                                                      |
+|             |                                                                          |
+| Mar 16      | **NO CLASS – Spring Break**                                              |
+|             |                                                                          |
+| **Week 7**  | Mar 23                                                                   |
+|             | **Lecture:** Cardboard Engineering                                       |
+|             | **Demo:** Enclosure building                                             |
+|             | **Workshop:** Prototyping                                                |
+|             | **Due:** User Journey                                                    |
+|             |                                                                          |
+| **Week 8**  | Mar 30                                                                   |
+|             | **Mid-Term Check-ins:** Detailed individual assessment of progress       |
+|             | **Due:** Up-to-date grades                                               |
+|             |                                                                          |
+| **Week 9**  | Apr 6                                                                    |
+|             | **Demo:** Advanced Code Loops                                            |
+|             | **Workshop:** Final project troubleshooting                              |
+|             | **Due:** Prototype Pres                                                  |
+|             |                                                                          |
+| **Week 10** | Apr 13                                                                   |
+|             | **Workshop:** Soldering and final assembly                               |
+|             | **Due:** Enclosure build                                                 |
+|             |                                                                          |
+| **Week 11** | Apr 20                                                                   |
+|             | **Workshop:** Code debugging and wiring refinement                       |
+|             | **Due:** Assembled Object                                                |
+|             |                                                                          |
+| **Week 12** | Apr 27                                                                   |
+|             | **Lecture:** Product Photography                                         |
+|             | **Workshop:** Peer User Testing                                          |
+|             | **Due:** Test results                                                    |
+|             |                                                                          |
+| **Week 13** | May 4                                                                    |
+|             | **Work Session:** Final polish and presentation prep                     |
+|             | **Due:** Draft Portfolio                                                 |
+|             |                                                                          |
+| **Week 14** | May 11                                                                   |
+|             | **Final Review:** Wrap-up and reflection                                 |
+|             | **Due:** Reflection Post                                                 |
+|             |                                                                          |
+| **Week 15** | May 12                                                                   |
+|             | **Final Presentation** (_Note: Tuesday make-up day session_)             |
+|             | **Due:** Final Project                                                   |
 
 ---
 
