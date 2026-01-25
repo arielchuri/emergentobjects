@@ -59,27 +59,23 @@ By the successful completion of this course, students will be able, at an introd
 |            | **Workshop:** Setup Codiumi                                              |
 |            | **Due:** Lab Orientationi                                                |
 | **Week 2** |                                                                          |
-| ---------- | ---------------------------------------------                            |
 | Feb 2      | **Lecture:** The User Persona                                            |
 |            | **Demo:** Basic Python (Variables/Conditions)                            |
 |            | **Workshop:** Logic puzzles                                              |
 |            | **Due:** Persona Draft                                                   |
+|            |                                                                          |
 | **Week 3** |                                                                          |
-| ---------- | -------------------------------------                                    |
 | Feb 9      | **Lecture:** Electricity Fundamentals                                    |
 |            | **Demo:** Circuit Prototyping                                            |
 |            | **Workshop:** Basic circuits                                             |
 |            | **Due:** Python App                                                      |
-
-| Feb 16 | **NO CLASS – President's Day** |
-| ------ | ------------------------------ |
-
-| **Week 4** |                                     |
-| ---------- | ----------------------------------- |
-| Feb 23     | **Lecture:** Code meets electricity |
-|            | **Demo:** Blinking LEDs with Code   |
-|            | **Workshop:** Wiring                |
-|            | **Due:** Circuit Plan               |
+| Feb 16     | **NO CLASS – President's Day**                                           |
+|            |                                                                          |
+| **Week 4** |                                                                          |
+| Feb 23     | **Lecture:** Code meets electricity                                      |
+|            | **Demo:** Blinking LEDs with Code                                        |
+|            | **Workshop:** Wiring                                                     |
+|            | **Due:** Circuit Plan                                                    |
 
 | **Week 5** |                                            |
 | ---------- | ------------------------------------------ |
