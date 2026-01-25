@@ -50,87 +50,102 @@ By the successful completion of this course, students will be able, at an introd
 
 ## Weekly Outline
 
-### Week 1 — Jan 26
-- Class community agreements, expectations on attendance and communication
-- Canvas site walkthrough
-- **Intro:** Syllabus and supplies
-- **Lecture:** Utopia/Dystopia
-- **Workshop:** Setup Codium
-- **Due:** Lab Orientation
+| Week       | Info                                                                     |
+| ---------- | ------------------------------------------------------------------------ |
+| **Week 1** | Class community agreements, expectations on attendance and communication |
+| Jan 26     | Canvas site walkthroughi                                                 |
+|            | **Intro:** Syllabus and suppliesi                                        |
+|            | **Lecture:** Utopia/Dystopiai                                            |
+|            | **Workshop:** Setup Codiumi                                              |
+|            | **Due:** Lab Orientationi                                                |
 
-### Week 2 — Feb 2
-- **Lecture:** The User Persona
-- **Demo:** Basic Python (Variables/Conditions)
-- **Workshop:** Logic puzzles
-- **Due:** Persona Draft
+| **Week 2** |                                              |
+| ---------- | -------------------------------------------- |
+| Feb 2      | **Lecture:** The User Persona                |
+|            | **Demo:** Basic Python (Variables/Conditions)|
+|            | **Workshop:** Logic puzzles                  |
+|            | **Due:** Persona Draft                       |
 
-### Week 3 — Feb 9
-- **Lecture:** Electricity Fundamentals
-- **Demo:** Circuit Prototyping
-- **Workshop:** Basic circuits
-- **Due:** Python App
+| **Week 3** |                                   |
+| ---------- | --------------------------------- |
+| Feb 9      | **Lecture:** Electricity Fundamentals |
+|            | **Demo:** Circuit Prototyping     |
+|            | **Workshop:** Basic circuits      |
+|            | **Due:** Python App               |
 
-### — Feb 16
-**NO CLASS – President's Day**
+| Feb 16     | **NO CLASS – President's Day**    |
+| ---------- | --------------------------------- |
 
-### Week 4 — Feb 23
-- **Lecture:** Code meets electricity
-- **Demo:** Blinking LEDs with Code
-- **Workshop:** Wiring
-- **Due:** Circuit Plan
+| **Week 4** |                                   |
+| ---------- | --------------------------------- |
+| Feb 23     | **Lecture:** Code meets electricity |
+|            | **Demo:** Blinking LEDs with Code |
+|            | **Workshop:** Wiring              |
+|            | **Due:** Circuit Plan             |
 
-### Week 5 — Mar 2
-- **Workshop:** Your first electronic object
-- **Due:** Object Sketches
+| **Week 5** |                                   |
+| ---------- | --------------------------------- |
+| Mar 2      | **Workshop:** Your first electronic object |
+|            | **Due:** Object Sketches          |
 
-### Week 6 — Mar 9
-- **Lecture:** Coding fundamentals
-- **Demo:** Sensors & Input
-- **Workshop:** Soldering Intro
-- **Due:** Sell Sheet
+| **Week 6** |                                   |
+| ---------- | --------------------------------- |
+| Mar 9      | **Lecture:** Coding fundamentals  |
+|            | **Demo:** Sensors & Input         |
+|            | **Workshop:** Soldering Intro     |
+|            | **Due:** Sell Sheet               |
 
-### — Mar 16
-**NO CLASS – Spring Break**
+| Mar 16     | **NO CLASS – Spring Break**       |
+| ---------- | --------------------------------- |
 
-### Week 7 — Mar 23
-- **Lecture:** Cardboard Engineering
-- **Demo:** Enclosure building
-- **Workshop:** Prototyping
-- **Due:** User Journey
+| **Week 7** |                                   |
+| ---------- | --------------------------------- |
+| Mar 23     | **Lecture:** Cardboard Engineering |
+|            | **Demo:** Enclosure building      |
+|            | **Workshop:** Prototyping         |
+|            | **Due:** User Journey             |
 
-### Week 8 — Mar 30
-- **Mid-Term Check-ins:** Detailed individual assessment of progress
-- **Due:** Up-to-date grades
+| **Week 8** |                                   |
+| ---------- | --------------------------------- |
+| Mar 30     | **Mid-Term Check-ins:** Detailed individual assessment of progress |
+|            | **Due:** Up-to-date grades        |
 
-### Week 9 — Apr 6
-- **Demo:** Advanced Code Loops
-- **Workshop:** Final project troubleshooting
-- **Due:** Prototype Pres
+| **Week 9** |                                   |
+| ---------- | --------------------------------- |
+| Apr 6      | **Demo:** Advanced Code Loops     |
+|            | **Workshop:** Final project troubleshooting |
+|            | **Due:** Prototype Pres           |
 
-### Week 10 — Apr 13
-- **Workshop:** Soldering and final assembly
-- **Due:** Enclosure build
+| **Week 10** |                                  |
+| ----------- | -------------------------------- |
+| Apr 13      | **Workshop:** Soldering and final assembly |
+|             | **Due:** Enclosure build        |
 
-### Week 11 — Apr 20
-- **Workshop:** Code debugging and wiring refinement
-- **Due:** Assembled Object
+| **Week 11** |                                  |
+| ----------- | -------------------------------- |
+| Apr 20      | **Workshop:** Code debugging and wiring refinement |
+|             | **Due:** Assembled Object       |
 
-### Week 12 — Apr 27
-- **Lecture:** Product Photography
-- **Workshop:** Peer User Testing
-- **Due:** Test results
+| **Week 12** |                                  |
+| ----------- | -------------------------------- |
+| Apr 27      | **Lecture:** Product Photography |
+|             | **Workshop:** Peer User Testing  |
+|             | **Due:** Test results           |
 
-### Week 13 — May 4
-- **Work Session:** Final polish and presentation prep
-- **Due:** Draft Portfolio
+| **Week 13** |                                  |
+| ----------- | -------------------------------- |
+| May 4       | **Work Session:** Final polish and presentation prep |
+|             | **Due:** Draft Portfolio        |
 
-### Week 14 — May 11
-- **Final Review:** Wrap-up and reflection
-- **Due:** Reflection Post
+| **Week 14** |                                  |
+| ----------- | -------------------------------- |
+| May 11      | **Final Review:** Wrap-up and reflection |
+|             | **Due:** Reflection Post        |
 
-### Week 15 — May 12
-- **Final Presentation** (_Note: Tuesday make-up day session_)
-- **Due:** Final Project
+| **Week 15** |                                  |
+| ----------- | -------------------------------- |
+| May 12      | **Final Presentation** (_Note: Tuesday make-up day session_) |
+|             | **Due:** Final Project          |
 
 ---
 
@@ -232,10 +247,10 @@ Students' ability to meet the course's learning outcomes will be evaluated based
 
 **Attendance:** Attendance will be taken at the start of every class to encourage punctuality. An absence is an absence (there is no difference between excused or unexcused). Your attendance grade (10%) will be affected after 2 absences. Each absence after that will take 2% off your attendance grade. 3 late arrivals or early departures will equal 1 absence. **Being absent 5 times will result in losing all the attendance part of your grade, which will make it not possible to have an A**. Students who must miss a class session should notify the instructor (ideally in an email prior to the class meeting) and make up any missed work as soon as possible. The student is responsible for following the course on Canvas and continuing to meet due dates, regardless of absences. A student who anticipates an extended period of absence should immediately inform the faculty and his or her program advisor.
 
-**Participation:** The following 40% grade calculation demonstrates the need for your consistent participation, and equally as important, your active engagement in each step of the learning process.   
-Weekly participation will allow you to successfully complete course projects, get important process feedback and to contribute to our learning community. This is even more important given the making based nature of this course. Missing even one class can cause a significant setback in your ability to meet project/assignment deadlines. **Lack of weekly participation will also have an impact on your grade, which can result in subtracting up to 10% for lack of participation in class discussions or failure to present projects for peer reviews or feedback sessions, 10% for missing in-class exercises and activities, and 10% for failing to use the Learning Portfolio as a tool for reflection**. If you lose the whole 30% of your participation grade, the highest grade you will be able to achieve would be a C, given you get the maximum grades in your projects and have good attendance. 
+**Participation:** The following 40% grade calculation demonstrates the need for your consistent participation, and equally as important, your active engagement in each step of the learning process.  
+Weekly participation will allow you to successfully complete course projects, get important process feedback and to contribute to our learning community. This is even more important given the making based nature of this course. Missing even one class can cause a significant setback in your ability to meet project/assignment deadlines. **Lack of weekly participation will also have an impact on your grade, which can result in subtracting up to 10% for lack of participation in class discussions or failure to present projects for peer reviews or feedback sessions, 10% for missing in-class exercises and activities, and 10% for failing to use the Learning Portfolio as a tool for reflection**. If you lose the whole 30% of your participation grade, the highest grade you will be able to achieve would be a C, given you get the maximum grades in your projects and have good attendance.
 
-**Students who do not come to class regularly, keep fluid communication with faculty, or participate meaningfully in class week-to-week won’t be able to get an A grade, regardless of how high they score in their projects.** 
+**Students who do not come to class regularly, keep fluid communication with faculty, or participate meaningfully in class week-to-week won’t be able to get an A grade, regardless of how high they score in their projects.**
 
 ---
 
