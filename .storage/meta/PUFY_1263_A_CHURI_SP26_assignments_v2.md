@@ -12,8 +12,8 @@ This course includes a series of scaffolded assignments designed to build your s
 ---
 
 ## 1. Lab Safety Orientation
-**Due:** Week 1 (Jan 26)
-**Weight:** Mandatory (no separate grade)
+**Due:** Week 3 (Feb 9)
+**Weight:** Mandatory/ungraded 
 
 Complete the Making Center safety orientation to gain access to lab equipment, soldering stations, and fabrication tools. This is required before you can use any Making Center facilities.
 

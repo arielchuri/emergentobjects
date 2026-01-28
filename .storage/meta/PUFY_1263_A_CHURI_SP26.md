@@ -16,11 +16,47 @@
 
 **E-mail:** churia@newschool.edu
 
-**Office Hours:** Virturally 10am - 3pm, Wednesdays and Thursdays. Appointments must be booked at least 8 hours in advance. Meetings will take place over the zoom link in the calendar invite. [Booking link](https://calendar.app.google/DV7jR3gnQERu9cF46)
+**Office Hours:** Virtually 10am - 3pm, Wednesdays and Thursdays. Appointments must be booked at least 8 hours in advance. Meetings will take place over the zoom link in the calendar invite. [Booking link](https://calendar.app.google/DV7jR3gnQERu9cF46)
 
-**GitHub** All files related to this class are stored in the [class repository](https://github.com/arielchuri/emergentobjects)
+**GitHub:** All files related to this class are stored in the [class repository](https://github.com/arielchuri/emergentobjects)
 
 ---
+
+## Contents
+
+- [PUFY 1263: Emergent Objects](#pufy-1263:-emergent-objects)
+- [Course Description](#course-description)
+- [Learning Outcomes](#learning-outcomes)
+- [Weekly Outline](#weekly-outline)
+- [Assessable Tasks](#assessable-tasks)
+- [Learning Portfolio](#learning-portfolio)
+- [Required Readings](#required-readings)
+- [Software](#software)
+- [Materials and Supplies](#materials-and-supplies)
+- [Learning Together/Community Agreement](#learning-together/community-agreement)
+- [Grading and Evaluation](#grading-and-evaluation)
+- [About Attendance and Grading](#about-attendance-and-grading)
+- [Final Grade Calculation](#final-grade-calculation)
+- [UNIVERSITY POLICY & RESOURCES](#university-policy-&-resources)
+- [Resources](#resources)
+- [The University (and associated) Libraries](<#the-university-(and-associated)-libraries>)
+- [The University Learning Center](#the-university-learning-center)
+- [University Disabilities Services](#university-disabilities-services)
+- [Making Center](#making-center)
+- [Health and Wellness](#health-and-wellness)
+- [Grading Standards](#grading-standards)
+- [Undergraduate](#undergraduate)
+- [Grade of W](#grade-of-w)
+- [Grades of Incomplete](#grades-of-incomplete)
+- [College, School, Program and Class Policies](#college,-school,-program-and-class-policies)
+- [Canvas](#canvas)
+- [Electronic Devices](#electronic-devices)
+- [Responsibility](#responsibility)
+- [Active Participation and Attendance](#active-participation-and-attendance)
+- [Using AI and Generative Tools in Parsons First Year](#using-ai-and-generative-tools-in-parsons-first-year)
+- [Academic Honesty and Integrity](#academic-honesty-and-integrity)
+- [Intellectual Property Rights](#intellectual-property-rights)
+- [Student Course Ratings (Course Evaluations)](<#student-course-ratings-(course-evaluations)>)
 
 ## Course Description
 
@@ -50,87 +86,96 @@ By the successful completion of this course, students will be able, at an introd
 
 ## Weekly Outline
 
-| Week        | Info                                                                     |
-| ----------- | ------------------------------------------------------------------------ |
-| **Week 1**  | Jan 26                                                                   |
-|             | Class community agreements, expectations on attendance and communication |
-|             | Canvas site walkthroughi                                                 |
-|             | **Intro:** Syllabus and suppliesi                                        |
-|             | **Lecture:** Utopia/Dystopiai                                            |
-|             | **Workshop:** Setup Codiumi                                              |
-|             | **Due:** Lab Orientationi                                                |
-|             |                                                                          |
-| **Week 2**  | Feb 2                                                                    |
-|             | **Lecture:** The User Persona                                            |
-|             | **Demo:** Basic Python (Variables/Conditions)                            |
-|             | **Workshop:** Logic puzzles                                              |
-|             | **Due:** Persona Draft                                                   |
-|             |                                                                          |
-| **Week 3**  | Feb 9                                                                    |
-|             | **Lecture:** Electricity Fundamentals                                    |
-|             | **Demo:** Circuit Prototyping                                            |
-|             | **Workshop:** Basic circuits                                             |
-|             | **Due:** Python App                                                      |
-|             |                                                                          |
-| Feb 16      | **NO CLASS – President's Day**                                           |
-|             |                                                                          |
-| **Week 4**  | Feb 23                                                                   |
-|             | **Lecture:** Code meets electricity                                      |
-|             | **Demo:** Blinking LEDs with Code                                        |
-|             | **Workshop:** Wiring                                                     |
-|             | **Due:** Circuit Plan                                                    |
-|             |                                                                          |
-| **Week 5**  | Mar 2                                                                    |
-|             | **Workshop:** Your first electronic object                               |
-|             | **Due:** Object Sketches                                                 |
-|             |                                                                          |
-| **Week 6**  | Mar 9                                                                    |
-|             | **Lecture:** Coding fundamentals                                         |
-|             | **Demo:** Sensors & Input                                                |
-|             | **Workshop:** Soldering Intro                                            |
-|             | **Due:** Sell Sheet                                                      |
-|             |                                                                          |
-| Mar 16      | **NO CLASS – Spring Break**                                              |
-|             |                                                                          |
-| **Week 7**  | Mar 23                                                                   |
-|             | **Lecture:** Cardboard Engineering                                       |
-|             | **Demo:** Enclosure building                                             |
-|             | **Workshop:** Prototyping                                                |
-|             | **Due:** User Journey                                                    |
-|             |                                                                          |
-| **Week 8**  | Mar 30                                                                   |
-|             | **Mid-Term Check-ins:** Detailed individual assessment of progress       |
-|             | **Due:** Up-to-date grades                                               |
-|             |                                                                          |
-| **Week 9**  | Apr 6                                                                    |
-|             | **Demo:** Advanced Code Loops                                            |
-|             | **Workshop:** Final project troubleshooting                              |
-|             | **Due:** Prototype Pres                                                  |
-|             |                                                                          |
-| **Week 10** | Apr 13                                                                   |
-|             | **Workshop:** Soldering and final assembly                               |
-|             | **Due:** Enclosure build                                                 |
-|             |                                                                          |
-| **Week 11** | Apr 20                                                                   |
-|             | **Workshop:** Code debugging and wiring refinement                       |
-|             | **Due:** Assembled Object                                                |
-|             |                                                                          |
-| **Week 12** | Apr 27                                                                   |
-|             | **Lecture:** Product Photography                                         |
-|             | **Workshop:** Peer User Testing                                          |
-|             | **Due:** Test results                                                    |
-|             |                                                                          |
-| **Week 13** | May 4                                                                    |
-|             | **Work Session:** Final polish and presentation prep                     |
-|             | **Due:** Draft Portfolio                                                 |
-|             |                                                                          |
-| **Week 14** | May 11                                                                   |
-|             | **Final Review:** Wrap-up and reflection                                 |
-|             | **Due:** Reflection Post                                                 |
-|             |                                                                          |
-| **Week 15** | May 12                                                                   |
-|             | **Final Presentation** (_Note: Tuesday make-up day session_)             |
-|             | **Due:** Final Project                                                   |
+| Week        | Info                                                                  |
+| ----------- | --------------------------------------------------------------------- |
+| **Week 1**  | Asynchronous                                                          |
+|             | **Intro:** Syllabus and supplies, Class community agreements,         |
+|             | expectations on attendance and communication, Canvas site walkthrough |
+|             | **Lecture:** Utopia/Dystopia                                          |
+|             | **Workshop:** Setup development environment                           |
+|             | **Assignment:** Utopia/Dystopia LP Post, Lab Orientation              |
+|             |                                                                       |
+| **Week 2**  | Feb 2                                                                 |
+|             | **Lecture:** The User Persona                                         |
+|             | **Demo:** Basic Python (Variables/Conditions)                         |
+|             | **Workshop:** Logic puzzles                                           |
+|             | **Due:** Utopia/Dystopia LP Post, Lab Orientation                     |
+|             | **Assignment:** Python App                                            |
+|             |                                                                       |
+| **Week 3**  | Feb 9                                                                 |
+|             | **Lecture:** Electricity Fundamentals                                 |
+|             | **Demo:** Circuit Prototyping                                         |
+|             | **Workshop:** Basic circuits                                          |
+|             | **Assignment:** Circuit Plan                                          |
+|             | **Assignment:** Emergent Object (due May 12)                          |
+|             | **Due:** Python App                                                   |
+|             |                                                                       |
+| Feb 16      | **NO CLASS – President's Day**                                        |
+|             |                                                                       |
+| **Week 4**  | Feb 23                                                                |
+|             | **Lecture:** Code meets electricity                                   |
+|             | **Demo:** Blinking LEDs with Code                                     |
+|             | **Workshop:** Wiring                                                  |
+|             | **Assignment:** Object Sketches                                       |
+|             | **Due:** Circuit Plan                                                 |
+|             | **Due:** Persona LP Post                                              |
+|             |                                                                       |
+| **Week 5**  | Mar 2                                                                 |
+|             | **Workshop:** Your first electronic object                            |
+|             | **Assignment:** Sell Sheet                                            |
+|             | **Due:** Object Sketches                                              |
+|             |                                                                       |
+| **Week 6**  | Mar 9                                                                 |
+|             | **Lecture:** Coding fundamentals                                      |
+|             | **Demo:** Sensors & Input                                             |
+|             | **Workshop:** Soldering Intro                                         |
+|             | **Due:** Sell Sheet                                                   |
+|             |                                                                       |
+| Mar 16      | **NO CLASS – Spring Break**                                           |
+|             |                                                                       |
+| **Week 7**  | Mar 23                                                                |
+|             | **Lecture:** Cardboard Engineering                                    |
+|             | **Demo:** Enclosure building                                          |
+|             | **Workshop:** Prototyping                                             |
+|             | **Assignment:** User Journey LP Post                                  |
+|             |                                                                       |
+| **Week 8**  | Mar 30                                                                |
+|             | **Mid-Term Check-ins:** Detailed individual assessment of progress    |
+|             | **Due:** User Journey                                                 |
+|             |                                                                       |
+| **Week 9**  | Apr 6                                                                 |
+|             | **Demo:** Advanced Code Loops                                         |
+|             | **Workshop:** Final project troubleshooting                           |
+|             | **Assignment:** Enclosure build                                       |
+|             | **Assignment:** Project Status Update LP Post                         |
+|             | **Due:** Prototype LP Post                                            |
+|             |                                                                       |
+| **Week 10** | Apr 13                                                                |
+|             | **Workshop:** Soldering and final assembly                            |
+|             | **Due:** Project Status Update LP Post                                |
+|             |                                                                       |
+| **Week 11** | Apr 20                                                                |
+|             | **Workshop:** Code debugging and wiring refinement                    |
+|             | **Due:** Enclosure build                                              |
+|             | **Due:** Assembled Object                                             |
+|             |                                                                       |
+| **Week 12** | Apr 27                                                                |
+|             | **Lecture:** Product Photography                                      |
+|             | **Workshop:** Peer User Testing                                       |
+|             | **Assignment:** Test Results LP Post                                  |
+|             | **Assignment:** Reflection Post (2w)                                  |
+|             |                                                                       |
+| **Week 13** | May 4                                                                 |
+|             | **Work Session:** Final polish and presentation prep                  |
+|             | **Due:** Test Results LP Post                                         |
+|             |                                                                       |
+| **Week 14** | May 11                                                                |
+|             | **Final Review:** Wrap-up and reflection                              |
+|             | **Due:** Reflection LP Post                                           |
+|             |                                                                       |
+| **Week 15** | May 12                                                                |
+|             | **Final Presentation** (_Note: Tuesday make-up day session_)          |
+|             | **Due:** Emergent Object                                              |
 
 ---
 
@@ -140,7 +185,7 @@ Assessable Tasks are activities, assignments, projects that satisfy the course's
 
 **Assessable Tasks Summary:**
 
-- **Persona & User Journey (10%):** Students analyze user needs to create a research-backed user profile. (Maps to LO 4).
+- **Utopia/Dystopia & Persona (10%):** Students analyze user needs to create a research-backed user profile. (Maps to LO 4).
 - **Python Application (10%):** A functional app using variables and loops with commented code. (Maps to LO 2).
 - **Electronic Circuit & Microcontroller (10%):** A physical prototype demonstrating basic engineering and circuit design. (Maps to LO 2).
 - **Object Sketches & Presentation (10%):** Visualizing the appearance and functionality of a future object. (Maps to LO 5).
@@ -170,7 +215,7 @@ A code editor that can write to the Raspberry Pi Pico.
 
 - Mu
 - Thonny
-- Visual Studo Code
+- Visual Studio Code
 
 ---
 
@@ -193,7 +238,7 @@ Please note that there are materials costs associated with this studio course an
 
 ## Learning Together/Community Agreement
 
-At the beginning of the semester students and faculty will work together to establish a common culture/approach for learning together that could take the form of Community Agreements. As you prepare for this process is important for you to review the following statements:
+At the beginning of the semester students and faculty will work together to establish a common culture/approach for learning together that could take the form of Community Agreements. As you prepare for this process, it is important for you to review the following statements:
 
 - [**CURRICULAR JUSTICE ACKNOWLEDGMENT STATEMENT**](https://docs.google.com/document/d/14V-8ZIv2iLAY23y2WNBeHAHvZhaUU00bsG9txSAhl4Y/edit?usp=sharing)
 - [**STATEMENT ON DIVERSITY, EQUITY & INCLUSION**](https://docs.google.com/document/d/1kuMJ6carMfWwjPEiSnm7FUKNn2U0hOwG3T6r0ZNMpac/edit?usp=sharing)
@@ -232,7 +277,7 @@ Students' ability to meet the course's learning outcomes will be evaluated based
 
 **Attendance:** Attendance will be taken at the start of every class to encourage punctuality. An absence is an absence (there is no difference between excused or unexcused). Your attendance grade (10%) will be affected after 2 absences. Each absence after that will take 2% off your attendance grade. 3 late arrivals or early departures will equal 1 absence. **Being absent 5 times will result in losing all the attendance part of your grade, which will make it not possible to have an A**. Students who must miss a class session should notify the instructor (ideally in an email prior to the class meeting) and make up any missed work as soon as possible. The student is responsible for following the course on Canvas and continuing to meet due dates, regardless of absences. A student who anticipates an extended period of absence should immediately inform the faculty and his or her program advisor.
 
-**Participation:** The following 40% grade calculation demonstrates the need for your consistent participation, and equally as important, your active engagement in each step of the learning process.  
+**Participation:** The following 30% grade calculation demonstrates the need for your consistent participation, and equally as important, your active engagement in each step of the learning process.  
 Weekly participation will allow you to successfully complete course projects, get important process feedback and to contribute to our learning community. This is even more important given the making based nature of this course. Missing even one class can cause a significant setback in your ability to meet project/assignment deadlines. **Lack of weekly participation will also have an impact on your grade, which can result in subtracting up to 10% for lack of participation in class discussions or failure to present projects for peer reviews or feedback sessions, 10% for missing in-class exercises and activities, and 10% for failing to use the Learning Portfolio as a tool for reflection**. If you lose the whole 30% of your participation grade, the highest grade you will be able to achieve would be a C, given you get the maximum grades in your projects and have good attendance.
 
 **Students who do not come to class regularly, keep fluid communication with faculty, or participate meaningfully in class week-to-week won’t be able to get an A grade, regardless of how high they score in their projects.**
@@ -241,13 +286,13 @@ Weekly participation will allow you to successfully complete course projects, ge
 
 ## Final Grade Calculation
 
-**Class Participation: 40%**
+**Class Participation: 30%**
 
 - 10% Attendance/ Meeting Due Dates
 - 10% Work-in-progress reviews; class discussions
 - 10% Being prepared for class with the correct tools
 
-**Projects: 60%**
+**Projects: 70%**
 
 - 10% Learning Portfolio engagement
 - 10% Persona & User Journey
