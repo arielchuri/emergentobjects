@@ -45,7 +45,20 @@ Complete the Making Center lab orientation to gain access to tools and equipment
 - Check announcements and upcoming due dates
 - Review the course schedule
 
-### 5. Start Your Utopia/Dystopia Assignment
+### 5. Post Your Introduction
+Introduce yourself to the class! Share a photo and brief info about yourself, plus complete one of the fun improv prompts.
+
+**What you'll do:**
+- Post a photo of yourself
+- Share basic info (name, pronouns, why you're taking the course, etc.)
+- Choose and complete ONE improv prompt (Object as Origin Story, Future Self, Two Truths and a Fabrication, or Your Personal Object)
+- Respond to at least 2 classmates' posts
+
+**Link:** [Introduction Post Assignment](https://github.com/arielchuri/emergentobjects/blob/main/assignments/intro-post.md)
+
+**Due:** Week 2 (Feb 2)
+
+### 6. Start Your Utopia/Dystopia Assignment
 Begin brainstorming your speculative world scenario. This foundational work will guide all your design decisions for the semester.
 
 **Assignment:** Create a utopian or dystopian future scenario and develop a user persona living in that world.
@@ -60,7 +73,7 @@ Begin brainstorming your speculative world scenario. This foundational work will
 
 ## Recommended Tasks
 
-### 6. Review Community Agreements
+### 7. Review Community Agreements
 Read the community agreements section in the syllabus and come prepared to discuss shared values and classroom norms in our first meeting.
 
 **Topics to consider:**
@@ -69,12 +82,12 @@ Read the community agreements section in the syllabus and come prepared to discu
 - Taking creative risks
 - Clear communication
 
-### 7. Gather/Order Supplies
+### 8. Gather/Order Supplies
 Review the materials list in the syllabus and begin gathering or ordering supplies. I have all of the required parts and can bring them in to class.
 
 **Budget:** Approximately $50 for semester supplies
 
-### 8. Explore the Class Repository
+### 9. Explore the Class Repository
 Browse the course GitHub repository to familiarize yourself with available resources, examples, and documentation.
 
 **Link:** [Emergent Objects GitHub Repository](https://github.com/arielchuri/emergentobjects)
@@ -91,6 +104,7 @@ Browse the course GitHub repository to familiarize yourself with available resou
 
 **Come prepared with:**
 - Your completed dev environment setup
+- Your introduction post (with responses to classmates)
 - Initial draft of Utopia/Dystopia assignment
 - Questions about the syllabus or course
 
