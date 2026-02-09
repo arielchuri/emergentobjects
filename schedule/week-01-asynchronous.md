@@ -83,7 +83,7 @@ Read the community agreements section in the syllabus and come prepared to discu
 - Clear communication
 
 ### 8. Gather/Order Supplies
-Review the materials list in the syllabus and begin gathering or ordering supplies. I have all of the required parts and can bring them in to class.
+Review the materials list in the syllabus. I have all of the required parts and can bring them in to class.
 
 **Budget:** Approximately $50 for semester supplies
 
