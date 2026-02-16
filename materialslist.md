@@ -26,6 +26,7 @@ You must Venmo, Zelle, Paypal or cash before.
 
 ![](images/venmo.png)
 ![](images/chase.jpg)
+![](images/paypal.jpg)
 
 ### Solderless Breadboard
 

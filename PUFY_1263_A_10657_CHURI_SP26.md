@@ -10,7 +10,7 @@
 
 **Location:** Parsons 2 W 13th #1013
 
-**Canvas Site:** to be added
+**Canvas Site:** [https://canvas.newschool.edu/courses/1894428](https://canvas.newschool.edu/courses/1894428)
 
 **Instructor:** Ariel Churi
 
