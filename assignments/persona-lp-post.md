@@ -1,16 +1,5 @@
 # Persona Learning Portfolio Post
 
-**Week:** Assigned Week 2, Due Week 4
-**Due:** Feb 23
-**Weight:** Part of Persona & User Journey (10%)
-
-## Learning Outcomes
-
-This assignment maps to the following learning outcomes:
-
-- **LO 4 - Discipline Specific:** Apply design research methodologies and analyze user behaviors to develop detailed personas and user journeys.
-- **LO 7 - Reflection:** Document their process and reflect on their learning via the Parsons Learning Portfolio.
-
 ## Description
 
 Develop a detailed user persona that will inform the design of your emergent object. This persona should represent a potential user living in your chosen utopian or dystopian future scenario.
@@ -35,6 +24,33 @@ Develop a detailed user persona that will inform the design of your emergent obj
   - Visual representation of persona
   - Research documentation
   - Connection to your utopian/dystopian scenario
+
+## Resources
+
+- [Personas, Universal Methods of Design](https://ebookcentral.proquest.com/lib/newschool/reader.action?docID=6039458&ppg=278&c=RVBVQg#)
+
+## Tips
+
+- Create fictional deliverables from other design methodologies in _Universal Methods of Design_ to inform your persona. You could include your fictional results in your post.
+  - Bodystorming
+  - Mind mapping
+  - Cultural probes
+  - Fly-on-the-wall observation
+  - Graffiti walls
+  - Personal inventories
+  - Photo studies
+  - Questionnaires
+  - Role-playing
+  - Storeyboards
+- Base your persona on real people, not stereotypes
+- Think about how your future scenario affects daily life
+- Include specific details that make the persona feel real
+- Consider what problems or needs this person has
+- Your persona should guide your object design decisions
+
+## Use of AI
+
+You are welcome to use AI for the generation of artifacts such as photos of your subject's workspace, a fictional cultural probe, or to create visual documentation such as maps.
 
 ## Grading Rubric
 
@@ -61,17 +77,3 @@ Your persona should:
 - Live within your chosen utopian or dystopian scenario
 - Have specific needs that your object will address
 - Guide all subsequent design decisions
-
-## Resources
-
-- Lecture: The User Persona - Week 2
-- See personas directory for examples
-- Design research methodologies readings (Canvas)
-
-## Tips
-
-- Base your persona on real observations and research, not stereotypes
-- Think about how your future scenario affects daily life
-- Include specific details that make the persona feel real
-- Consider what problems or needs this person has
-- Your persona should guide your object design decisions
