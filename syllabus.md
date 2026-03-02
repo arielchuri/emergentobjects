@@ -10,7 +10,7 @@
 
 **Location:** Parsons 2 W 13th #1013
 
-**Canvas Site:** to be added
+**Canvas Site:** [https://canvas.newschool.edu/courses/1894428](https://canvas.newschool.edu/courses/1894428)
 
 **Instructor:** Ariel Churi
 
@@ -112,7 +112,7 @@ By the successful completion of this course, students will be able, at an introd
 |             |                                                                       |
 | Feb 16      | **NO CLASS – President's Day**                                        |
 |             |                                                                       |
-| **Week 4**  | Feb 23                                                                |
+| **Week 4**  | Feb 23    (snow day)                                                  |
 |             | **Lecture:** Code meets electricity                                   |
 |             | **Demo:** Blinking LEDs with Code                                     |
 |             | **Workshop:** Wiring                                                  |
