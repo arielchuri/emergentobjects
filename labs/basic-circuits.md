@@ -1,7 +1,5 @@
 # Basic Circuits Lab
 
-**Type:** Lab (Complete/Incomplete)
-**Week:** 3
 **Related Lecture:** Electricity Fundamentals
 
 ## Overview
@@ -34,6 +32,10 @@ From your kit:
 - If any component gets hot, disconnect power immediately
 - Never short circuit power to ground directly
 
+## Resources
+
+[Pico Pin-out Diagram](https://github.com/arielchuri/emergentobjects/blob/main/parts/microcontroller_intro/raspberry_pi_Pico-R3-Pinout-narrow.png)
+
 ## Background: Breadboard Basics
 
 Before starting, understand how your breadboard works:
@@ -42,8 +44,8 @@ Before starting, understand how your breadboard works:
 - **Center gap**: The two sides are NOT connected across the center gap
 
 **Convention:**
-- Use the left or right power rail for positive voltage (mark with red wire)
-- Use the opposite rail for ground/GND (mark with black wire)
+- Use the left or right power rail for positive voltage (Red line. Use red wire)
+- Use the opposite rail for ground/GND (Blue line. Use black wire)
 
 ## Part 1: Setting Up Power
 
