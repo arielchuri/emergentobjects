@@ -25,7 +25,7 @@ Following those steps will cause the Raspberry PI Pico to appear as thumbdrive o
 
 ## Raspberry Pi Pico Pinout Diagram
 
-![](../images/graphics/pico_pinout.svg)
+![](../../images/graphics/pico_pinout.svg)
 
 ## Connecting to a circuit
 
