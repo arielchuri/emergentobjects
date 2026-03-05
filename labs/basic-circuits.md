@@ -15,7 +15,7 @@ This hands-on lab introduces fundamental electrical concepts through building an
 
 ## Materials Required
 From your kit:
-- Raspberry Pi Pico (for 3.3V power only - no programming needed)
+- Raspberry Pi Pico (for 3.3V power only - no programming needed) or other USB power source such as your laptop or phone charger.
 - USB cable to power the Pico
 - Breadboard
 - Jumper wires (various lengths)
@@ -27,18 +27,15 @@ From your kit:
 - Light dependent resistor (LDR/photoresistor)
 
 ## Safety Notes
+
 - We're working with low voltage (3.3V) which is very safe
-- Always check polarity before powering your circuit
 - If any component gets hot, disconnect power immediately
 - Never short circuit power to ground directly
-
-## Resources
-
-[Pico Pin-out Diagram](https://github.com/arielchuri/emergentobjects/blob/main/parts/microcontroller_intro/raspberry_pi_Pico-R3-Pinout-narrow.png)
 
 ## Background: Breadboard Basics
 
 Before starting, understand how your breadboard works:
+
 - **Power rails** (the long vertical columns on each side): All holes in a rail are connected
 - **Component rows** (the numbered horizontal rows in the center): Holes in each row segment are connected horizontally (usually 5 holes per segment)
 - **Center gap**: The two sides are NOT connected across the center gap
@@ -52,18 +49,26 @@ Before starting, understand how your breadboard works:
 Before building circuits, set up your power supply.
 
 ### Steps:
+
 1. Connect your Raspberry Pi Pico to your computer via USB
 2. Use a red jumper wire to connect pin 36 (3V3 OUT) on the Pico to the positive (+) power rail on your breadboard
 3. Use a black jumper wire to connect any GND pin on the Pico (pin 3, 8, 13, 18, 23, 28, 33, or 38) to the negative (-) power rail
 
 **Note:** We're using the Pico only as a power source in this lab. No programming required.
 
+![](../images/graphics/first_circuit.svg)
+
+![](../images/graphics/first_circuit_schem.svg)
+
+![](../parts/microcontroller_intro/raspberry_pi_Pico-R3-Pinout-narrow.png)
+
 ### Verify with Multimeter:
+
 4. Set your multimeter to DC voltage mode (V with straight/dashed line, usually 20V range)
-5. Touch the black probe to ground rail, red probe to positive rail
+5. Touch the black probe to ground rail, red probe to positive rail (or jumper wires inserted into those rails)
 6. You should read approximately 3.3V
 
-**Checkpoint:** Show your instructor the voltage reading before proceeding.
+[Multitester Basic Operations](../parts/multitester_basic_color.pdf)
 
 ---
 
@@ -79,20 +84,14 @@ Build the most basic LED circuit to understand polarity and current limiting.
 - Calculation: R = (3.3V - 2V) / 0.020A = 65Ω
 - Since we don't have 65Ω, use 220Ω (safer - slightly less current)
 
-### Circuit Diagram:
-```
-3.3V ---[220Ω]---[LED>]--- GND
-         (resistor) (long leg to resistor)
-```
-
 ### Steps:
 1. Insert a 220Ω resistor into the breadboard: one leg in the + power rail, other leg in a component row (e.g., row 10)
 2. Insert LED long leg in the same row as the resistor (row 10), short leg in a different row (e.g., row 12)
 3. Use a jumper wire from the LED short leg row to the ground rail
 
 ### Measurements:
-4. **Measure voltage across LED:** Touch multimeter probes to each LED leg. What voltage do you read? _______V
-5. **Measure voltage across resistor:** Probes on each resistor leg. What voltage? _______V
+4. **Measure voltage across LED:** Touch multimeter probes to each LED leg. What voltage do you read?
+5. **Measure voltage across resistor:** Probes on each resistor leg. What voltage? 
 6. **Question:** Do the two voltages add up to approximately 3.3V? Why?
 
 ### Calculating Actual Current:
@@ -102,6 +101,8 @@ Build the most basic LED circuit to understand polarity and current limiting.
    - I = _______mA
 
 **Checkpoint:** Verify your LED lights up and record your measurements.
+
+This LED will turn off if you have a short circuit on your board.
 
 ---
 
@@ -235,7 +236,7 @@ GND ----- Pin 3 (outer)
    - Fully clockwise: _______V
 
 ### Add an LED:
-6. Connect the center pin → 220Ω resistor → LED → GND
+5. Connect the center pin → 220Ω resistor → LED → GND
 7. Turn the potentiometer and observe the LED brightness change
 
 ### Understanding:
