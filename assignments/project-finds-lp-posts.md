@@ -15,3 +15,4 @@ The post should include an image, a link to the source. It may include, why it i
 - [Results for "raspberry pi pico" in Instructables](https://www.instructables.com/search/?q=raspberry%20pi%20pico&projects=featured)
 - [Ariel Churi | Are.na](https://www.are.na/ariel-churi/channels)
 - [Projects | Hackaday](https://hackaday.com/tag/projects/)
+- [makeityourself](https://makeityourself.org/)
