@@ -30,25 +30,26 @@ Create a subset of instructions for an MP3 player.
 
 ## I/O Hardware cost
 
+### Output
+
 | Name |USD|
 |---|---|
 | Audio     |  0  |
 |OLED screen  | .20    |
+| LED | .01 |
+| RGB LED  | .08 |
+|  vibration| .09 |
+
+### Input
+
+| Name |USD|
+|---|---|
 |  Touch button   |  .01   |
 |  Mechanical button   |  .04   |
 | potentiometer, slider |  .03 |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|complex mechanical control  |  .05 |
+| touchpad | .12  |
+| rangefinder| .10|
 
 ## Example excerpt from Sony ICF-1C alarm clock
 
