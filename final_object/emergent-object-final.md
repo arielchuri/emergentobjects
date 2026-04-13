@@ -1,8 +1,8 @@
 # Emergent Object - Final Project
 
-**Week:** Assigned Week 3, Due Week 15
-**Due:** May 12 (Final Presentation)
-**Weight:** 20%
+**Week:** Assigned Week 3, Due Week 15 **Due:** May 12 (Final Presentation) **Weight:** 20%
+
+![](images/eo01c.jpg)
 
 ## Learning Outcomes
 
@@ -23,6 +23,7 @@ Design and build a complete, functioning electronic object for a speculative fut
 ## Project Components
 
 This final project synthesizes many previous assignments:
+
 - Utopia/Dystopia scenario
 - User persona
 - User journey
@@ -37,6 +38,7 @@ This final project synthesizes many previous assignments:
 ## Requirements
 
 ### Physical Object
+
 - Fully functioning electronic device
 - Microcontroller-based with custom code
 - Input and output components
@@ -45,6 +47,7 @@ This final project synthesizes many previous assignments:
 - Safe, well-constructed assembly
 
 ### Documentation & Presentation
+
 - Final presentation (5-7 minutes)
 - Demonstrate functionality
 - Explain concept, context, and user
@@ -53,6 +56,7 @@ This final project synthesizes many previous assignments:
 - Professional product photography
 
 ### Technical Requirements
+
 - Working Python code on Raspberry Pi Pico (or similar)
 - At least one input (button, sensor, etc.)
 - At least one output (LED, display, motor, sound, etc.)
@@ -73,7 +77,7 @@ This final project synthesizes many previous assignments:
 This assignment is worth **20% of your final grade** - the largest single assignment.
 
 | Criteria | A (95-100%) | A- / B+ (87-94%) | B / B- (80-86%) | C+ / C (73-79%) | Below C (< 73%) |
-|----------|-------------|------------------|-----------------|-----------------|-----------------|
+| --- | --- | --- | --- | --- | --- |
 | **Concept & Vision (20%)** | Exceptional, thought-provoking concept; sophisticated integration of scenario, user, and object; demonstrates profound critical thinking about futures and technology; compelling and original | Strong, well-developed concept; good integration of elements; demonstrates solid critical thinking; interesting and coherent | Adequate concept; basic integration; demonstrates acceptable thinking; makes sense but not particularly compelling | Weak concept; poor integration; limited critical thinking; disconnected elements or unclear vision | No clear concept; fails to integrate scenario and user; no meaningful vision |
 | **Technical Execution (20%)** | Exceptional technical quality; sophisticated, well-written code; perfectly designed circuits; advanced features; demonstrates mastery; code is exemplary | Strong technical quality; good, clean code; well-designed circuits; solid features; demonstrates competence; code is professional | Adequate technical quality; working code; functional circuits; basic features; demonstrates basic skills; code is acceptable | Poor technical quality; buggy code; problematic circuits; limited features; demonstrates minimal skills | Non-functional or severely flawed technically; code doesn't work or circuits fail |
 | **Craft & Finish (20%)** | Exceptional craftsmanship; professional-level finish; exquisite attention to detail; looks and feels like a real product; museum-quality presentation | Strong craftsmanship; polished finish; good attention to detail; looks professional and well-made; high-quality presentation | Adequate craftsmanship; acceptable finish; basic attention to detail; looks reasonably well-made; acceptable presentation | Poor craftsmanship; rough finish; minimal attention to detail; looks unfinished or sloppy | Severely poor craftsmanship; no finish; no attention to detail; looks broken or incomplete |
@@ -85,22 +89,26 @@ This assignment is worth **20% of your final grade** - the largest single assign
 ### Additional Assessment Considerations
 
 **Iteration & Process (considered across all criteria):**
+
 - Evidence of testing, refinement, and improvement
 - Learning from setbacks and adjusting approach
 - Incorporating feedback from critiques and testing
 - Growth and development over the semester
 
 **Ambition & Risk-Taking:**
+
 - Appropriate level of challenge undertaken
 - Willingness to experiment and try new approaches
 - Balance between ambition and execution
 
 **Integration & Synthesis:**
+
 - Brings together all semester learnings
 - Connects technical skills with conceptual thinking
 - Shows growth in both making and critical reflection
 
 ### Technical Requirements Checklist
+
 - [ ] Working Python code on microcontroller
 - [ ] At least one input (button, sensor, etc.)
 - [ ] At least one output (LED, display, motor, sound)
@@ -111,6 +119,7 @@ This assignment is worth **20% of your final grade** - the largest single assign
 - [ ] Safe construction
 
 ### Presentation Requirements
+
 - [ ] 5-7 minute presentation
 - [ ] Context: speculative scenario (1 min)
 - [ ] User: persona and needs (1 min)
@@ -120,6 +129,7 @@ This assignment is worth **20% of your final grade** - the largest single assign
 - [ ] Prepared for questions
 
 ### Documentation Requirements
+
 - [ ] Minimum 5 professional product photographs
 - [ ] Complete code submitted and commented
 - [ ] Final circuit schematic/diagram
@@ -127,6 +137,7 @@ This assignment is worth **20% of your final grade** - the largest single assign
 - [ ] Process documentation throughout semester
 
 ### What Defines Exceptional Work (A Range)
+
 - Goes beyond requirements in meaningful ways
 - Demonstrates deep engagement with course concepts
 - Shows sophisticated technical and conceptual integration
@@ -135,6 +146,7 @@ This assignment is worth **20% of your final grade** - the largest single assign
 - Professional quality appropriate to first-year student with this training
 
 ### What Defines Satisfactory Work (B Range)
+
 - Meets all requirements competently
 - Demonstrates solid understanding of concepts
 - Shows good technical and conceptual work
@@ -177,6 +189,7 @@ This assignment is worth **20% of your final grade** - the largest single assign
 ## Presentation Guidelines
 
 Your 5-7 minute presentation should include:
+
 1. **Context** (1 min) - Your speculative scenario
 2. **User** (1 min) - Your persona and their needs
 3. **Demonstration** (2-3 min) - Show how it works
