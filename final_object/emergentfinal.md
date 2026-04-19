@@ -66,6 +66,36 @@ Block diagram describing the process of using the interface.
 
 This diagram was created in [_Libreoffice Draw_](https://www.libreoffice.org). [functional-diagram.odg](./functional-diagram/functional-diagram.odg)
 
+## Pseudo Code
+
+```
+Read time from RTC and write it to the display.
+Check if button A is pressed
+  Show alarm time
+  Check if button released < 3 seconds (tap)
+    Toggle alarm on/off
+  Else > 3 seconds (hold)
+    Flash alarm hour
+      buttons +/-
+        change hour
+    button A
+    Flash alarm minute
+      buttons +/-
+        change minute
+    button A
+      Show time
+  Check if button +/- BOTH released > 3 seconds
+    Flash time hour
+      buttons +/-
+        change hour
+    button A
+    Flash time minute
+      buttons +/-
+        change minute
+    button A
+      back to top of code
+```
+
 ## Mechanical Drawing
 
 A document showing the construction and measurements of the object.
