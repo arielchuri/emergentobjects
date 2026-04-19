@@ -28,11 +28,19 @@ This document describes the process and the first two deliverables required for 
 - [ ] Code (py)
 - [ ] Documentation post (_Learning Portfolio_)
 
+### Process Diagram
+
+![Creation Process Diagram](images/process.png)
+
+This diagram shows the relationship of the deliverables to the overall phases of the project. Please note that most of the deliverables take place in the beginning of the project.
+
+<!-- [Direct link to diagram](https://arielchuri.github.io/emergentobjects/finalproject/images/process.png) -->
+
 ## Proposal Document
 
 <!-- ![](images/document.png) -->
 
-Include:
+**A*Learning Portfolio* post which includes:**
 
 - A working title for the object.
 - A description of the object.
@@ -42,7 +50,7 @@ Include:
 
 ## Inspiration Board
 
-![](images/inspiration.png)
+![Mood Board](images/inspiration.png)
 
 Create a board using [Miro](https://miro.com) and layout a collection of images and links. Use this board as a place to both, help design the look and feel of the object you want to create, and collate inspirational or similar projects that you find in your research. You will post a link to your board to Canvas but please share a link with me at [churia@newschool](mailto:churia@newschool.edu) as soon as you have a few items inserted.
 
@@ -50,17 +58,21 @@ Include at least 20 images and links to at least 5 specific projects.
 
 [Pictured Miro board](https://miro.com/app/board/uXjVOGnSf2I=/?invite_link_id=927030846115)
 
-## Process Diagram
+## Functional Diagram
 
-![](images/process.png)
+Block diagram describing the process of using the interface.
 
-This diagram shows the relationship of the deliverables to the overall phases of the project. Please note that most of the deliverables take place in the beginning of the project.
+![](functional-diagram/functional-diagram.svg)
 
-[Direct link to diagram](https://arielchuri.github.io/emergentobjects/finalproject/images/process.png)
+This diagram was created in [_Libreoffice Draw_](https://www.libreoffice.org). [functional-diagram.odg](./functional-diagram/functional-diagram.odg)
 
 ## Mechanical Drawing
 
+A document showing the construction and measurements of the object.
+
 ![Orgone Projector drawing](images/mechanical-m.svg)
+
+This document was created in [\_Inkscape](https://inkscape.org). [mechanical-m.svg](./images/mechanical-m.svg), [isometcric-drawing.svg](./mechanical_drawing/isometric_drawing.svg)
 
 ![Orgone Projector drawing](images/projector_mech.png)
 
@@ -72,14 +84,28 @@ This diagram shows the relationship of the deliverables to the overall phases of
 
 ## Bill of Materials
 
-| Name | Type | Qty. | Link | Measurements |
-| --- | --- | --- | --- | --- |
-| Acrylic | Matte White |  |  | 2"x2"x2" and/or link to data |
-|  | Smoked |  |  |  |
-|  | Clear, green edge |  |  |  |
-| Arduino UNO |  |  |  |  |
-| Mini breadboard |  |  |  |  |
-| Resistor | 1M | 1 |  |  |
-| Neopixel | 8mm | 2 | [source](https://www.adafruit.com/product/1734) | [data](https://www.adafruit.com/images/product-files/1138/SK6812%20LED%20datasheet%20.pdf) |
-| Jumper wires |  |  |  |  |
-| Double-sided tape |  |  |  |  |
+| Name              | Type              | Qty. | Link                                            | Measurements                                                                               |
+| ----------------- | ----------------- | ---- | ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Acrylic           | Matte White       |      |                                                 | 2"x2"x2" and/or link to data                                                               |
+|                   | Smoked            |      |                                                 |                                                                                            |
+|                   | Clear, green edge |      |                                                 |                                                                                            |
+| Arduino UNO       |                   |      |                                                 |                                                                                            |
+| Mini breadboard   |                   |      |                                                 |                                                                                            |
+| Resistor          | 1M                | 1    |                                                 |                                                                                            |
+| Neopixel          | 8mm               | 2    | [source](https://www.adafruit.com/product/1734) | [data](https://www.adafruit.com/images/product-files/1138/SK6812%20LED%20datasheet%20.pdf) |
+| Jumper wires      |                   |      |                                                 |                                                                                            |
+| Double-sided tape |                   |      |                                                 |                                                                                            |
+
+```
+| Name              | Type              | Qty. | Link | Measurements                 |
+| ----------------- | ----------------- | ---- | ---- | ---------------------------- |
+| Acrylic           | Matte White       |      |      | 2"x2"x2" and/or link to data |
+|                   | Smoked            |      |      |                              |
+|                   | Clear, green edge |      |      |                              |
+| Arduino UNO       |                   |      |      |                              |
+| Mini breadboard   |                   |      |      |                              |
+| Resistor          | 1M                | 1    |      |                              |
+| Neopixel          | 8mm               | 2    |      |                              |
+| Jumper wires      |                   |      |      |                              |
+| Double-sided tape |                   |      |      |                              |
+```
