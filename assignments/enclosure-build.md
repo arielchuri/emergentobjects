@@ -1,4 +1,4 @@
-# Enclosure Build
+# enclosure Build
 
 **Week:** Assigned Week 9, Due Week 11
 **Due:** Apr 20
@@ -41,14 +41,15 @@ Build the physical enclosure for your emergent object. This housing should prote
 
 This assignment is part of the **Final Emergent Object** (20% of final grade).
 
-| Criteria | A (95-100%) | A- / B+ (87-94%) | B / B- (80-86%) | C+ / C (73-79%) | Below C (< 73%) |
-|----------|-------------|------------------|-----------------|-----------------|-----------------|
-| **Functionality (35%)** | Perfect fit for all components; excellent access to all inputs/outputs; thoughtful wire routing; easy maintenance access; innovative functional solutions; exceeds expectations | Good fit for components; good access to inputs/outputs; adequate wire routing; reasonable maintenance access; solid functional design | Acceptable fit; adequate access; basic wire routing; some maintenance access; meets minimum functional requirements | Poor fit; limited access; problematic wire routing; difficult maintenance; functional issues | Doesn't fit components; no access; impossible maintenance; non-functional |
-| **Craft Quality (30%)** | Exceptional craftsmanship; professional-level finish; flawless construction; exquisite attention to detail; museum-quality; beautiful | Strong craftsmanship; polished finish; clean construction; good attention to detail; professional appearance; attractive | Adequate craftsmanship; acceptable finish; competent construction; basic attention to detail; reasonably well-made | Poor craftsmanship; rough finish; sloppy construction; minimal attention to detail; looks unfinished | Severely poor craftsmanship; no finish; broken or failing construction |
-| **Design Integration (20%)** | Enclosure brilliantly embodies concept; form perfectly serves function; exceptional consideration of user experience; innovative design solutions; enhances object meaning | Enclosure well-supports concept; form serves function well; good UX consideration; thoughtful design; supports object meaning | Enclosure adequately relates to concept; form serves basic function; acceptable UX; reasonable design; doesn't detract from concept | Enclosure weakly relates to concept; form barely serves function; poor UX; minimal design thought; detracts from concept | No meaningful design integration; form doesn't serve function; ignores UX and concept |
-| **Structural Integrity (15%)** | Exceptionally sturdy and durable; perfect structural design; will withstand extensive use; professional engineering; robust | Strong and durable; good structural design; will withstand normal use; solid engineering; reliable | Adequately sturdy; acceptable structure; will survive basic use; competent engineering; functional | Weak structure; questionable durability; may not survive use; poor engineering; fragile | Structurally unsound; will not survive use; failing construction; dangerous |
+| Criteria                       | A (95-100%)                                                                                                                                                                     | A- / B+ (87-94%)                                                                                                                      | B / B- (80-86%)                                                                                                                     | C+ / C (73-79%)                                                                                                          | Below C (< 73%)                                                                       |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| **Functionality (35%)**        | Perfect fit for all components; excellent access to all inputs/outputs; thoughtful wire routing; easy maintenance access; innovative functional solutions; exceeds expectations | Good fit for components; good access to inputs/outputs; adequate wire routing; reasonable maintenance access; solid functional design | Acceptable fit; adequate access; basic wire routing; some maintenance access; meets minimum functional requirements                 | Poor fit; limited access; problematic wire routing; difficult maintenance; functional issues                             | Doesn't fit components; no access; impossible maintenance; non-functional             |
+| **Craft Quality (30%)**        | Exceptional craftsmanship; professional-level finish; flawless construction; exquisite attention to detail; museum-quality; beautiful                                           | Strong craftsmanship; polished finish; clean construction; good attention to detail; professional appearance; attractive              | Adequate craftsmanship; acceptable finish; competent construction; basic attention to detail; reasonably well-made                  | Poor craftsmanship; rough finish; sloppy construction; minimal attention to detail; looks unfinished                     | Severely poor craftsmanship; no finish; broken or failing construction                |
+| **Design Integration (20%)**   | Enclosure brilliantly embodies concept; form perfectly serves function; exceptional consideration of user experience; innovative design solutions; enhances object meaning      | Enclosure well-supports concept; form serves function well; good UX consideration; thoughtful design; supports object meaning         | Enclosure adequately relates to concept; form serves basic function; acceptable UX; reasonable design; doesn't detract from concept | Enclosure weakly relates to concept; form barely serves function; poor UX; minimal design thought; detracts from concept | No meaningful design integration; form doesn't serve function; ignores UX and concept |
+| **Structural Integrity (15%)** | Exceptionally sturdy and durable; perfect structural design; will withstand extensive use; professional engineering; robust                                                     | Strong and durable; good structural design; will withstand normal use; solid engineering; reliable                                    | Adequately sturdy; acceptable structure; will survive basic use; competent engineering; functional                                  | Weak structure; questionable durability; may not survive use; poor engineering; fragile                                  | Structurally unsound; will not survive use; failing construction; dangerous           |
 
 ### Required Deliverables Checklist
+
 - [ ] Completed physical enclosure
 - [ ] Houses all electronic components safely
 - [ ] Provides access to inputs (buttons, sensors)
@@ -62,7 +63,9 @@ This assignment is part of the **Final Emergent Object** (20% of final grade).
   - [ ] Scale reference
 
 ### Construction Quality Indicators
+
 **Excellent enclosures demonstrate:**
+
 - Clean, precise cuts and joins
 - Smooth, finished surfaces
 - Careful material selection
@@ -72,6 +75,7 @@ This assignment is part of the **Final Emergent Object** (20% of final grade).
 - User-friendly access
 
 **Common issues to avoid:**
+
 - Rough, unfinished edges
 - Gaps and poor fit
 - Weak joints
@@ -80,6 +84,7 @@ This assignment is part of the **Final Emergent Object** (20% of final grade).
 - Structural weakness
 
 ### Assessment Focus
+
 - **Making skills:** Translating design into physical form
 - **Problem-solving:** Working through construction challenges
 - **Material understanding:** Appropriate techniques for materials
@@ -87,7 +92,9 @@ This assignment is part of the **Final Emergent Object** (20% of final grade).
 - **Finish:** Taking time for final quality
 
 ### Relationship to Final Grade
+
 The enclosure is critical to final project success:
+
 - Protects your electronics
 - Enables intended interactions
 - Communicates your design vision
@@ -113,3 +120,7 @@ The enclosure is critical to final project success:
 - Test fit components before final assembly
 - Leave space for final adjustments
 - Consider how the enclosure relates to your speculative scenario
+
+## Gallery
+
+<img src="images/bitaxe.jpg" style="width:33%"> <img src="images/brainiac.jpg" style="width:23%"> <img src="images/cassettetape.jpg" style="width:33%"> <img src="images/metal-enclosure.jpg" style="width:33%"> <img src="images/nasa-comm.jpg" style="width:33%"> <img src="images/pocket-master.jpg" style="width:33%"> <img src="images/pocket-operator.jpg" style="width:23%"> <img src="images/pyramid.jpg" style="width:33%"> <img src="images/sandwhich2.webp" style="width:33%"> <img src="images/sandwich.jpg" style="width:33%"> <img src="images/teenage-engineering-riddim-n-ting-sampler-dyke-dean-2014642.webp" style="width:33%"> <img src="images/wood-enclosure.jpg" style="width:33%"><img src="images/cassette-frame.png" style="width:33%"> <img src="images/muo-cardboard-external-hdd-bytepac.avif" style="width:33%"> <img src="images/debff4eafe8ced45a71f340ccf880985.jpg" style="width:33%"> <img src="images/Custom-Package-Interior.webp" style="width:33%">
